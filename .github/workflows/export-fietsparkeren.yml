@@ -21,7 +21,13 @@ jobs:
         uses: actions/checkout@v4
 
       # 2. Overpass query uitvoeren
-      - name: Run Overpass query
+      - name: Install osmtogeojson
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y npm
+          npm install -g osmtogeojson
+
+      - name: Run Overpass query (OSM JSON)
         run: |
           mkdir -p data
           curl -sS --fail \
@@ -29,7 +35,12 @@ jobs:
             -X POST \
             --data-binary @query.overpassql \
             https://overpass-api.de/api/interpreter \
-            -o data/bicycle_parking_deventer.json
+            -o data/bicycle_parking_deventer.osm.json
+
+      - name: Convert to GeoJSON
+        run: |
+          osmtogeojson data/bicycle_parking_deventer.osm.json \
+            > data/bicycle_parking_deventer.geojson
 
       # 3. Commit alleen als er echt iets veranderd is
       - name: Commit result if changed
@@ -38,7 +49,7 @@ jobs:
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
           if git status --porcelain | grep -q .; then
-            git add data/bicycle_parking_deventer.json
+            git add data/bicycle_parking_deventer.geojson
             git commit -m "Monthly OSM export bicycle parking Deventer"
             git push
           else
