@@ -1,0 +1,3707 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.11 87bfad18",
+  "osm3s": {
+    "timestamp_osm_base": "2026-04-23T14:01:43Z",
+    "timestamp_areas_base": "2026-04-23T05:15:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 1777396183,
+  "lat": 52.2643152,
+  "lon": 6.2069028,
+  "tags": {
+    "amenity": "bicycle_parking"
+  }
+},
+{
+  "type": "node",
+  "id": 1837050320,
+  "lat": 52.2561320,
+  "lon": 6.1621529,
+  "tags": {
+    "access": "private",
+    "amenity": "bicycle_parking",
+    "bicycle_parking": "building",
+    "capacity": "100",
+    "covered": "no",
+    "fee": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 3428581412,
+  "lat": 52.2569537,
+  "lon": 6.2177641,
+  "tags": {
+    "amenity": "bicycle_parking",
+    "bicycle_parking": "stands",
+    "capacity": "8",
+    "check_date": "2023-10-22",
+    "covered": "no",
+    "fee": "no",
+    "lit": "yes",
+    "supervised": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 5702825687,
+  "lat": 52.2491062,
+  "lon": 6.1395402,
+  "tags": {
+    "amenity": "bicycle_parking",
+    "bicycle_parking": "stands"
+  }
+},
+{
+  "type": "node",
+  "id": 9500574161,
+  "lat": 52.2546990,
+  "lon": 6.1569892,
+  "tags": {
+    "amenity": "bicycle_parking",
+    "bicycle_parking": "stands",
+    "capacity": "64",
+    "covered": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 9653910806,
+  "lat": 52.2601646,
+  "lon": 6.1548538,
+  "tags": {
+    "access": "customers",
+    "amenity": "bicycle_parking",
+    "bicycle_parking": "wall_loops",
+    "capacity": "25",
+    "covered": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 9654315726,
+  "lat": 52.2667725,
+  "lon": 6.1430775,
+  "tags": {
+    "amenity": "bicycle_parking",
+    "covered": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 9655941713,
+  "lat": 52.2695558,
+  "lon": 6.1637279,
+  "tags": {
+    "access": "yes",
+    "amenity": "bicycle_parking",
+    "bicycle_parking": "stands",
+    "capacity": "20",
+    "fee": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 9655941714,
+  "lat": 52.2697802,
+  "lon": 6.1642435,
+  "tags": {
+    "access": "yes",
+    "amenity": "bicycle_parking",
+    "bicycle_parking": "stands",
+    "capacity": "16",
+    "covered": "no",
+    "fee": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 9655997544,
+  "lat": 52.2684833,
+  "lon": 6.1644062,
+  "tags": {
+    "access": "yes",
+    "amenity": "bicycle_parking",
+    "bicycle_parking": "stands",
+    "capacity": "12",
+    "fee": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 9655997546,
+  "lat": 52.2685992,
+  "lon": 6.1641738,
+  "tags": {
+    "access": "yes",
+    "amenity": "bicycle_parking",
+    "bicycle_parking": "stands",
+    "capacity": "54",
+    "covered": "no",
+    "fee": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 9930084915,
+  "lat": 52.2415450,
+  "lon": 6.2032090,
+  "tags": {
+    "access": "private",
+    "amenity": "bicycle_parking"
+  }
+},
+{
+  "type": "node",
+  "id": 11156679782,
+  "lat": 52.2770861,
+  "lon": 6.1581216,
+  "tags": {
+    "access": "private",
+    "amenity": "bicycle_parking"
+  }
+},
+{
+  "type": "node",
+  "id": 11465239259,
+  "lat": 52.2437818,
+  "lon": 6.3121630,
+  "tags": {
+    "amenity": "bicycle_parking",
+    "capacity": "6",
+    "covered": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 12124311740,
+  "lat": 52.2550385,
+  "lon": 6.1608818,
+  "tags": {
+    "amenity": "bicycle_parking",
+    "bicycle_parking": "stands",
+    "capacity": "4",
+    "covered": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 12915275906,
+  "lat": 52.3077426,
+  "lon": 6.1940032,
+  "tags": {
+    "amenity": "bicycle_parking"
+  }
+},
+{
+  "type": "node",
+  "id": 13050220305,
+  "lat": 52.2424422,
+  "lon": 6.1934835,
+  "tags": {
+    "amenity": "bicycle_parking",
+    "capacity": "6"
+  }
+},
+{
+  "type": "node",
+  "id": 13372404178,
+  "lat": 52.2475191,
+  "lon": 6.1994044,
+  "tags": {
+    "amenity": "bicycle_parking"
+  }
+},
+{
+  "type": "node",
+  "id": 13372404179,
+  "lat": 52.2479625,
+  "lon": 6.2000830,
+  "tags": {
+    "amenity": "bicycle_parking"
+  }
+},
+{
+  "type": "node",
+  "id": 13372497784,
+  "lat": 52.2466815,
+  "lon": 6.1951780,
+  "tags": {
+    "amenity": "bicycle_parking",
+    "capacity": "20"
+  }
+},
+{
+  "type": "node",
+  "id": 13372497785,
+  "lat": 52.2468856,
+  "lon": 6.1954851,
+  "tags": {
+    "amenity": "bicycle_parking",
+    "capacity": "20"
+  }
+},
+{
+  "type": "node",
+  "id": 13372497786,
+  "lat": 52.2471631,
+  "lon": 6.1959055,
+  "tags": {
+    "amenity": "bicycle_parking",
+    "capacity": "20"
+  }
+},
+{
+  "type": "node",
+  "id": 13387177138,
+  "lat": 52.2364549,
+  "lon": 6.1889320,
+  "tags": {
+    "access": "private",
+    "amenity": "bicycle_parking",
+    "bicycle_parking": "shed",
+    "covered": "yes",
+    "fee": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 13546496685,
+  "lat": 52.2522515,
+  "lon": 6.1557885,
+  "tags": {
+    "access": "yes",
+    "amenity": "bicycle_parking",
+    "bicycle_parking": "stands",
+    "capacity": "6",
+    "check_date": "2026-02-12",
+    "covered": "no",
+    "fee": "no",
+    "operator": "Gemeente Deventer"
+  }
+},
+{
+  "type": "node",
+  "id": 13546545033,
+  "lat": 52.2522073,
+  "lon": 6.1558850,
+  "tags": {
+    "access": "yes",
+    "amenity": "bicycle_parking",
+    "bicycle_parking": "stands",
+    "capacity": "6",
+    "check_date": "2026-02-12",
+    "covered": "no",
+    "fee": "no",
+    "operator": "Gemeente Deventer"
+  }
+},
+{
+  "type": "node",
+  "id": 13546545034,
+  "lat": 52.2521425,
+  "lon": 6.1559411,
+  "tags": {
+    "access": "yes",
+    "amenity": "bicycle_parking",
+    "bicycle_parking": "stands",
+    "capacity": "6",
+    "check_date": "2026-02-12",
+    "covered": "no",
+    "fee": "no",
+    "operator": "Gemeente Deventer"
+  }
+},
+{
+  "type": "node",
+  "id": 13546551949,
+  "lat": 52.2518212,
+  "lon": 6.1556879,
+  "tags": {
+    "access": "yes",
+    "amenity": "bicycle_parking",
+    "bicycle_parking": "stands",
+    "capacity": "8",
+    "check_date": "2026-02-12",
+    "covered": "no",
+    "fee": "no",
+    "operator": "Gemeente Deventer"
+  }
+},
+{
+  "type": "node",
+  "id": 13546628227,
+  "lat": 52.2516685,
+  "lon": 6.1547012,
+  "tags": {
+    "access": "yes",
+    "amenity": "bicycle_parking",
+    "bicycle_parking": "stands",
+    "capacity": "4",
+    "check_date": "2026-02-12",
+    "covered": "no",
+    "fee": "no",
+    "operator": "Gemeente Deventer"
+  }
+},
+{
+  "type": "node",
+  "id": 13546628228,
+  "lat": 52.2517133,
+  "lon": 6.1545788,
+  "tags": {
+    "access": "yes",
+    "amenity": "bicycle_parking",
+    "bicycle_parking": "stands",
+    "capacity": "8",
+    "check_date": "2026-02-12",
+    "covered": "no",
+    "fee": "no",
+    "operator": "Gemeente Deventer"
+  }
+},
+{
+  "type": "node",
+  "id": 13546809609,
+  "lat": 52.2532569,
+  "lon": 6.1649639,
+  "tags": {
+    "access": "yes",
+    "amenity": "bicycle_parking",
+    "bicycle_parking": "stands",
+    "capacity": "30",
+    "covered": "no",
+    "fee": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 13546809610,
+  "lat": 52.2532703,
+  "lon": 6.1652333,
+  "tags": {
+    "access": "yes",
+    "amenity": "bicycle_parking",
+    "bicycle_parking": "stands",
+    "capacity": "24",
+    "covered": "no",
+    "fee": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 13570293261,
+  "lat": 52.2533502,
+  "lon": 6.1660519,
+  "tags": {
+    "access": "yes",
+    "amenity": "bicycle_parking",
+    "bicycle_parking": "stands",
+    "capacity": "30",
+    "fee": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 13570293262,
+  "lat": 52.2534119,
+  "lon": 6.1661127,
+  "tags": {
+    "access": "yes",
+    "amenity": "bicycle_parking",
+    "bicycle_parking": "stands",
+    "capacity": "16",
+    "fee": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 13570293263,
+  "lat": 52.2533904,
+  "lon": 6.1657779,
+  "tags": {
+    "access": "yes",
+    "amenity": "bicycle_parking",
+    "bicycle_parking": "stands",
+    "capacity": "16",
+    "fee": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 13570293264,
+  "lat": 52.2533763,
+  "lon": 6.1655497,
+  "tags": {
+    "access": "yes",
+    "amenity": "bicycle_parking",
+    "bicycle_parking": "stands",
+    "capacity": "16",
+    "fee": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 13570293265,
+  "lat": 52.2533526,
+  "lon": 6.1651425,
+  "tags": {
+    "access": "yes",
+    "amenity": "bicycle_parking",
+    "bicycle_parking": "stands",
+    "capacity": "32",
+    "fee": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 13570316000,
+  "lat": 52.2684598,
+  "lon": 6.1639450,
+  "tags": {
+    "access": "yes",
+    "amenity": "bicycle_parking",
+    "bicycle_parking": "stands",
+    "capacity": "14",
+    "fee": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 13570346691,
+  "lat": 52.2556249,
+  "lon": 6.1612467,
+  "tags": {
+    "access": "yes",
+    "amenity": "bicycle_parking",
+    "bicycle_parking": "stands",
+    "capacity": "14",
+    "fee": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 13570346692,
+  "lat": 52.2556865,
+  "lon": 6.1611700,
+  "tags": {
+    "access": "yes",
+    "amenity": "bicycle_parking",
+    "bicycle_parking": "stands",
+    "capacity": "4",
+    "fee": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 13570346693,
+  "lat": 52.2553662,
+  "lon": 6.1610868,
+  "tags": {
+    "access": "yes",
+    "amenity": "bicycle_parking",
+    "bicycle_parking": "stands",
+    "capacity": "14",
+    "fee": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 13570346694,
+  "lat": 52.2554057,
+  "lon": 6.1609958,
+  "tags": {
+    "access": "yes",
+    "amenity": "bicycle_parking",
+    "bicycle_parking": "stands",
+    "capacity": "4",
+    "fee": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 13570346695,
+  "lat": 52.2553506,
+  "lon": 6.1609636,
+  "tags": {
+    "access": "yes",
+    "amenity": "bicycle_parking",
+    "bicycle_parking": "stands",
+    "capacity": "4",
+    "fee": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 13570346696,
+  "lat": 52.2551245,
+  "lon": 6.1608218,
+  "tags": {
+    "access": "yes",
+    "amenity": "bicycle_parking",
+    "bicycle_parking": "stands",
+    "capacity": "12",
+    "fee": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 13570346697,
+  "lat": 52.2533505,
+  "lon": 6.1553828,
+  "tags": {
+    "access": "yes",
+    "amenity": "bicycle_parking",
+    "bicycle_parking": "stands",
+    "capacity": "4",
+    "fee": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 13570346698,
+  "lat": 52.2546671,
+  "lon": 6.1557984,
+  "tags": {
+    "access": "yes",
+    "amenity": "bicycle_parking",
+    "bicycle_parking": "wall_loops",
+    "capacity": "40",
+    "fee": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 13570378301,
+  "lat": 52.2682486,
+  "lon": 6.1635946,
+  "tags": {
+    "access": "yes",
+    "amenity": "bicycle_parking",
+    "bicycle_parking": "stands",
+    "fee": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 13570678248,
+  "lat": 52.2606397,
+  "lon": 6.2245350,
+  "tags": {
+    "access": "yes",
+    "amenity": "bicycle_parking",
+    "bicycle_parking": "stands",
+    "capacity": "62",
+    "fee": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 13570678249,
+  "lat": 52.2604965,
+  "lon": 6.2247690,
+  "tags": {
+    "access": "yes",
+    "amenity": "bicycle_parking",
+    "bicycle_parking": "stands",
+    "capacity": "22",
+    "fee": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 13570678250,
+  "lat": 52.2605247,
+  "lon": 6.2250542,
+  "tags": {
+    "access": "yes",
+    "amenity": "bicycle_parking",
+    "bicycle_parking": "stands",
+    "capacity": "22",
+    "fee": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 13570678251,
+  "lat": 52.2605573,
+  "lon": 6.2253623,
+  "tags": {
+    "access": "yes",
+    "amenity": "bicycle_parking",
+    "bicycle_parking": "stands",
+    "capacity": "22",
+    "fee": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 13570678252,
+  "lat": 52.2603183,
+  "lon": 6.2254864,
+  "tags": {
+    "access": "yes",
+    "amenity": "bicycle_parking",
+    "bicycle_parking": "stands",
+    "capacity": "12",
+    "fee": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 13570683650,
+  "lat": 52.2598672,
+  "lon": 6.1735643,
+  "tags": {
+    "access": "yes",
+    "amenity": "bicycle_parking",
+    "bicycle_parking": "handlebar_holder",
+    "capacity": "396",
+    "fee": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 13570683651,
+  "lat": 52.2588316,
+  "lon": 6.1507034,
+  "tags": {
+    "access": "yes",
+    "amenity": "bicycle_parking",
+    "bicycle_parking": "stands",
+    "capacity": "46",
+    "fee": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 13570683652,
+  "lat": 52.2591571,
+  "lon": 6.1721075,
+  "tags": {
+    "access": "yes",
+    "amenity": "bicycle_parking",
+    "bicycle_parking": "wall_loops",
+    "fee": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 13570683653,
+  "lat": 52.2886477,
+  "lon": 6.1455612,
+  "tags": {
+    "access": "yes",
+    "amenity": "bicycle_parking",
+    "bicycle_parking": "wall_loops",
+    "capacity": "18",
+    "fee": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 13570683654,
+  "lat": 52.2902512,
+  "lon": 6.1461584,
+  "tags": {
+    "access": "yes",
+    "amenity": "bicycle_parking",
+    "bicycle_parking": "wall_loops",
+    "capacity": "14",
+    "fee": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 13570683655,
+  "lat": 52.2901435,
+  "lon": 6.1460034,
+  "tags": {
+    "access": "yes",
+    "amenity": "bicycle_parking",
+    "bicycle_parking": "wall_loops",
+    "capacity": "16",
+    "fee": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 13570683656,
+  "lat": 52.2899827,
+  "lon": 6.1458970,
+  "tags": {
+    "access": "yes",
+    "amenity": "bicycle_parking",
+    "bicycle_parking": "stands",
+    "capacity": "12",
+    "fee": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 13570683657,
+  "lat": 52.2900878,
+  "lon": 6.1453729,
+  "tags": {
+    "access": "yes",
+    "amenity": "bicycle_parking",
+    "bicycle_parking": "wall_loops",
+    "capacity": "4",
+    "fee": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 13602876239,
+  "lat": 52.2529019,
+  "lon": 6.1658821,
+  "tags": {
+    "amenity": "bicycle_parking",
+    "bicycle_parking": "stands",
+    "capacity": "14"
+  }
+},
+{
+  "type": "node",
+  "id": 13602876240,
+  "lat": 52.2530295,
+  "lon": 6.1658621,
+  "tags": {
+    "amenity": "bicycle_parking",
+    "bicycle_parking": "stands",
+    "capacity": "16"
+  }
+},
+{
+  "type": "node",
+  "id": 13602981118,
+  "lat": 52.2527048,
+  "lon": 6.1657407,
+  "tags": {
+    "amenity": "bicycle_parking",
+    "bicycle_parking": "stands",
+    "capacity": "38"
+  }
+},
+{
+  "type": "node",
+  "id": 13602981119,
+  "lat": 52.2494577,
+  "lon": 6.1518594,
+  "tags": {
+    "amenity": "bicycle_parking",
+    "bicycle_parking": "stands",
+    "capacity": "30",
+    "covered": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 13602981120,
+  "lat": 52.2521861,
+  "lon": 6.1537335,
+  "tags": {
+    "amenity": "bicycle_parking",
+    "bicycle_parking": "stands",
+    "capacity": "16"
+  }
+},
+{
+  "type": "node",
+  "id": 13602981121,
+  "lat": 52.2523279,
+  "lon": 6.1541124,
+  "tags": {
+    "amenity": "bicycle_parking",
+    "bicycle_parking": "stands",
+    "capacity": "10"
+  }
+},
+{
+  "type": "node",
+  "id": 13665688500,
+  "lat": 52.2744196,
+  "lon": 6.1390527,
+  "tags": {
+    "amenity": "bicycle_parking",
+    "bicycle_parking": "wall_loops",
+    "capacity": "10"
+  }
+},
+{
+  "type": "node",
+  "id": 13714763488,
+  "lat": 52.2613490,
+  "lon": 6.2261051,
+  "tags": {
+    "access": "yes",
+    "amenity": "bicycle_parking",
+    "bicycle_parking": "wall_loops",
+    "capacity": "24",
+    "covered": "no",
+    "fee": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 13714763489,
+  "lat": 52.2618946,
+  "lon": 6.2252935,
+  "tags": {
+    "access": "yes",
+    "amenity": "bicycle_parking",
+    "bicycle_parking": "stands",
+    "capacity": "12",
+    "covered": "no",
+    "fee": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 13717163596,
+  "lat": 52.2597529,
+  "lon": 6.1504005,
+  "tags": {
+    "access": "yes",
+    "amenity": "bicycle_parking",
+    "bicycle_parking": "wall_loops",
+    "capacity": "5",
+    "covered": "no",
+    "fee": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 13717163599,
+  "lat": 52.2604504,
+  "lon": 6.1509978,
+  "tags": {
+    "access": "yes",
+    "amenity": "bicycle_parking",
+    "bicycle_parking": "wall_loops",
+    "capacity": "3",
+    "covered": "no",
+    "fee": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 13717163600,
+  "lat": 52.2587417,
+  "lon": 6.1498550,
+  "tags": {
+    "access": "yes",
+    "amenity": "bicycle_parking",
+    "bicycle_parking": "wall_loops",
+    "capacity": "9",
+    "covered": "no",
+    "fee": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 13717189401,
+  "lat": 52.2584495,
+  "lon": 6.1496845,
+  "tags": {
+    "access": "yes",
+    "amenity": "bicycle_parking",
+    "bicycle_parking": "wall_loops",
+    "capacity": "3",
+    "covered": "no",
+    "fee": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 13717189402,
+  "lat": 52.2592864,
+  "lon": 6.1501381,
+  "tags": {
+    "access": "yes",
+    "amenity": "bicycle_parking",
+    "bicycle_parking": "wall_loops",
+    "capacity": "4",
+    "covered": "no",
+    "fee": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 13717189403,
+  "lat": 52.2594418,
+  "lon": 6.1502133,
+  "tags": {
+    "access": "yes",
+    "amenity": "bicycle_parking",
+    "bicycle_parking": "wall_loops",
+    "capacity": "4",
+    "covered": "no",
+    "fee": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 13717189404,
+  "lat": 52.2595993,
+  "lon": 6.1503233,
+  "tags": {
+    "access": "yes",
+    "amenity": "bicycle_parking",
+    "bicycle_parking": "wall_loops",
+    "capacity": "5",
+    "covered": "no",
+    "fee": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 13717189405,
+  "lat": 52.2597023,
+  "lon": 6.1503779,
+  "tags": {
+    "access": "yes",
+    "amenity": "bicycle_parking",
+    "bicycle_parking": "wall_loops",
+    "capacity": "5",
+    "covered": "no",
+    "fee": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 13717189409,
+  "lat": 52.2599648,
+  "lon": 6.1504510,
+  "tags": {
+    "access": "yes",
+    "amenity": "bicycle_parking",
+    "bicycle_parking": "wall_loops",
+    "capacity": "3",
+    "covered": "no",
+    "fee": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 13729586271,
+  "lat": 52.2465033,
+  "lon": 6.1947761,
+  "tags": {
+    "amenity": "bicycle_parking",
+    "capacity": "20"
+  }
+},
+{
+  "type": "node",
+  "id": 13729593733,
+  "lat": 52.2478780,
+  "lon": 6.2174910,
+  "tags": {
+    "amenity": "bicycle_parking",
+    "capacity": "24",
+    "covered": "no",
+    "fee": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 13729593734,
+  "lat": 52.2478714,
+  "lon": 6.2177288,
+  "tags": {
+    "amenity": "bicycle_parking",
+    "capacity": "30"
+  }
+},
+{
+  "type": "node",
+  "id": 13734870470,
+  "lat": 52.2557437,
+  "lon": 6.1517632,
+  "tags": {
+    "access": "yes",
+    "amenity": "bicycle_parking",
+    "bicycle_parking": "stands",
+    "capacity": "25",
+    "covered": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 13744486520,
+  "lat": 52.2632082,
+  "lon": 6.1530774,
+  "tags": {
+    "amenity": "bicycle_parking",
+    "bicycle_parking": "wall_loops",
+    "capacity": "24",
+    "covered": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 13744486521,
+  "lat": 52.2476663,
+  "lon": 6.1721029,
+  "tags": {
+    "amenity": "bicycle_parking",
+    "bicycle_parking": "stands",
+    "capacity": "16"
+  }
+},
+{
+  "type": "node",
+  "id": 13744486522,
+  "lat": 52.2695311,
+  "lon": 6.1322950,
+  "tags": {
+    "amenity": "bicycle_parking",
+    "bicycle_parking": "stands",
+    "capacity": "102"
+  }
+},
+{
+  "type": "node",
+  "id": 13744524447,
+  "lat": 52.2554242,
+  "lon": 6.1846204,
+  "tags": {
+    "amenity": "bicycle_parking",
+    "bicycle_parking": "stands",
+    "capacity": "18"
+  }
+},
+{
+  "type": "node",
+  "id": 13744524448,
+  "lat": 52.2555634,
+  "lon": 6.1844771,
+  "tags": {
+    "amenity": "bicycle_parking",
+    "capacity": "18"
+  }
+},
+{
+  "type": "node",
+  "id": 13744524449,
+  "lat": 52.2550010,
+  "lon": 6.1854133,
+  "tags": {
+    "amenity": "bicycle_parking",
+    "bicycle_parking": "20"
+  }
+},
+{
+  "type": "node",
+  "id": 13744524450,
+  "lat": 52.2551791,
+  "lon": 6.1848641,
+  "tags": {
+    "amenity": "bicycle_parking",
+    "capacity": "16"
+  }
+},
+{
+  "type": "node",
+  "id": 13744524451,
+  "lat": 52.2535899,
+  "lon": 6.1915464,
+  "tags": {
+    "amenity": "bicycle_parking",
+    "bicycle_parking": "stands",
+    "capacity": "16"
+  }
+},
+{
+  "type": "node",
+  "id": 13744524452,
+  "lat": 52.2533122,
+  "lon": 6.1916728,
+  "tags": {
+    "amenity": "bicycle_parking",
+    "bicycle_parking": "stands",
+    "capacity": "16"
+  }
+},
+{
+  "type": "node",
+  "id": 13744524453,
+  "lat": 52.2531389,
+  "lon": 6.1913088,
+  "tags": {
+    "amenity": "bicycle_parking",
+    "bicycle_parking": "stands",
+    "capacity": "12"
+  }
+},
+{
+  "type": "node",
+  "id": 13744524454,
+  "lat": 52.2530452,
+  "lon": 6.1910858,
+  "tags": {
+    "amenity": "bicycle_parking",
+    "bicycle_parking": "stands",
+    "capacity": "8"
+  }
+},
+{
+  "type": "node",
+  "id": 13745878734,
+  "lat": 52.2549786,
+  "lon": 6.1572691,
+  "tags": {
+    "access": "yes",
+    "amenity": "bicycle_parking",
+    "bicycle_parking": "wall_loops",
+    "capacity": "14",
+    "covered": "no",
+    "fee": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 13745878738,
+  "lat": 52.2556643,
+  "lon": 6.1560921,
+  "tags": {
+    "access": "yes",
+    "amenity": "bicycle_parking",
+    "bicycle_parking": "wall_loops",
+    "capacity": "15",
+    "covered": "no",
+    "fee": "no"
+  }
+},
+{
+  "type": "way",
+  "id": 239242213,
+  "nodes": [
+    2092848238,
+    2470461840,
+    2470461838,
+    2470461841,
+    2092848238
+  ],
+  "tags": {
+    "amenity": "bicycle_parking",
+    "bicycle_parking": "wall_loops",
+    "capacity": "270",
+    "covered": "yes",
+    "level": "0"
+  }
+},
+{
+  "type": "way",
+  "id": 239242235,
+  "nodes": [
+    2470461837,
+    2470461831,
+    2470461832,
+    2470461829,
+    2470461830,
+    2470461835,
+    2470461834,
+    2470461839,
+    2470461837
+  ],
+  "tags": {
+    "amenity": "bicycle_parking",
+    "bicycle_parking": "wall_loops",
+    "capacity": "350",
+    "covered": "yes",
+    "level": "0"
+  }
+},
+{
+  "type": "way",
+  "id": 262220544,
+  "nodes": [
+    2678819061,
+    2678819404,
+    2678818567,
+    2678820809,
+    2678818506,
+    2678820322,
+    2678820425,
+    2678817989,
+    2678819452,
+    2678818010,
+    2678818913,
+    2678819368,
+    2678819061
+  ],
+  "tags": {
+    "access": "yes",
+    "amenity": "bicycle_parking",
+    "bicycle_parking": "building",
+    "building": "yes",
+    "building:levels:underground": "1",
+    "capacity": "3000",
+    "covered": "yes",
+    "fee": "no",
+    "indoor": "room",
+    "layer": "-1",
+    "level": "-1",
+    "lit": "yes",
+    "location": "underground",
+    "name": "Stationsplein",
+    "opening_hours": "06:00-24:00",
+    "operator": "NS",
+    "ref:bag": "0150100000059726",
+    "source": "BAG",
+    "source:date": "2025-09-07",
+    "start_date": "2003",
+    "supervised": "yes",
+    "surface": "concrete"
+  }
+},
+{
+  "type": "way",
+  "id": 370673610,
+  "nodes": [
+    9935692938,
+    9935692935,
+    9935663720,
+    9935692909,
+    3743692566,
+    9935692882,
+    7252348675,
+    7252348667,
+    7252348674,
+    3743692580,
+    3743692581,
+    9935692938
+  ],
+  "tags": {
+    "amenity": "bicycle_parking",
+    "bicycle_parking": "wall_loops",
+    "capacity": "64"
+  }
+},
+{
+  "type": "way",
+  "id": 539203398,
+  "nodes": [
+    5217838035,
+    9847996101,
+    9847961526,
+    9847961532,
+    9847961536,
+    5217838034,
+    5217838033,
+    9847961535,
+    9847961531,
+    9847961528,
+    9847961522,
+    5217838032,
+    9847996103,
+    9847961523,
+    5217838035
+  ],
+  "tags": {
+    "access": "yes",
+    "amenity": "bicycle_parking",
+    "bicycle_parking": "wall_loops",
+    "covered": "yes",
+    "fee": "no",
+    "lit": "yes",
+    "opening_hours": "24/7",
+    "operator": "NS",
+    "smoothness": "good",
+    "supervised": "no",
+    "surface": "paving_stones"
+  }
+},
+{
+  "type": "way",
+  "id": 539247660,
+  "nodes": [
+    5218237086,
+    5218237085,
+    5218237084,
+    5218237083,
+    5936317629,
+    5218237086
+  ],
+  "tags": {
+    "access": "yes",
+    "amenity": "bicycle_parking",
+    "bicycle_parking": "stands",
+    "covered": "yes",
+    "fee": "no",
+    "lit": "yes",
+    "opening_hours": "24/7",
+    "operator": "NS",
+    "smoothness": "good",
+    "supervised": "no",
+    "surface": "paving_stones"
+  }
+},
+{
+  "type": "way",
+  "id": 657916231,
+  "nodes": [
+    6161614085,
+    6161608783,
+    10267654448,
+    6161614089,
+    6161608784,
+    6161614085
+  ],
+  "tags": {
+    "access": "customers",
+    "amenity": "bicycle_parking",
+    "bicycle_parking": "stands",
+    "lit": "yes",
+    "smoothness": "good",
+    "supervised": "no",
+    "surface": "paving_stones"
+  }
+},
+{
+  "type": "way",
+  "id": 681169965,
+  "nodes": [
+    6378756961,
+    6378756960,
+    6378756959,
+    8932261434,
+    6378756961
+  ],
+  "tags": {
+    "access": "yes",
+    "amenity": "bicycle_parking",
+    "bicycle_parking": "shed",
+    "capacity": "200",
+    "covered": "yes",
+    "fee": "no",
+    "service:bicycle:charging": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 681169966,
+  "nodes": [
+    6378756965,
+    6378756964,
+    6378756963,
+    6378756962,
+    6378756965
+  ],
+  "tags": {
+    "access": "yes",
+    "amenity": "bicycle_parking",
+    "capacity": "200",
+    "covered": "yes",
+    "fee": "no"
+  }
+},
+{
+  "type": "way",
+  "id": 757235570,
+  "nodes": [
+    7071545737,
+    9847663310,
+    9847663111,
+    9847663309,
+    9847663312,
+    9847663110,
+    9847663311,
+    9847663328,
+    9847663109,
+    9847663321,
+    9847663324,
+    9847663108,
+    9847663323,
+    9847663322,
+    9847663107,
+    9847663329,
+    9847663325,
+    9847663327,
+    9847663326,
+    7071545736,
+    1106907588,
+    9380119143,
+    9847663345,
+    7071545735,
+    9847663346,
+    7071545734,
+    7071545733,
+    9847663098,
+    9847663057,
+    9847663081,
+    9847663058,
+    9847663077,
+    9847663059,
+    9847663073,
+    9847663060,
+    9847663069,
+    9847663061,
+    9847663065,
+    9847663062,
+    9847663093,
+    7071545732,
+    7071545737
+  ],
+  "tags": {
+    "access": "customers",
+    "amenity": "bicycle_parking",
+    "bicycle_parking": "stands",
+    "lit": "yes",
+    "smoothness": "good",
+    "supervised": "no",
+    "surface": "paving_stones"
+  }
+},
+{
+  "type": "way",
+  "id": 833283936,
+  "nodes": [
+    7778845598,
+    7778845599,
+    570445585,
+    7778845600,
+    7778845598
+  ],
+  "tags": {
+    "amenity": "bicycle_parking",
+    "covered": "no",
+    "fee": "no"
+  }
+},
+{
+  "type": "way",
+  "id": 976942274,
+  "nodes": [
+    9040439130,
+    9040439129,
+    9040439128,
+    9040439127,
+    9040439130
+  ],
+  "tags": {
+    "access": "yes",
+    "amenity": "bicycle_parking",
+    "bicycle_parking": "shed",
+    "capacity": "20",
+    "fee": "no"
+  }
+},
+{
+  "type": "way",
+  "id": 1037518739,
+  "nodes": [
+    9557587018,
+    9557587008,
+    9557587017,
+    9557587016,
+    9557587015,
+    9557587014,
+    11845272756,
+    9557587013,
+    11845272755,
+    11845272754,
+    9557587012,
+    11845272750,
+    11845272753,
+    11845272752,
+    11845272751,
+    9557587011,
+    9557587010,
+    12328861433,
+    570373710,
+    570373712,
+    570373707,
+    9557587018
+  ],
+  "tags": {
+    "access": "yes",
+    "amenity": "bicycle_parking",
+    "capacity": "500",
+    "covered": "no",
+    "fee": "no"
+  }
+},
+{
+  "type": "way",
+  "id": 1049534020,
+  "nodes": [
+    9645060974,
+    9645060973,
+    9645060972,
+    9645060971,
+    9645060974
+  ],
+  "tags": {
+    "amenity": "bicycle_parking",
+    "bicycle_parking": "stands"
+  }
+},
+{
+  "type": "way",
+  "id": 1073547133,
+  "nodes": [
+    9847996102,
+    9847996103,
+    9847961523,
+    5217838035,
+    9847996101,
+    9847961524,
+    9847996102
+  ],
+  "tags": {
+    "access": "yes",
+    "amenity": "bicycle_parking",
+    "bicycle_parking": "lockers",
+    "covered": "yes",
+    "lit": "yes",
+    "operator": "NS",
+    "smoothness": "good",
+    "supervised": "no",
+    "surface": "paving_stones"
+  }
+},
+{
+  "type": "way",
+  "id": 1077490066,
+  "nodes": [
+    9879403176,
+    9879401181,
+    9879401180,
+    9879403172,
+    9879403173,
+    9879403174,
+    9879403175,
+    9879403176
+  ],
+  "tags": {
+    "amenity": "bicycle_parking"
+  }
+},
+{
+  "type": "way",
+  "id": 1081222613,
+  "nodes": [
+    574320529,
+    9910065701,
+    9910065702,
+    9910065703,
+    574320529
+  ],
+  "tags": {
+    "access": "yes",
+    "amenity": "bicycle_parking",
+    "bicycle_parking": "wall_loops",
+    "capacity": "120",
+    "covered": "no",
+    "fee": "no",
+    "operator": "Bewaker stad deventer",
+    "panoramax": "33fb86e8-c053-4482-a493-26e2ec3c3b99"
+  }
+},
+{
+  "type": "way",
+  "id": 1082999612,
+  "nodes": [
+    2678778542,
+    9925187810,
+    9925187809,
+    9925187808,
+    2678780773,
+    2678778563,
+    2678778542
+  ],
+  "tags": {
+    "amenity": "bicycle_parking",
+    "bicycle_parking": "wall_loops",
+    "building": "roof",
+    "capacity": "120",
+    "covered": "yes",
+    "heritage": "2",
+    "heritage:operator": "rce",
+    "historic": "building",
+    "name": "Botermarkt",
+    "ref:rce": "12637",
+    "wikidata": "Q17346087"
+  }
+},
+{
+  "type": "way",
+  "id": 1101789743,
+  "nodes": [
+    10082447972,
+    10082447959,
+    10082447958,
+    10082447971,
+    10082447970,
+    10082447969,
+    10082447972
+  ],
+  "tags": {
+    "access": "private",
+    "amenity": "bicycle_parking"
+  }
+},
+{
+  "type": "way",
+  "id": 1101789751,
+  "nodes": [
+    10082447999,
+    10082447998,
+    10082447997,
+    10082447996,
+    10082446791,
+    10082446809,
+    10082446790,
+    10082447995,
+    10082447994,
+    10082447993,
+    10082446797,
+    10082447992,
+    10082447991,
+    10082447990,
+    10082447999
+  ],
+  "tags": {
+    "access": "private",
+    "amenity": "bicycle_parking"
+  }
+},
+{
+  "type": "way",
+  "id": 1102172958,
+  "nodes": [
+    10084992244,
+    10084992226,
+    10084992228,
+    10084992240,
+    10084992239,
+    10084992233,
+    10084992234,
+    10084992237,
+    10084992238,
+    10084992244
+  ],
+  "tags": {
+    "amenity": "bicycle_parking",
+    "bicycle_parking": "wall_loops",
+    "covered": "no"
+  }
+},
+{
+  "type": "way",
+  "id": 1111585224,
+  "nodes": [
+    784735123,
+    10169705040,
+    784675828,
+    784686971,
+    784735123
+  ],
+  "tags": {
+    "access": "private",
+    "amenity": "bicycle_parking"
+  }
+},
+{
+  "type": "way",
+  "id": 1136521774,
+  "nodes": [
+    10594711817,
+    10594711816,
+    10594711815,
+    10594711818,
+    10594711817
+  ],
+  "tags": {
+    "amenity": "bicycle_parking",
+    "covered": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1136521775,
+  "nodes": [
+    10594711821,
+    10594711820,
+    10594711819,
+    10594711818,
+    10594711817,
+    10594711821
+  ],
+  "tags": {
+    "amenity": "bicycle_parking",
+    "covered": "no"
+  }
+},
+{
+  "type": "way",
+  "id": 1203625559,
+  "nodes": [
+    11156679785,
+    11156679784,
+    11156679783,
+    10033065362,
+    784672916,
+    11156679785
+  ],
+  "tags": {
+    "access": "private",
+    "amenity": "bicycle_parking"
+  }
+},
+{
+  "type": "way",
+  "id": 1203625560,
+  "nodes": [
+    11156679789,
+    11156679788,
+    11156679787,
+    11156679786,
+    10033081521,
+    11156679789
+  ],
+  "tags": {
+    "amenity": "bicycle_parking"
+  }
+},
+{
+  "type": "way",
+  "id": 1231689290,
+  "nodes": [
+    11422883671,
+    11422883569,
+    11422883690,
+    11422883670,
+    11422883671
+  ],
+  "tags": {
+    "amenity": "bicycle_parking",
+    "covered": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1262491355,
+  "nodes": [
+    721524210,
+    11730262690,
+    11730262686,
+    721532158,
+    721528787,
+    721535293,
+    721524210
+  ],
+  "tags": {
+    "amenity": "bicycle_parking",
+    "area": "yes",
+    "covered": "no"
+  }
+},
+{
+  "type": "way",
+  "id": 1276399351,
+  "nodes": [
+    11850087010,
+    11850087009,
+    11850087008,
+    11850087007,
+    11850087010
+  ],
+  "tags": {
+    "amenity": "bicycle_parking",
+    "bicycle_parking": "stands",
+    "capacity": "4",
+    "covered": "no",
+    "parking": "street_side"
+  }
+},
+{
+  "type": "way",
+  "id": 1276399352,
+  "nodes": [
+    11850087014,
+    11850087013,
+    11850087012,
+    11850087011,
+    11850087014
+  ],
+  "tags": {
+    "amenity": "bicycle_parking",
+    "bicycle_parking": "stands",
+    "capacity": "4",
+    "covered": "no",
+    "parking": "street_side"
+  }
+},
+{
+  "type": "way",
+  "id": 1276399353,
+  "nodes": [
+    11850087018,
+    11850087017,
+    11850087016,
+    11850087015,
+    11850087018
+  ],
+  "tags": {
+    "amenity": "bicycle_parking",
+    "bicycle_parking": "stands",
+    "capacity": "4",
+    "covered": "no",
+    "parking": "street_side"
+  }
+},
+{
+  "type": "way",
+  "id": 1276399354,
+  "nodes": [
+    11850087022,
+    11850087021,
+    11850087020,
+    11850087019,
+    11850087022
+  ],
+  "tags": {
+    "amenity": "bicycle_parking",
+    "bicycle_parking": "stands",
+    "capacity": "12",
+    "covered": "no",
+    "parking": "street_side"
+  }
+},
+{
+  "type": "way",
+  "id": 1276399355,
+  "nodes": [
+    11850087026,
+    11850087025,
+    11850087024,
+    11850087023,
+    11850087026
+  ],
+  "tags": {
+    "amenity": "bicycle_parking",
+    "bicycle_parking": "stands",
+    "capacity": "8",
+    "covered": "no",
+    "parking": "street_side"
+  }
+},
+{
+  "type": "way",
+  "id": 1306782481,
+  "nodes": [
+    12102187212,
+    12102187213,
+    12102187214,
+    12102187215,
+    12102187212
+  ],
+  "tags": {
+    "amenity": "bicycle_parking",
+    "bicycle_parking": "floor",
+    "covered": "no"
+  }
+},
+{
+  "type": "way",
+  "id": 1306782482,
+  "nodes": [
+    12102187216,
+    12102187217,
+    12102187219,
+    12102187218,
+    12102187216
+  ],
+  "tags": {
+    "amenity": "bicycle_parking",
+    "bicycle_parking": "floor",
+    "covered": "no"
+  }
+},
+{
+  "type": "way",
+  "id": 1306782483,
+  "nodes": [
+    12102187220,
+    12102187221,
+    12102187222,
+    12102187223,
+    12102187220
+  ],
+  "tags": {
+    "amenity": "bicycle_parking",
+    "bicycle_parking": "stands",
+    "capacity": "66",
+    "covered": "no"
+  }
+},
+{
+  "type": "way",
+  "id": 1306782484,
+  "nodes": [
+    12102187224,
+    12102187225,
+    12102187226,
+    12102187227,
+    12102187224
+  ],
+  "tags": {
+    "amenity": "bicycle_parking",
+    "bicycle_parking": "stands",
+    "capacity": "36",
+    "covered": "no"
+  }
+},
+{
+  "type": "way",
+  "id": 1354057085,
+  "nodes": [
+    12530434060,
+    12530434061,
+    12530434062,
+    12530434063,
+    12530434060
+  ],
+  "tags": {
+    "amenity": "bicycle_parking",
+    "capacity": "16"
+  }
+},
+{
+  "type": "way",
+  "id": 1354057086,
+  "nodes": [
+    12530434064,
+    12530434065,
+    12530434066,
+    12530434067,
+    12530434064
+  ],
+  "tags": {
+    "amenity": "bicycle_parking",
+    "capacity": "14"
+  }
+},
+{
+  "type": "way",
+  "id": 1458121155,
+  "nodes": [
+    13372418570,
+    13372418569,
+    13372418568,
+    13372418577,
+    13372418570
+  ],
+  "tags": {
+    "amenity": "bicycle_parking"
+  }
+},
+{
+  "type": "way",
+  "id": 1491057307,
+  "nodes": [
+    13665393844,
+    13665393843,
+    13665393842,
+    13665393841,
+    13665393844
+  ],
+  "tags": {
+    "amenity": "bicycle_parking",
+    "bicycle_parking": "stands"
+  }
+},
+{
+  "type": "way",
+  "id": 1498054035,
+  "nodes": [
+    13719325137,
+    9688005934,
+    13719325138,
+    9688005947,
+    9688005946,
+    13719325137
+  ],
+  "tags": {
+    "access": "yes",
+    "amenity": "bicycle_parking",
+    "bicycle_parking": "rack",
+    "capacity": "12",
+    "covered": "no",
+    "fee": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 9645060971,
+  "lat": 52.2667460,
+  "lon": 6.1279828
+},
+{
+  "type": "node",
+  "id": 9645060972,
+  "lat": 52.2666467,
+  "lon": 6.1280624
+},
+{
+  "type": "node",
+  "id": 9645060973,
+  "lat": 52.2666293,
+  "lon": 6.1280045
+},
+{
+  "type": "node",
+  "id": 9645060974,
+  "lat": 52.2667286,
+  "lon": 6.1279249
+},
+{
+  "type": "node",
+  "id": 13665393841,
+  "lat": 52.2654829,
+  "lon": 6.1290642
+},
+{
+  "type": "node",
+  "id": 13665393842,
+  "lat": 52.2653885,
+  "lon": 6.1291499
+},
+{
+  "type": "node",
+  "id": 13665393843,
+  "lat": 52.2653692,
+  "lon": 6.1290930
+},
+{
+  "type": "node",
+  "id": 13665393844,
+  "lat": 52.2654636,
+  "lon": 6.1290073
+},
+{
+  "type": "node",
+  "id": 570373707,
+  "lat": 52.2546020,
+  "lon": 6.1592368
+},
+{
+  "type": "node",
+  "id": 570373710,
+  "lat": 52.2545326,
+  "lon": 6.1595847
+},
+{
+  "type": "node",
+  "id": 570373712,
+  "lat": 52.2546561,
+  "lon": 6.1592988
+},
+{
+  "type": "node",
+  "id": 574320529,
+  "lat": 52.2535872,
+  "lon": 6.1560637
+},
+{
+  "type": "node",
+  "id": 2678778542,
+  "lat": 52.2524667,
+  "lon": 6.1553475
+},
+{
+  "type": "node",
+  "id": 2678778563,
+  "lat": 52.2524685,
+  "lon": 6.1553455
+},
+{
+  "type": "node",
+  "id": 2678780773,
+  "lat": 52.2526244,
+  "lon": 6.1551512
+},
+{
+  "type": "node",
+  "id": 9557587008,
+  "lat": 52.2545114,
+  "lon": 6.1592428
+},
+{
+  "type": "node",
+  "id": 9557587010,
+  "lat": 52.2544613,
+  "lon": 6.1597117
+},
+{
+  "type": "node",
+  "id": 9557587011,
+  "lat": 52.2543333,
+  "lon": 6.1596017
+},
+{
+  "type": "node",
+  "id": 9557587012,
+  "lat": 52.2543000,
+  "lon": 6.1595256
+},
+{
+  "type": "node",
+  "id": 9557587013,
+  "lat": 52.2543035,
+  "lon": 6.1594699
+},
+{
+  "type": "node",
+  "id": 9557587014,
+  "lat": 52.2543194,
+  "lon": 6.1594325
+},
+{
+  "type": "node",
+  "id": 9557587015,
+  "lat": 52.2543999,
+  "lon": 6.1593258
+},
+{
+  "type": "node",
+  "id": 9557587016,
+  "lat": 52.2544125,
+  "lon": 6.1593465
+},
+{
+  "type": "node",
+  "id": 9557587017,
+  "lat": 52.2545031,
+  "lon": 6.1592263
+},
+{
+  "type": "node",
+  "id": 9557587018,
+  "lat": 52.2545536,
+  "lon": 6.1591860
+},
+{
+  "type": "node",
+  "id": 9910065701,
+  "lat": 52.2534297,
+  "lon": 6.1558149
+},
+{
+  "type": "node",
+  "id": 9910065702,
+  "lat": 52.2533730,
+  "lon": 6.1559108
+},
+{
+  "type": "node",
+  "id": 9910065703,
+  "lat": 52.2535305,
+  "lon": 6.1561596
+},
+{
+  "type": "node",
+  "id": 9925187808,
+  "lat": 52.2526702,
+  "lon": 6.1550938
+},
+{
+  "type": "node",
+  "id": 9925187809,
+  "lat": 52.2527026,
+  "lon": 6.1551881
+},
+{
+  "type": "node",
+  "id": 9925187810,
+  "lat": 52.2524932,
+  "lon": 6.1554419
+},
+{
+  "type": "node",
+  "id": 11845272750,
+  "lat": 52.2543023,
+  "lon": 6.1595411
+},
+{
+  "type": "node",
+  "id": 11845272751,
+  "lat": 52.2543214,
+  "lon": 6.1595882
+},
+{
+  "type": "node",
+  "id": 11845272752,
+  "lat": 52.2543134,
+  "lon": 6.1595746
+},
+{
+  "type": "node",
+  "id": 11845272753,
+  "lat": 52.2543061,
+  "lon": 6.1595562
+},
+{
+  "type": "node",
+  "id": 11845272754,
+  "lat": 52.2542991,
+  "lon": 6.1595100
+},
+{
+  "type": "node",
+  "id": 11845272755,
+  "lat": 52.2542999,
+  "lon": 6.1594917
+},
+{
+  "type": "node",
+  "id": 11845272756,
+  "lat": 52.2543100,
+  "lon": 6.1594492
+},
+{
+  "type": "node",
+  "id": 11850087015,
+  "lat": 52.2541225,
+  "lon": 6.1601807
+},
+{
+  "type": "node",
+  "id": 11850087016,
+  "lat": 52.2541148,
+  "lon": 6.1602149
+},
+{
+  "type": "node",
+  "id": 11850087017,
+  "lat": 52.2541471,
+  "lon": 6.1602343
+},
+{
+  "type": "node",
+  "id": 11850087018,
+  "lat": 52.2541548,
+  "lon": 6.1602001
+},
+{
+  "type": "node",
+  "id": 11850087019,
+  "lat": 52.2539901,
+  "lon": 6.1600984
+},
+{
+  "type": "node",
+  "id": 11850087020,
+  "lat": 52.2539821,
+  "lon": 6.1601328
+},
+{
+  "type": "node",
+  "id": 11850087021,
+  "lat": 52.2540774,
+  "lon": 6.1601920
+},
+{
+  "type": "node",
+  "id": 11850087022,
+  "lat": 52.2540854,
+  "lon": 6.1601576
+},
+{
+  "type": "node",
+  "id": 11850087023,
+  "lat": 52.2539041,
+  "lon": 6.1600462
+},
+{
+  "type": "node",
+  "id": 11850087024,
+  "lat": 52.2538964,
+  "lon": 6.1600807
+},
+{
+  "type": "node",
+  "id": 11850087025,
+  "lat": 52.2539604,
+  "lon": 6.1601190
+},
+{
+  "type": "node",
+  "id": 11850087026,
+  "lat": 52.2539682,
+  "lon": 6.1600845
+},
+{
+  "type": "node",
+  "id": 12328861433,
+  "lat": 52.2545011,
+  "lon": 6.1596595
+},
+{
+  "type": "node",
+  "id": 9040439127,
+  "lat": 52.2571324,
+  "lon": 6.1479668
+},
+{
+  "type": "node",
+  "id": 9040439128,
+  "lat": 52.2571159,
+  "lon": 6.1479946
+},
+{
+  "type": "node",
+  "id": 9040439129,
+  "lat": 52.2570498,
+  "lon": 6.1478951
+},
+{
+  "type": "node",
+  "id": 9040439130,
+  "lat": 52.2570662,
+  "lon": 6.1478682
+},
+{
+  "type": "node",
+  "id": 9688005934,
+  "lat": 52.2587576,
+  "lon": 6.1506616
+},
+{
+  "type": "node",
+  "id": 9688005946,
+  "lat": 52.2587347,
+  "lon": 6.1507355
+},
+{
+  "type": "node",
+  "id": 9688005947,
+  "lat": 52.2587059,
+  "lon": 6.1506573
+},
+{
+  "type": "node",
+  "id": 13719325137,
+  "lat": 52.2587719,
+  "lon": 6.1507041
+},
+{
+  "type": "node",
+  "id": 13719325138,
+  "lat": 52.2587398,
+  "lon": 6.1506170
+},
+{
+  "type": "node",
+  "id": 2678819061,
+  "lat": 52.2569271,
+  "lon": 6.1602935
+},
+{
+  "type": "node",
+  "id": 11422883569,
+  "lat": 52.2410258,
+  "lon": 6.1772773
+},
+{
+  "type": "node",
+  "id": 11422883670,
+  "lat": 52.2409613,
+  "lon": 6.1774605
+},
+{
+  "type": "node",
+  "id": 11422883671,
+  "lat": 52.2410537,
+  "lon": 6.1773272
+},
+{
+  "type": "node",
+  "id": 11422883690,
+  "lat": 52.2409366,
+  "lon": 6.1774120
+},
+{
+  "type": "node",
+  "id": 11850087007,
+  "lat": 52.2545964,
+  "lon": 6.1604712
+},
+{
+  "type": "node",
+  "id": 11850087008,
+  "lat": 52.2545881,
+  "lon": 6.1605060
+},
+{
+  "type": "node",
+  "id": 11850087009,
+  "lat": 52.2546200,
+  "lon": 6.1605263
+},
+{
+  "type": "node",
+  "id": 11850087010,
+  "lat": 52.2546283,
+  "lon": 6.1604916
+},
+{
+  "type": "node",
+  "id": 11850087011,
+  "lat": 52.2546580,
+  "lon": 6.1605098
+},
+{
+  "type": "node",
+  "id": 11850087012,
+  "lat": 52.2546504,
+  "lon": 6.1605438
+},
+{
+  "type": "node",
+  "id": 11850087013,
+  "lat": 52.2546827,
+  "lon": 6.1605632
+},
+{
+  "type": "node",
+  "id": 11850087014,
+  "lat": 52.2546903,
+  "lon": 6.1605291
+},
+{
+  "type": "node",
+  "id": 2092848238,
+  "lat": 52.2578603,
+  "lon": 6.1608081
+},
+{
+  "type": "node",
+  "id": 2470461829,
+  "lat": 52.2573045,
+  "lon": 6.1618398
+},
+{
+  "type": "node",
+  "id": 2470461830,
+  "lat": 52.2573497,
+  "lon": 6.1619001
+},
+{
+  "type": "node",
+  "id": 2470461831,
+  "lat": 52.2574587,
+  "lon": 6.1614266
+},
+{
+  "type": "node",
+  "id": 2470461832,
+  "lat": 52.2574850,
+  "lon": 6.1614603
+},
+{
+  "type": "node",
+  "id": 2470461834,
+  "lat": 52.2575160,
+  "lon": 6.1614693
+},
+{
+  "type": "node",
+  "id": 2470461835,
+  "lat": 52.2575455,
+  "lon": 6.1615088
+},
+{
+  "type": "node",
+  "id": 2470461837,
+  "lat": 52.2575973,
+  "lon": 6.1611576
+},
+{
+  "type": "node",
+  "id": 2470461838,
+  "lat": 52.2576359,
+  "lon": 6.1609453
+},
+{
+  "type": "node",
+  "id": 2470461839,
+  "lat": 52.2576421,
+  "lon": 6.1612174
+},
+{
+  "type": "node",
+  "id": 2470461840,
+  "lat": 52.2577230,
+  "lon": 6.1610681
+},
+{
+  "type": "node",
+  "id": 2470461841,
+  "lat": 52.2577731,
+  "lon": 6.1606853
+},
+{
+  "type": "node",
+  "id": 2678817989,
+  "lat": 52.2567718,
+  "lon": 6.1612882
+},
+{
+  "type": "node",
+  "id": 2678818010,
+  "lat": 52.2562944,
+  "lon": 6.1611625
+},
+{
+  "type": "node",
+  "id": 2678818506,
+  "lat": 52.2569190,
+  "lon": 6.1609318
+},
+{
+  "type": "node",
+  "id": 2678818567,
+  "lat": 52.2568888,
+  "lon": 6.1608454
+},
+{
+  "type": "node",
+  "id": 2678818913,
+  "lat": 52.2564961,
+  "lon": 6.1606740
+},
+{
+  "type": "node",
+  "id": 2678819368,
+  "lat": 52.2567969,
+  "lon": 6.1606090
+},
+{
+  "type": "node",
+  "id": 2678819404,
+  "lat": 52.2570576,
+  "lon": 6.1604366
+},
+{
+  "type": "node",
+  "id": 2678819452,
+  "lat": 52.2566587,
+  "lon": 6.1615620
+},
+{
+  "type": "node",
+  "id": 2678820322,
+  "lat": 52.2569394,
+  "lon": 6.1609542
+},
+{
+  "type": "node",
+  "id": 2678820425,
+  "lat": 52.2567923,
+  "lon": 6.1613106
+},
+{
+  "type": "node",
+  "id": 2678820809,
+  "lat": 52.2569342,
+  "lon": 6.1608951
+},
+{
+  "type": "node",
+  "id": 12102187212,
+  "lat": 52.2568105,
+  "lon": 6.1648073
+},
+{
+  "type": "node",
+  "id": 12102187213,
+  "lat": 52.2568187,
+  "lon": 6.1647948
+},
+{
+  "type": "node",
+  "id": 12102187214,
+  "lat": 52.2567119,
+  "lon": 6.1646266
+},
+{
+  "type": "node",
+  "id": 12102187215,
+  "lat": 52.2567038,
+  "lon": 6.1646389
+},
+{
+  "type": "node",
+  "id": 12102187216,
+  "lat": 52.2569070,
+  "lon": 6.1643089
+},
+{
+  "type": "node",
+  "id": 12102187217,
+  "lat": 52.2569139,
+  "lon": 6.1643224
+},
+{
+  "type": "node",
+  "id": 12102187218,
+  "lat": 52.2567816,
+  "lon": 6.1645060
+},
+{
+  "type": "node",
+  "id": 12102187219,
+  "lat": 52.2567893,
+  "lon": 6.1645181
+},
+{
+  "type": "node",
+  "id": 12102187220,
+  "lat": 52.2570005,
+  "lon": 6.1640460
+},
+{
+  "type": "node",
+  "id": 12102187221,
+  "lat": 52.2570099,
+  "lon": 6.1640625
+},
+{
+  "type": "node",
+  "id": 12102187222,
+  "lat": 52.2567951,
+  "lon": 6.1643992
+},
+{
+  "type": "node",
+  "id": 12102187223,
+  "lat": 52.2567872,
+  "lon": 6.1643873
+},
+{
+  "type": "node",
+  "id": 12102187224,
+  "lat": 52.2567512,
+  "lon": 6.1644757
+},
+{
+  "type": "node",
+  "id": 12102187225,
+  "lat": 52.2567417,
+  "lon": 6.1644601
+},
+{
+  "type": "node",
+  "id": 12102187226,
+  "lat": 52.2566772,
+  "lon": 6.1645633
+},
+{
+  "type": "node",
+  "id": 12102187227,
+  "lat": 52.2566883,
+  "lon": 6.1645801
+},
+{
+  "type": "node",
+  "id": 784675828,
+  "lat": 52.2677354,
+  "lon": 6.1440243
+},
+{
+  "type": "node",
+  "id": 784686971,
+  "lat": 52.2677696,
+  "lon": 6.1441775
+},
+{
+  "type": "node",
+  "id": 784735123,
+  "lat": 52.2678914,
+  "lon": 6.1440943
+},
+{
+  "type": "node",
+  "id": 10169705040,
+  "lat": 52.2678594,
+  "lon": 6.1439487
+},
+{
+  "type": "node",
+  "id": 10084992226,
+  "lat": 52.2744307,
+  "lon": 6.1450121
+},
+{
+  "type": "node",
+  "id": 10084992228,
+  "lat": 52.2744200,
+  "lon": 6.1450481
+},
+{
+  "type": "node",
+  "id": 10084992233,
+  "lat": 52.2742529,
+  "lon": 6.1449220
+},
+{
+  "type": "node",
+  "id": 10084992234,
+  "lat": 52.2742625,
+  "lon": 6.1448926
+},
+{
+  "type": "node",
+  "id": 10084992237,
+  "lat": 52.2742978,
+  "lon": 6.1447838
+},
+{
+  "type": "node",
+  "id": 10084992238,
+  "lat": 52.2743037,
+  "lon": 6.1447657
+},
+{
+  "type": "node",
+  "id": 10084992239,
+  "lat": 52.2742481,
+  "lon": 6.1449371
+},
+{
+  "type": "node",
+  "id": 10084992240,
+  "lat": 52.2744138,
+  "lon": 6.1450690
+},
+{
+  "type": "node",
+  "id": 10084992244,
+  "lat": 52.2744592,
+  "lon": 6.1449160
+},
+{
+  "type": "node",
+  "id": 10082446790,
+  "lat": 52.2715938,
+  "lon": 6.1576764
+},
+{
+  "type": "node",
+  "id": 10082446791,
+  "lat": 52.2715965,
+  "lon": 6.1575893
+},
+{
+  "type": "node",
+  "id": 10082446797,
+  "lat": 52.2714822,
+  "lon": 6.1579429
+},
+{
+  "type": "node",
+  "id": 10082446809,
+  "lat": 52.2715952,
+  "lon": 6.1576319
+},
+{
+  "type": "node",
+  "id": 10082447958,
+  "lat": 52.2720245,
+  "lon": 6.1559977
+},
+{
+  "type": "node",
+  "id": 10082447959,
+  "lat": 52.2718264,
+  "lon": 6.1559811
+},
+{
+  "type": "node",
+  "id": 10082447969,
+  "lat": 52.2717719,
+  "lon": 6.1563266
+},
+{
+  "type": "node",
+  "id": 10082447970,
+  "lat": 52.2720672,
+  "lon": 6.1563526
+},
+{
+  "type": "node",
+  "id": 10082447971,
+  "lat": 52.2720771,
+  "lon": 6.1560022
+},
+{
+  "type": "node",
+  "id": 10082447972,
+  "lat": 52.2717850,
+  "lon": 6.1559776
+},
+{
+  "type": "node",
+  "id": 10082447990,
+  "lat": 52.2710564,
+  "lon": 6.1576848
+},
+{
+  "type": "node",
+  "id": 10082447991,
+  "lat": 52.2711838,
+  "lon": 6.1576952
+},
+{
+  "type": "node",
+  "id": 10082447992,
+  "lat": 52.2711770,
+  "lon": 6.1579179
+},
+{
+  "type": "node",
+  "id": 10082447993,
+  "lat": 52.2715469,
+  "lon": 6.1579482
+},
+{
+  "type": "node",
+  "id": 10082447994,
+  "lat": 52.2715492,
+  "lon": 6.1578734
+},
+{
+  "type": "node",
+  "id": 10082447995,
+  "lat": 52.2715877,
+  "lon": 6.1578765
+},
+{
+  "type": "node",
+  "id": 10082447996,
+  "lat": 52.2715984,
+  "lon": 6.1575248
+},
+{
+  "type": "node",
+  "id": 10082447997,
+  "lat": 52.2713389,
+  "lon": 6.1575036
+},
+{
+  "type": "node",
+  "id": 10082447998,
+  "lat": 52.2713378,
+  "lon": 6.1575415
+},
+{
+  "type": "node",
+  "id": 10082447999,
+  "lat": 52.2710614,
+  "lon": 6.1575188
+},
+{
+  "type": "node",
+  "id": 784672916,
+  "lat": 52.2763795,
+  "lon": 6.1576458
+},
+{
+  "type": "node",
+  "id": 9879401180,
+  "lat": 52.2768172,
+  "lon": 6.1583963
+},
+{
+  "type": "node",
+  "id": 9879401181,
+  "lat": 52.2767566,
+  "lon": 6.1584259
+},
+{
+  "type": "node",
+  "id": 9879403172,
+  "lat": 52.2768238,
+  "lon": 6.1583499
+},
+{
+  "type": "node",
+  "id": 9879403173,
+  "lat": 52.2767918,
+  "lon": 6.1582896
+},
+{
+  "type": "node",
+  "id": 9879403174,
+  "lat": 52.2767180,
+  "lon": 6.1582279
+},
+{
+  "type": "node",
+  "id": 9879403175,
+  "lat": 52.2766515,
+  "lon": 6.1584599
+},
+{
+  "type": "node",
+  "id": 9879403176,
+  "lat": 52.2766928,
+  "lon": 6.1584935
+},
+{
+  "type": "node",
+  "id": 10033065362,
+  "lat": 52.2763782,
+  "lon": 6.1577453
+},
+{
+  "type": "node",
+  "id": 10033081521,
+  "lat": 52.2766157,
+  "lon": 6.1597388
+},
+{
+  "type": "node",
+  "id": 11156679783,
+  "lat": 52.2763768,
+  "lon": 6.1577660
+},
+{
+  "type": "node",
+  "id": 11156679784,
+  "lat": 52.2762446,
+  "lon": 6.1577518
+},
+{
+  "type": "node",
+  "id": 11156679785,
+  "lat": 52.2762464,
+  "lon": 6.1576279
+},
+{
+  "type": "node",
+  "id": 11156679786,
+  "lat": 52.2765586,
+  "lon": 6.1598637
+},
+{
+  "type": "node",
+  "id": 11156679787,
+  "lat": 52.2766388,
+  "lon": 6.1599147
+},
+{
+  "type": "node",
+  "id": 11156679788,
+  "lat": 52.2767652,
+  "lon": 6.1600826
+},
+{
+  "type": "node",
+  "id": 11156679789,
+  "lat": 52.2768101,
+  "lon": 6.1599996
+},
+{
+  "type": "node",
+  "id": 7071545732,
+  "lat": 52.2517826,
+  "lon": 6.1930962
+},
+{
+  "type": "node",
+  "id": 9847663093,
+  "lat": 52.2517997,
+  "lon": 6.1931396
+},
+{
+  "type": "node",
+  "id": 1106907588,
+  "lat": 52.2519661,
+  "lon": 6.1942137
+},
+{
+  "type": "node",
+  "id": 7071545733,
+  "lat": 52.2522077,
+  "lon": 6.1941676
+},
+{
+  "type": "node",
+  "id": 7071545734,
+  "lat": 52.2520583,
+  "lon": 6.1943006
+},
+{
+  "type": "node",
+  "id": 7071545735,
+  "lat": 52.2520155,
+  "lon": 6.1942707
+},
+{
+  "type": "node",
+  "id": 7071545736,
+  "lat": 52.2519562,
+  "lon": 6.1941989
+},
+{
+  "type": "node",
+  "id": 7071545737,
+  "lat": 52.2516310,
+  "lon": 6.1932312
+},
+{
+  "type": "node",
+  "id": 9380119143,
+  "lat": 52.2519761,
+  "lon": 6.1942286
+},
+{
+  "type": "node",
+  "id": 9847663057,
+  "lat": 52.2521596,
+  "lon": 6.1940467
+},
+{
+  "type": "node",
+  "id": 9847663058,
+  "lat": 52.2520943,
+  "lon": 6.1938818
+},
+{
+  "type": "node",
+  "id": 9847663059,
+  "lat": 52.2520282,
+  "lon": 6.1937153
+},
+{
+  "type": "node",
+  "id": 9847663060,
+  "lat": 52.2519629,
+  "lon": 6.1935508
+},
+{
+  "type": "node",
+  "id": 9847663061,
+  "lat": 52.2518976,
+  "lon": 6.1933863
+},
+{
+  "type": "node",
+  "id": 9847663062,
+  "lat": 52.2518323,
+  "lon": 6.1932218
+},
+{
+  "type": "node",
+  "id": 9847663065,
+  "lat": 52.2518650,
+  "lon": 6.1933041
+},
+{
+  "type": "node",
+  "id": 9847663069,
+  "lat": 52.2519303,
+  "lon": 6.1934686
+},
+{
+  "type": "node",
+  "id": 9847663073,
+  "lat": 52.2519956,
+  "lon": 6.1936331
+},
+{
+  "type": "node",
+  "id": 9847663077,
+  "lat": 52.2520609,
+  "lon": 6.1937976
+},
+{
+  "type": "node",
+  "id": 9847663081,
+  "lat": 52.2521268,
+  "lon": 6.1939641
+},
+{
+  "type": "node",
+  "id": 9847663098,
+  "lat": 52.2521906,
+  "lon": 6.1941246
+},
+{
+  "type": "node",
+  "id": 9847663107,
+  "lat": 52.2519011,
+  "lon": 6.1940505
+},
+{
+  "type": "node",
+  "id": 9847663108,
+  "lat": 52.2518441,
+  "lon": 6.1938776
+},
+{
+  "type": "node",
+  "id": 9847663109,
+  "lat": 52.2517872,
+  "lon": 6.1937048
+},
+{
+  "type": "node",
+  "id": 9847663110,
+  "lat": 52.2517305,
+  "lon": 6.1935326
+},
+{
+  "type": "node",
+  "id": 9847663111,
+  "lat": 52.2516734,
+  "lon": 6.1933593
+},
+{
+  "type": "node",
+  "id": 9847663309,
+  "lat": 52.2516803,
+  "lon": 6.1933802
+},
+{
+  "type": "node",
+  "id": 9847663310,
+  "lat": 52.2516665,
+  "lon": 6.1933384
+},
+{
+  "type": "node",
+  "id": 9847663311,
+  "lat": 52.2517373,
+  "lon": 6.1935534
+},
+{
+  "type": "node",
+  "id": 9847663312,
+  "lat": 52.2517236,
+  "lon": 6.1935118
+},
+{
+  "type": "node",
+  "id": 9847663321,
+  "lat": 52.2517940,
+  "lon": 6.1937252
+},
+{
+  "type": "node",
+  "id": 9847663322,
+  "lat": 52.2518941,
+  "lon": 6.1940295
+},
+{
+  "type": "node",
+  "id": 9847663323,
+  "lat": 52.2518512,
+  "lon": 6.1938991
+},
+{
+  "type": "node",
+  "id": 9847663324,
+  "lat": 52.2518370,
+  "lon": 6.1938561
+},
+{
+  "type": "node",
+  "id": 9847663325,
+  "lat": 52.2519184,
+  "lon": 6.1941049
+},
+{
+  "type": "node",
+  "id": 9847663326,
+  "lat": 52.2519421,
+  "lon": 6.1941700
+},
+{
+  "type": "node",
+  "id": 9847663327,
+  "lat": 52.2519292,
+  "lon": 6.1941372
+},
+{
+  "type": "node",
+  "id": 9847663328,
+  "lat": 52.2517805,
+  "lon": 6.1936844
+},
+{
+  "type": "node",
+  "id": 9847663329,
+  "lat": 52.2519080,
+  "lon": 6.1940715
+},
+{
+  "type": "node",
+  "id": 9847663345,
+  "lat": 52.2519951,
+  "lon": 6.1942516
+},
+{
+  "type": "node",
+  "id": 9847663346,
+  "lat": 52.2520372,
+  "lon": 6.1942867
+},
+{
+  "type": "node",
+  "id": 13372418568,
+  "lat": 52.2529981,
+  "lon": 6.1966792
+},
+{
+  "type": "node",
+  "id": 13372418569,
+  "lat": 52.2529870,
+  "lon": 6.1966545
+},
+{
+  "type": "node",
+  "id": 13372418570,
+  "lat": 52.2527703,
+  "lon": 6.1969156
+},
+{
+  "type": "node",
+  "id": 13372418577,
+  "lat": 52.2527829,
+  "lon": 6.1969421
+},
+{
+  "type": "node",
+  "id": 6378756959,
+  "lat": 52.2606646,
+  "lon": 6.1911705
+},
+{
+  "type": "node",
+  "id": 6378756960,
+  "lat": 52.2606862,
+  "lon": 6.1909503
+},
+{
+  "type": "node",
+  "id": 6378756961,
+  "lat": 52.2607519,
+  "lon": 6.1909674
+},
+{
+  "type": "node",
+  "id": 6378756962,
+  "lat": 52.2611125,
+  "lon": 6.1907275
+},
+{
+  "type": "node",
+  "id": 6378756963,
+  "lat": 52.2609121,
+  "lon": 6.1906768
+},
+{
+  "type": "node",
+  "id": 6378756964,
+  "lat": 52.2609224,
+  "lon": 6.1905683
+},
+{
+  "type": "node",
+  "id": 6378756965,
+  "lat": 52.2611228,
+  "lon": 6.1906191
+},
+{
+  "type": "node",
+  "id": 8932261434,
+  "lat": 52.2607303,
+  "lon": 6.1911877
+},
+{
+  "type": "node",
+  "id": 6161608783,
+  "lat": 52.2497657,
+  "lon": 6.2040945
+},
+{
+  "type": "node",
+  "id": 6161608784,
+  "lat": 52.2498185,
+  "lon": 6.2042774
+},
+{
+  "type": "node",
+  "id": 6161614085,
+  "lat": 52.2498267,
+  "lon": 6.2041030
+},
+{
+  "type": "node",
+  "id": 6161614089,
+  "lat": 52.2497714,
+  "lon": 6.2042715
+},
+{
+  "type": "node",
+  "id": 10267654448,
+  "lat": 52.2497566,
+  "lon": 6.2042691
+},
+{
+  "type": "node",
+  "id": 3743692566,
+  "lat": 52.2482153,
+  "lon": 6.2152127
+},
+{
+  "type": "node",
+  "id": 3743692580,
+  "lat": 52.2482787,
+  "lon": 6.2153378
+},
+{
+  "type": "node",
+  "id": 3743692581,
+  "lat": 52.2483212,
+  "lon": 6.2153384
+},
+{
+  "type": "node",
+  "id": 7252348667,
+  "lat": 52.2480260,
+  "lon": 6.2152675
+},
+{
+  "type": "node",
+  "id": 7252348674,
+  "lat": 52.2480234,
+  "lon": 6.2153179
+},
+{
+  "type": "node",
+  "id": 7252348675,
+  "lat": 52.2480728,
+  "lon": 6.2152715
+},
+{
+  "type": "node",
+  "id": 9935663720,
+  "lat": 52.2482673,
+  "lon": 6.2152188
+},
+{
+  "type": "node",
+  "id": 9935692882,
+  "lat": 52.2480750,
+  "lon": 6.2152008
+},
+{
+  "type": "node",
+  "id": 9935692909,
+  "lat": 52.2482577,
+  "lon": 6.2152179
+},
+{
+  "type": "node",
+  "id": 9935692935,
+  "lat": 52.2482812,
+  "lon": 6.2152201
+},
+{
+  "type": "node",
+  "id": 9935692938,
+  "lat": 52.2483235,
+  "lon": 6.2152242
+},
+{
+  "type": "node",
+  "id": 570445585,
+  "lat": 52.2491417,
+  "lon": 6.2135769
+},
+{
+  "type": "node",
+  "id": 5217838032,
+  "lat": 52.2501539,
+  "lon": 6.2147332
+},
+{
+  "type": "node",
+  "id": 5217838033,
+  "lat": 52.2498793,
+  "lon": 6.2147540
+},
+{
+  "type": "node",
+  "id": 5217838034,
+  "lat": 52.2498715,
+  "lon": 6.2144797
+},
+{
+  "type": "node",
+  "id": 5217838035,
+  "lat": 52.2500508,
+  "lon": 6.2146039
+},
+{
+  "type": "node",
+  "id": 5218237083,
+  "lat": 52.2505209,
+  "lon": 6.2151702
+},
+{
+  "type": "node",
+  "id": 5218237084,
+  "lat": 52.2504419,
+  "lon": 6.2151770
+},
+{
+  "type": "node",
+  "id": 5218237085,
+  "lat": 52.2504178,
+  "lon": 6.2145382
+},
+{
+  "type": "node",
+  "id": 5218237086,
+  "lat": 52.2504981,
+  "lon": 6.2145349
+},
+{
+  "type": "node",
+  "id": 5936317629,
+  "lat": 52.2504999,
+  "lon": 6.2145862
+},
+{
+  "type": "node",
+  "id": 7778845598,
+  "lat": 52.2494008,
+  "lon": 6.2134993
+},
+{
+  "type": "node",
+  "id": 7778845599,
+  "lat": 52.2493929,
+  "lon": 6.2135514
+},
+{
+  "type": "node",
+  "id": 7778845600,
+  "lat": 52.2491594,
+  "lon": 6.2134364
+},
+{
+  "type": "node",
+  "id": 9847961522,
+  "lat": 52.2501038,
+  "lon": 6.2147370
+},
+{
+  "type": "node",
+  "id": 9847961523,
+  "lat": 52.2501002,
+  "lon": 6.2146003
+},
+{
+  "type": "node",
+  "id": 9847961524,
+  "lat": 52.2500966,
+  "lon": 6.2144626
+},
+{
+  "type": "node",
+  "id": 9847961526,
+  "lat": 52.2500381,
+  "lon": 6.2144669
+},
+{
+  "type": "node",
+  "id": 9847961528,
+  "lat": 52.2500455,
+  "lon": 6.2147414
+},
+{
+  "type": "node",
+  "id": 9847961531,
+  "lat": 52.2499872,
+  "lon": 6.2147458
+},
+{
+  "type": "node",
+  "id": 9847961532,
+  "lat": 52.2499798,
+  "lon": 6.2144715
+},
+{
+  "type": "node",
+  "id": 9847961535,
+  "lat": 52.2499286,
+  "lon": 6.2147503
+},
+{
+  "type": "node",
+  "id": 9847961536,
+  "lat": 52.2499219,
+  "lon": 6.2144759
+},
+{
+  "type": "node",
+  "id": 9847996101,
+  "lat": 52.2500470,
+  "lon": 6.2144662
+},
+{
+  "type": "node",
+  "id": 9847996102,
+  "lat": 52.2501463,
+  "lon": 6.2144589
+},
+{
+  "type": "node",
+  "id": 9847996103,
+  "lat": 52.2501501,
+  "lon": 6.2145966
+},
+{
+  "type": "node",
+  "id": 10594711815,
+  "lat": 52.2537913,
+  "lon": 6.2148141
+},
+{
+  "type": "node",
+  "id": 10594711816,
+  "lat": 52.2538140,
+  "lon": 6.2147043
+},
+{
+  "type": "node",
+  "id": 10594711817,
+  "lat": 52.2538607,
+  "lon": 6.2147300
+},
+{
+  "type": "node",
+  "id": 10594711818,
+  "lat": 52.2538380,
+  "lon": 6.2148398
+},
+{
+  "type": "node",
+  "id": 10594711819,
+  "lat": 52.2539363,
+  "lon": 6.2148955
+},
+{
+  "type": "node",
+  "id": 10594711820,
+  "lat": 52.2539506,
+  "lon": 6.2148204
+},
+{
+  "type": "node",
+  "id": 10594711821,
+  "lat": 52.2539322,
+  "lon": 6.2147695
+},
+{
+  "type": "node",
+  "id": 12530434060,
+  "lat": 52.2495288,
+  "lon": 6.2864224
+},
+{
+  "type": "node",
+  "id": 12530434061,
+  "lat": 52.2494553,
+  "lon": 6.2863835
+},
+{
+  "type": "node",
+  "id": 12530434062,
+  "lat": 52.2494504,
+  "lon": 6.2864059
+},
+{
+  "type": "node",
+  "id": 12530434063,
+  "lat": 52.2495243,
+  "lon": 6.2864483
+},
+{
+  "type": "node",
+  "id": 12530434064,
+  "lat": 52.2496419,
+  "lon": 6.2864913
+},
+{
+  "type": "node",
+  "id": 12530434065,
+  "lat": 52.2495858,
+  "lon": 6.2864630
+},
+{
+  "type": "node",
+  "id": 12530434066,
+  "lat": 52.2495819,
+  "lon": 6.2864837
+},
+{
+  "type": "node",
+  "id": 12530434067,
+  "lat": 52.2496380,
+  "lon": 6.2865120
+},
+{
+  "type": "node",
+  "id": 721524210,
+  "lat": 52.2545203,
+  "lon": 6.3563547
+},
+{
+  "type": "node",
+  "id": 721528787,
+  "lat": 52.2545555,
+  "lon": 6.3562785
+},
+{
+  "type": "node",
+  "id": 721532158,
+  "lat": 52.2544322,
+  "lon": 6.3559021
+},
+{
+  "type": "node",
+  "id": 721535293,
+  "lat": 52.2545579,
+  "lon": 6.3562948
+},
+{
+  "type": "node",
+  "id": 11730262686,
+  "lat": 52.2543862,
+  "lon": 6.3559535
+},
+{
+  "type": "node",
+  "id": 11730262690,
+  "lat": 52.2545065,
+  "lon": 6.3563134
+}
+
+  ]
+}
