@@ -1,0 +1,46 @@
+name: Export OSM fietsparkeren Deventer
+
+on:
+  # Elke maand op de 1e, om 03:00 UTC
+  schedule:
+    - cron: '0 3 1 * *'
+
+  # Handmatig kunnen starten (handig om te testen)
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  export:
+    runs-on: ubuntu-latest
+
+    steps:
+      # 1. Repo downloaden
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      # 2. Overpass query uitvoeren
+      - name: Run Overpass query
+        run: |
+          mkdir -p data
+          curl -sS --fail \
+            --retry 5 --retry-delay 5 --retry-all-errors \
+            -X POST \
+            --data-binary @query.overpassql \
+            https://overpass-api.de/api/interpreter \
+            -o data/bicycle_parking_deventer.json
+
+      # 3. Commit alleen als er echt iets veranderd is
+      - name: Commit result if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          if git status --porcelain | grep -q .; then
+            git add data/bicycle_parking_deventer.json
+            git commit -m "Monthly OSM export bicycle parking Deventer"
+            git push
+          else
+            echo "No changes detected"
+          fi
