@@ -1,11 +1,8 @@
-name: Export OSM fietsparkeren Deventer
+name: Export OSM fietsparkeren Deventer (punten + polygon-centroids)
 
 on:
-  # Elke maand op de 1e, om 03:00 UTC
   schedule:
     - cron: '0 3 1 * *'
-
-  # Handmatig kunnen starten (handig om te testen)
   workflow_dispatch:
 
 permissions:
@@ -14,44 +11,45 @@ permissions:
 jobs:
   export:
     runs-on: ubuntu-latest
-
     steps:
-      # 1. Repo downloaden
-      - name: Checkout repository
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
 
-      # 2. Overpass query uitvoeren
-      - name: Install osmtogeojson
+      - name: Install tools
         run: |
           sudo apt-get update
-          sudo apt-get install -y npm
+          sudo apt-get install -y gdal-bin npm
           npm install -g osmtogeojson
 
-      - name: Run Overpass query (OSM JSON)
+      - name: Overpass – punten
         run: |
           mkdir -p data
-          curl -sS --fail \
-            --retry 5 --retry-delay 5 --retry-all-errors \
-            -X POST \
-            --data-binary @query.overpassql \
+          curl -sS --fail --retry 5 --retry-delay 5 --retry-all-errors \
+            -X POST --data-binary @querypoints.overpassql \
             https://overpass-api.de/api/interpreter \
-            -o data/bicycle_parking_deventer.osm.json
+            -o data/bicycle_parking_points.osm.json
+          osmtogeojson data/bicycle_parking_points.osm.json \
+            > data/bicycle_parking_points.geojson
 
-      - name: Convert to GeoJSON
+      - name: Overpass – polygonen
         run: |
-          osmtogeojson data/bicycle_parking_deventer.osm.json \
-            > data/bicycle_parking_deventer.geojson
+          curl -sS --fail --retry 5 --retry-delay 5 --retry-all-errors \
+            -X POST --data-binary @querypolygons.overpassql \
+            https://overpass-api.de/api/interpreter \
+            -o data/bicycle_parking_polygons.osm.json
+          osmtogeojson data/bicycle_parking_polygons.osm.json \
+            > data/bicycle_parking_polygons.geojson
 
-      # 3. Commit alleen als er echt iets veranderd is
-      - name: Commit result if changed
+      - name: Polygonen → centroids
+        run: |
+          ogr2ogr -f GeoJSON -dialect sqlite \
+            -sql "SELECT *, ST_PointOnSurface(geometry) AS geometry FROM OGRGeoJSON" \
+            data/bicycle_parking_polygon_centroids.geojson \
+            data/bicycle_parking_polygons.geojson
+
+      - name: Commit outputs
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-
-          if git status --porcelain | grep -q .; then
-            git add data/bicycle_parking_deventer.geojson
-            git commit -m "Monthly OSM export bicycle parking Deventer"
-            git push
-          else
-            echo "No changes detected"
-          fi
+          git add data/bicycle_parking_points.geojson data/bicycle_parking_polygon_centroids.geojson
+          git commit -m "Update OSM fietsparkeren exports" || echo "No changes"
+          git push
