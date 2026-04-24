@@ -42,7 +42,7 @@ jobs:
       - name: Polygonen → centroids
         run: |
           ogr2ogr -f GeoJSON -dialect sqlite \
-            -sql "SELECT *, ST_PointOnSurface(geometry) AS geometry FROM bicycle_parking_polygons" \
+            -sql "SELECT ST_PointOnSurface(geometry) AS geometry, * FROM bicycle_parking_polygons" \
             data/bicycle_parking_polygon_centroids.geojson \
             data/bicycle_parking_polygons.geojson
 
