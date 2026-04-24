@@ -17,7 +17,7 @@ jobs:
       - name: Install tools
         run: |
           sudo apt-get update
-          sudo apt-get install -y gdal-bin npm
+          sudo apt-get install -y gdal-bin npm jq
           npm install -g osmtogeojson
 
       - name: Overpass – punten
@@ -45,11 +45,21 @@ jobs:
             -sql "SELECT ST_PointOnSurface(geometry) AS geometry, * FROM bicycle_parking_polygons" \
             data/bicycle_parking_polygon_centroids.geojson \
             data/bicycle_parking_polygons.geojson
+            
+      - name: Merge to 1 points layer
+        run: |
+          jq -s '{
+            type: "FeatureCollection",
+            features: (.[0].features + .[1].features)
+          }' \
+          data/bicycle_parking_points.geojson \
+          data/bicycle_parking_polygon_centroids.geojson \
+          > data/bicycle_parking_all_points.geojson
 
       - name: Commit outputs
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add data/bicycle_parking_points.geojson data/bicycle_parking_polygon_centroids.geojson
+          git add data/bicycle_parking_points.geojson data/bicycle_parking_polygon_centroids.geojson data/bicycle_parking_all_points.geojson
           git commit -m "Update OSM fietsparkeren exports" || echo "No changes"
           git push
