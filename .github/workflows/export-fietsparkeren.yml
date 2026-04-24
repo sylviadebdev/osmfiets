@@ -54,8 +54,13 @@ jobs:
             features: (.[0].features + .[1].features)
           }
           | (.features[]?.properties.capacity |=
-              (try (tonumber | floor) catch .)
+              if . == null or . == "" then null
+              elif (type == "number") then .
+              elif (type == "string") then (try (tonumber | floor) catch null)
+              else null
+              end
             )
+          | (.features[]?.properties |= with_entries(select(.value != null)))
           ' \
           data/bicycle_parking_points.geojson \
           data/bicycle_parking_polygon_centroids.geojson \
