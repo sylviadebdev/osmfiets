@@ -6,7 +6,8 @@
       "id": "node/1777396183",
       "properties": {
         "amenity": "bicycle_parking",
-        "id": "node/1777396183"
+        "id": "node/1777396183",
+        "capacity": "null (null) cannot be parsed as a number"
       },
       "geometry": {
         "type": "Point",
@@ -23,7 +24,7 @@
         "access": "private",
         "amenity": "bicycle_parking",
         "bicycle_parking": "building",
-        "capacity": "100",
+        "capacity": 100,
         "covered": "no",
         "fee": "no",
         "id": "node/1837050320"
@@ -42,7 +43,7 @@
       "properties": {
         "amenity": "bicycle_parking",
         "bicycle_parking": "stands",
-        "capacity": "8",
+        "capacity": 8,
         "check_date": "2023-10-22",
         "covered": "no",
         "fee": "no",
@@ -64,7 +65,8 @@
       "properties": {
         "amenity": "bicycle_parking",
         "bicycle_parking": "stands",
-        "id": "node/5702825687"
+        "id": "node/5702825687",
+        "capacity": "null (null) cannot be parsed as a number"
       },
       "geometry": {
         "type": "Point",
@@ -80,7 +82,7 @@
       "properties": {
         "amenity": "bicycle_parking",
         "bicycle_parking": "stands",
-        "capacity": "64",
+        "capacity": 64,
         "covered": "no",
         "id": "node/9500574161"
       },
@@ -99,7 +101,7 @@
         "access": "customers",
         "amenity": "bicycle_parking",
         "bicycle_parking": "wall_loops",
-        "capacity": "25",
+        "capacity": 25,
         "covered": "no",
         "id": "node/9653910806"
       },
@@ -117,7 +119,8 @@
       "properties": {
         "amenity": "bicycle_parking",
         "covered": "no",
-        "id": "node/9654315726"
+        "id": "node/9654315726",
+        "capacity": "null (null) cannot be parsed as a number"
       },
       "geometry": {
         "type": "Point",
@@ -134,7 +137,7 @@
         "access": "yes",
         "amenity": "bicycle_parking",
         "bicycle_parking": "stands",
-        "capacity": "20",
+        "capacity": 20,
         "fee": "no",
         "id": "node/9655941713"
       },
@@ -153,7 +156,7 @@
         "access": "yes",
         "amenity": "bicycle_parking",
         "bicycle_parking": "stands",
-        "capacity": "16",
+        "capacity": 16,
         "covered": "no",
         "fee": "no",
         "id": "node/9655941714"
@@ -173,7 +176,7 @@
         "access": "yes",
         "amenity": "bicycle_parking",
         "bicycle_parking": "stands",
-        "capacity": "12",
+        "capacity": 12,
         "fee": "no",
         "id": "node/9655997544"
       },
@@ -192,7 +195,7 @@
         "access": "yes",
         "amenity": "bicycle_parking",
         "bicycle_parking": "stands",
-        "capacity": "54",
+        "capacity": 54,
         "covered": "no",
         "fee": "no",
         "id": "node/9655997546"
@@ -211,7 +214,8 @@
       "properties": {
         "access": "private",
         "amenity": "bicycle_parking",
-        "id": "node/9930084915"
+        "id": "node/9930084915",
+        "capacity": "null (null) cannot be parsed as a number"
       },
       "geometry": {
         "type": "Point",
@@ -227,7 +231,8 @@
       "properties": {
         "access": "private",
         "amenity": "bicycle_parking",
-        "id": "node/11156679782"
+        "id": "node/11156679782",
+        "capacity": "null (null) cannot be parsed as a number"
       },
       "geometry": {
         "type": "Point",
@@ -242,7 +247,7 @@
       "id": "node/11465239259",
       "properties": {
         "amenity": "bicycle_parking",
-        "capacity": "6",
+        "capacity": 6,
         "covered": "yes",
         "id": "node/11465239259"
       },
@@ -260,7 +265,7 @@
       "properties": {
         "amenity": "bicycle_parking",
         "bicycle_parking": "stands",
-        "capacity": "4",
+        "capacity": 4,
         "covered": "no",
         "id": "node/12124311740"
       },
@@ -277,7 +282,8 @@
       "id": "node/12915275906",
       "properties": {
         "amenity": "bicycle_parking",
-        "id": "node/12915275906"
+        "id": "node/12915275906",
+        "capacity": "null (null) cannot be parsed as a number"
       },
       "geometry": {
         "type": "Point",
@@ -292,7 +298,7 @@
       "id": "node/13050220305",
       "properties": {
         "amenity": "bicycle_parking",
-        "capacity": "6",
+        "capacity": 6,
         "id": "node/13050220305"
       },
       "geometry": {
@@ -308,7 +314,8 @@
       "id": "node/13372404178",
       "properties": {
         "amenity": "bicycle_parking",
-        "id": "node/13372404178"
+        "id": "node/13372404178",
+        "capacity": "null (null) cannot be parsed as a number"
       },
       "geometry": {
         "type": "Point",
@@ -323,7 +330,8 @@
       "id": "node/13372404179",
       "properties": {
         "amenity": "bicycle_parking",
-        "id": "node/13372404179"
+        "id": "node/13372404179",
+        "capacity": "null (null) cannot be parsed as a number"
       },
       "geometry": {
         "type": "Point",
@@ -338,7 +346,7 @@
       "id": "node/13372497784",
       "properties": {
         "amenity": "bicycle_parking",
-        "capacity": "20",
+        "capacity": 20,
         "id": "node/13372497784"
       },
       "geometry": {
@@ -354,7 +362,7 @@
       "id": "node/13372497785",
       "properties": {
         "amenity": "bicycle_parking",
-        "capacity": "20",
+        "capacity": 20,
         "id": "node/13372497785"
       },
       "geometry": {
@@ -370,7 +378,7 @@
       "id": "node/13372497786",
       "properties": {
         "amenity": "bicycle_parking",
-        "capacity": "20",
+        "capacity": 20,
         "id": "node/13372497786"
       },
       "geometry": {
@@ -390,7 +398,8 @@
         "bicycle_parking": "shed",
         "covered": "yes",
         "fee": "no",
-        "id": "node/13387177138"
+        "id": "node/13387177138",
+        "capacity": "null (null) cannot be parsed as a number"
       },
       "geometry": {
         "type": "Point",
@@ -407,7 +416,7 @@
         "access": "yes",
         "amenity": "bicycle_parking",
         "bicycle_parking": "stands",
-        "capacity": "6",
+        "capacity": 6,
         "check_date": "2026-02-12",
         "covered": "no",
         "fee": "no",
@@ -429,7 +438,7 @@
         "access": "yes",
         "amenity": "bicycle_parking",
         "bicycle_parking": "stands",
-        "capacity": "6",
+        "capacity": 6,
         "check_date": "2026-02-12",
         "covered": "no",
         "fee": "no",
@@ -451,7 +460,7 @@
         "access": "yes",
         "amenity": "bicycle_parking",
         "bicycle_parking": "stands",
-        "capacity": "6",
+        "capacity": 6,
         "check_date": "2026-02-12",
         "covered": "no",
         "fee": "no",
@@ -473,7 +482,7 @@
         "access": "yes",
         "amenity": "bicycle_parking",
         "bicycle_parking": "stands",
-        "capacity": "8",
+        "capacity": 8,
         "check_date": "2026-02-12",
         "covered": "no",
         "fee": "no",
@@ -495,7 +504,7 @@
         "access": "yes",
         "amenity": "bicycle_parking",
         "bicycle_parking": "stands",
-        "capacity": "4",
+        "capacity": 4,
         "check_date": "2026-02-12",
         "covered": "no",
         "fee": "no",
@@ -517,7 +526,7 @@
         "access": "yes",
         "amenity": "bicycle_parking",
         "bicycle_parking": "stands",
-        "capacity": "8",
+        "capacity": 8,
         "check_date": "2026-02-12",
         "covered": "no",
         "fee": "no",
@@ -539,7 +548,7 @@
         "access": "yes",
         "amenity": "bicycle_parking",
         "bicycle_parking": "stands",
-        "capacity": "30",
+        "capacity": 30,
         "covered": "no",
         "fee": "no",
         "id": "node/13546809609"
@@ -559,7 +568,7 @@
         "access": "yes",
         "amenity": "bicycle_parking",
         "bicycle_parking": "stands",
-        "capacity": "24",
+        "capacity": 24,
         "covered": "no",
         "fee": "no",
         "id": "node/13546809610"
@@ -579,7 +588,7 @@
         "access": "yes",
         "amenity": "bicycle_parking",
         "bicycle_parking": "stands",
-        "capacity": "30",
+        "capacity": 30,
         "fee": "no",
         "id": "node/13570293261"
       },
@@ -598,7 +607,7 @@
         "access": "yes",
         "amenity": "bicycle_parking",
         "bicycle_parking": "stands",
-        "capacity": "16",
+        "capacity": 16,
         "fee": "no",
         "id": "node/13570293262"
       },
@@ -617,7 +626,7 @@
         "access": "yes",
         "amenity": "bicycle_parking",
         "bicycle_parking": "stands",
-        "capacity": "16",
+        "capacity": 16,
         "fee": "no",
         "id": "node/13570293263"
       },
@@ -636,7 +645,7 @@
         "access": "yes",
         "amenity": "bicycle_parking",
         "bicycle_parking": "stands",
-        "capacity": "16",
+        "capacity": 16,
         "fee": "no",
         "id": "node/13570293264"
       },
@@ -655,7 +664,7 @@
         "access": "yes",
         "amenity": "bicycle_parking",
         "bicycle_parking": "stands",
-        "capacity": "32",
+        "capacity": 32,
         "fee": "no",
         "id": "node/13570293265"
       },
@@ -674,7 +683,7 @@
         "access": "yes",
         "amenity": "bicycle_parking",
         "bicycle_parking": "stands",
-        "capacity": "14",
+        "capacity": 14,
         "fee": "no",
         "id": "node/13570316000"
       },
@@ -693,7 +702,7 @@
         "access": "yes",
         "amenity": "bicycle_parking",
         "bicycle_parking": "stands",
-        "capacity": "14",
+        "capacity": 14,
         "fee": "no",
         "id": "node/13570346691"
       },
@@ -712,7 +721,7 @@
         "access": "yes",
         "amenity": "bicycle_parking",
         "bicycle_parking": "stands",
-        "capacity": "4",
+        "capacity": 4,
         "fee": "no",
         "id": "node/13570346692"
       },
@@ -731,7 +740,7 @@
         "access": "yes",
         "amenity": "bicycle_parking",
         "bicycle_parking": "stands",
-        "capacity": "14",
+        "capacity": 14,
         "fee": "no",
         "id": "node/13570346693"
       },
@@ -750,7 +759,7 @@
         "access": "yes",
         "amenity": "bicycle_parking",
         "bicycle_parking": "stands",
-        "capacity": "4",
+        "capacity": 4,
         "fee": "no",
         "id": "node/13570346694"
       },
@@ -769,7 +778,7 @@
         "access": "yes",
         "amenity": "bicycle_parking",
         "bicycle_parking": "stands",
-        "capacity": "4",
+        "capacity": 4,
         "fee": "no",
         "id": "node/13570346695"
       },
@@ -788,7 +797,7 @@
         "access": "yes",
         "amenity": "bicycle_parking",
         "bicycle_parking": "stands",
-        "capacity": "12",
+        "capacity": 12,
         "fee": "no",
         "id": "node/13570346696"
       },
@@ -807,7 +816,7 @@
         "access": "yes",
         "amenity": "bicycle_parking",
         "bicycle_parking": "stands",
-        "capacity": "4",
+        "capacity": 4,
         "fee": "no",
         "id": "node/13570346697"
       },
@@ -826,7 +835,7 @@
         "access": "yes",
         "amenity": "bicycle_parking",
         "bicycle_parking": "wall_loops",
-        "capacity": "40",
+        "capacity": 40,
         "fee": "no",
         "id": "node/13570346698"
       },
@@ -846,7 +855,8 @@
         "amenity": "bicycle_parking",
         "bicycle_parking": "stands",
         "fee": "no",
-        "id": "node/13570378301"
+        "id": "node/13570378301",
+        "capacity": "null (null) cannot be parsed as a number"
       },
       "geometry": {
         "type": "Point",
@@ -863,7 +873,7 @@
         "access": "yes",
         "amenity": "bicycle_parking",
         "bicycle_parking": "stands",
-        "capacity": "62",
+        "capacity": 62,
         "fee": "no",
         "id": "node/13570678248"
       },
@@ -882,7 +892,7 @@
         "access": "yes",
         "amenity": "bicycle_parking",
         "bicycle_parking": "stands",
-        "capacity": "22",
+        "capacity": 22,
         "fee": "no",
         "id": "node/13570678249"
       },
@@ -901,7 +911,7 @@
         "access": "yes",
         "amenity": "bicycle_parking",
         "bicycle_parking": "stands",
-        "capacity": "22",
+        "capacity": 22,
         "fee": "no",
         "id": "node/13570678250"
       },
@@ -920,7 +930,7 @@
         "access": "yes",
         "amenity": "bicycle_parking",
         "bicycle_parking": "stands",
-        "capacity": "22",
+        "capacity": 22,
         "fee": "no",
         "id": "node/13570678251"
       },
@@ -939,7 +949,7 @@
         "access": "yes",
         "amenity": "bicycle_parking",
         "bicycle_parking": "stands",
-        "capacity": "12",
+        "capacity": 12,
         "fee": "no",
         "id": "node/13570678252"
       },
@@ -958,7 +968,7 @@
         "access": "yes",
         "amenity": "bicycle_parking",
         "bicycle_parking": "handlebar_holder",
-        "capacity": "396",
+        "capacity": 396,
         "fee": "no",
         "id": "node/13570683650"
       },
@@ -977,7 +987,7 @@
         "access": "yes",
         "amenity": "bicycle_parking",
         "bicycle_parking": "stands",
-        "capacity": "46",
+        "capacity": 46,
         "fee": "no",
         "id": "node/13570683651"
       },
@@ -997,7 +1007,8 @@
         "amenity": "bicycle_parking",
         "bicycle_parking": "wall_loops",
         "fee": "no",
-        "id": "node/13570683652"
+        "id": "node/13570683652",
+        "capacity": "null (null) cannot be parsed as a number"
       },
       "geometry": {
         "type": "Point",
@@ -1014,7 +1025,7 @@
         "access": "yes",
         "amenity": "bicycle_parking",
         "bicycle_parking": "wall_loops",
-        "capacity": "18",
+        "capacity": 18,
         "fee": "no",
         "id": "node/13570683653"
       },
@@ -1033,7 +1044,7 @@
         "access": "yes",
         "amenity": "bicycle_parking",
         "bicycle_parking": "wall_loops",
-        "capacity": "14",
+        "capacity": 14,
         "fee": "no",
         "id": "node/13570683654"
       },
@@ -1052,7 +1063,7 @@
         "access": "yes",
         "amenity": "bicycle_parking",
         "bicycle_parking": "wall_loops",
-        "capacity": "16",
+        "capacity": 16,
         "fee": "no",
         "id": "node/13570683655"
       },
@@ -1071,7 +1082,7 @@
         "access": "yes",
         "amenity": "bicycle_parking",
         "bicycle_parking": "stands",
-        "capacity": "12",
+        "capacity": 12,
         "fee": "no",
         "id": "node/13570683656"
       },
@@ -1090,7 +1101,7 @@
         "access": "yes",
         "amenity": "bicycle_parking",
         "bicycle_parking": "wall_loops",
-        "capacity": "4",
+        "capacity": 4,
         "fee": "no",
         "id": "node/13570683657"
       },
@@ -1108,7 +1119,7 @@
       "properties": {
         "amenity": "bicycle_parking",
         "bicycle_parking": "stands",
-        "capacity": "14",
+        "capacity": 14,
         "id": "node/13602876239"
       },
       "geometry": {
@@ -1125,7 +1136,7 @@
       "properties": {
         "amenity": "bicycle_parking",
         "bicycle_parking": "stands",
-        "capacity": "16",
+        "capacity": 16,
         "id": "node/13602876240"
       },
       "geometry": {
@@ -1142,7 +1153,7 @@
       "properties": {
         "amenity": "bicycle_parking",
         "bicycle_parking": "stands",
-        "capacity": "38",
+        "capacity": 38,
         "id": "node/13602981118"
       },
       "geometry": {
@@ -1159,7 +1170,7 @@
       "properties": {
         "amenity": "bicycle_parking",
         "bicycle_parking": "stands",
-        "capacity": "30",
+        "capacity": 30,
         "covered": "no",
         "id": "node/13602981119"
       },
@@ -1177,7 +1188,7 @@
       "properties": {
         "amenity": "bicycle_parking",
         "bicycle_parking": "stands",
-        "capacity": "16",
+        "capacity": 16,
         "id": "node/13602981120"
       },
       "geometry": {
@@ -1194,7 +1205,7 @@
       "properties": {
         "amenity": "bicycle_parking",
         "bicycle_parking": "stands",
-        "capacity": "10",
+        "capacity": 10,
         "id": "node/13602981121"
       },
       "geometry": {
@@ -1211,7 +1222,7 @@
       "properties": {
         "amenity": "bicycle_parking",
         "bicycle_parking": "wall_loops",
-        "capacity": "10",
+        "capacity": 10,
         "id": "node/13665688500"
       },
       "geometry": {
@@ -1229,7 +1240,7 @@
         "access": "yes",
         "amenity": "bicycle_parking",
         "bicycle_parking": "wall_loops",
-        "capacity": "24",
+        "capacity": 24,
         "covered": "no",
         "fee": "no",
         "id": "node/13714763488"
@@ -1249,7 +1260,7 @@
         "access": "yes",
         "amenity": "bicycle_parking",
         "bicycle_parking": "stands",
-        "capacity": "12",
+        "capacity": 12,
         "covered": "no",
         "fee": "no",
         "id": "node/13714763489"
@@ -1269,7 +1280,7 @@
         "access": "yes",
         "amenity": "bicycle_parking",
         "bicycle_parking": "wall_loops",
-        "capacity": "5",
+        "capacity": 5,
         "covered": "no",
         "fee": "no",
         "id": "node/13717163596"
@@ -1289,7 +1300,7 @@
         "access": "yes",
         "amenity": "bicycle_parking",
         "bicycle_parking": "wall_loops",
-        "capacity": "3",
+        "capacity": 3,
         "covered": "no",
         "fee": "no",
         "id": "node/13717163599"
@@ -1309,7 +1320,7 @@
         "access": "yes",
         "amenity": "bicycle_parking",
         "bicycle_parking": "wall_loops",
-        "capacity": "9",
+        "capacity": 9,
         "covered": "no",
         "fee": "no",
         "id": "node/13717163600"
@@ -1329,7 +1340,7 @@
         "access": "yes",
         "amenity": "bicycle_parking",
         "bicycle_parking": "wall_loops",
-        "capacity": "3",
+        "capacity": 3,
         "covered": "no",
         "fee": "no",
         "id": "node/13717189401"
@@ -1349,7 +1360,7 @@
         "access": "yes",
         "amenity": "bicycle_parking",
         "bicycle_parking": "wall_loops",
-        "capacity": "4",
+        "capacity": 4,
         "covered": "no",
         "fee": "no",
         "id": "node/13717189402"
@@ -1369,7 +1380,7 @@
         "access": "yes",
         "amenity": "bicycle_parking",
         "bicycle_parking": "wall_loops",
-        "capacity": "4",
+        "capacity": 4,
         "covered": "no",
         "fee": "no",
         "id": "node/13717189403"
@@ -1389,7 +1400,7 @@
         "access": "yes",
         "amenity": "bicycle_parking",
         "bicycle_parking": "wall_loops",
-        "capacity": "5",
+        "capacity": 5,
         "covered": "no",
         "fee": "no",
         "id": "node/13717189404"
@@ -1409,7 +1420,7 @@
         "access": "yes",
         "amenity": "bicycle_parking",
         "bicycle_parking": "wall_loops",
-        "capacity": "5",
+        "capacity": 5,
         "covered": "no",
         "fee": "no",
         "id": "node/13717189405"
@@ -1429,7 +1440,7 @@
         "access": "yes",
         "amenity": "bicycle_parking",
         "bicycle_parking": "wall_loops",
-        "capacity": "3",
+        "capacity": 3,
         "covered": "no",
         "fee": "no",
         "id": "node/13717189409"
@@ -1447,7 +1458,7 @@
       "id": "node/13729586271",
       "properties": {
         "amenity": "bicycle_parking",
-        "capacity": "20",
+        "capacity": 20,
         "id": "node/13729586271"
       },
       "geometry": {
@@ -1463,7 +1474,7 @@
       "id": "node/13729593733",
       "properties": {
         "amenity": "bicycle_parking",
-        "capacity": "24",
+        "capacity": 24,
         "covered": "no",
         "fee": "no",
         "id": "node/13729593733"
@@ -1481,7 +1492,7 @@
       "id": "node/13729593734",
       "properties": {
         "amenity": "bicycle_parking",
-        "capacity": "30",
+        "capacity": 30,
         "id": "node/13729593734"
       },
       "geometry": {
@@ -1499,7 +1510,7 @@
         "access": "yes",
         "amenity": "bicycle_parking",
         "bicycle_parking": "stands",
-        "capacity": "25",
+        "capacity": 25,
         "covered": "no",
         "id": "node/13734870470"
       },
@@ -1517,7 +1528,7 @@
       "properties": {
         "amenity": "bicycle_parking",
         "bicycle_parking": "wall_loops",
-        "capacity": "24",
+        "capacity": 24,
         "covered": "no",
         "id": "node/13744486520"
       },
@@ -1535,7 +1546,7 @@
       "properties": {
         "amenity": "bicycle_parking",
         "bicycle_parking": "stands",
-        "capacity": "16",
+        "capacity": 16,
         "id": "node/13744486521"
       },
       "geometry": {
@@ -1552,7 +1563,7 @@
       "properties": {
         "amenity": "bicycle_parking",
         "bicycle_parking": "stands",
-        "capacity": "102",
+        "capacity": 102,
         "id": "node/13744486522"
       },
       "geometry": {
@@ -1569,7 +1580,7 @@
       "properties": {
         "amenity": "bicycle_parking",
         "bicycle_parking": "stands",
-        "capacity": "18",
+        "capacity": 18,
         "id": "node/13744524447"
       },
       "geometry": {
@@ -1585,7 +1596,7 @@
       "id": "node/13744524448",
       "properties": {
         "amenity": "bicycle_parking",
-        "capacity": "18",
+        "capacity": 18,
         "id": "node/13744524448"
       },
       "geometry": {
@@ -1602,7 +1613,8 @@
       "properties": {
         "amenity": "bicycle_parking",
         "bicycle_parking": "20",
-        "id": "node/13744524449"
+        "id": "node/13744524449",
+        "capacity": "null (null) cannot be parsed as a number"
       },
       "geometry": {
         "type": "Point",
@@ -1617,7 +1629,7 @@
       "id": "node/13744524450",
       "properties": {
         "amenity": "bicycle_parking",
-        "capacity": "16",
+        "capacity": 16,
         "id": "node/13744524450"
       },
       "geometry": {
@@ -1634,7 +1646,7 @@
       "properties": {
         "amenity": "bicycle_parking",
         "bicycle_parking": "stands",
-        "capacity": "16",
+        "capacity": 16,
         "id": "node/13744524451"
       },
       "geometry": {
@@ -1651,7 +1663,7 @@
       "properties": {
         "amenity": "bicycle_parking",
         "bicycle_parking": "stands",
-        "capacity": "16",
+        "capacity": 16,
         "id": "node/13744524452"
       },
       "geometry": {
@@ -1668,7 +1680,7 @@
       "properties": {
         "amenity": "bicycle_parking",
         "bicycle_parking": "stands",
-        "capacity": "12",
+        "capacity": 12,
         "id": "node/13744524453"
       },
       "geometry": {
@@ -1685,7 +1697,7 @@
       "properties": {
         "amenity": "bicycle_parking",
         "bicycle_parking": "stands",
-        "capacity": "8",
+        "capacity": 8,
         "id": "node/13744524454"
       },
       "geometry": {
@@ -1703,7 +1715,7 @@
         "access": "yes",
         "amenity": "bicycle_parking",
         "bicycle_parking": "wall_loops",
-        "capacity": "14",
+        "capacity": 14,
         "covered": "no",
         "fee": "no",
         "id": "node/13745878734"
@@ -1723,7 +1735,7 @@
         "access": "yes",
         "amenity": "bicycle_parking",
         "bicycle_parking": "wall_loops",
-        "capacity": "15",
+        "capacity": 15,
         "covered": "no",
         "fee": "no",
         "id": "node/13745878738"
@@ -1741,7 +1753,7 @@
       "id": "node/13758264765",
       "properties": {
         "amenity": "bicycle_parking",
-        "capacity": "16",
+        "capacity": 16,
         "id": "node/13758264765"
       },
       "geometry": {
@@ -1757,7 +1769,7 @@
       "id": "node/13758377589",
       "properties": {
         "amenity": "bicycle_parking",
-        "capacity": "19",
+        "capacity": 19,
         "id": "node/13758377589"
       },
       "geometry": {
@@ -1773,7 +1785,7 @@
       "id": "node/13758396674",
       "properties": {
         "amenity": "bicycle_parking",
-        "capacity": "12",
+        "capacity": 12,
         "id": "node/13758396674"
       },
       "geometry": {
@@ -1793,7 +1805,7 @@
         "bicycle_parking": "wall_loops",
         "building": null,
         "building:levels:underground": null,
-        "capacity": "270",
+        "capacity": 270,
         "covered": "yes",
         "fee": null,
         "heritage": null,
@@ -1838,7 +1850,7 @@
         "bicycle_parking": "wall_loops",
         "building": null,
         "building:levels:underground": null,
-        "capacity": "350",
+        "capacity": 350,
         "covered": "yes",
         "fee": null,
         "heritage": null,
@@ -1883,7 +1895,7 @@
         "bicycle_parking": "building",
         "building": "yes",
         "building:levels:underground": "1",
-        "capacity": "3000",
+        "capacity": 3000,
         "covered": "yes",
         "fee": "no",
         "heritage": null,
@@ -1928,7 +1940,7 @@
         "bicycle_parking": "wall_loops",
         "building": null,
         "building:levels:underground": null,
-        "capacity": "64",
+        "capacity": 64,
         "covered": null,
         "fee": null,
         "heritage": null,
@@ -1973,7 +1985,7 @@
         "bicycle_parking": "wall_loops",
         "building": null,
         "building:levels:underground": null,
-        "capacity": null,
+        "capacity": "null (null) cannot be parsed as a number",
         "covered": "yes",
         "fee": "no",
         "heritage": null,
@@ -2018,7 +2030,7 @@
         "bicycle_parking": "stands",
         "building": null,
         "building:levels:underground": null,
-        "capacity": null,
+        "capacity": "null (null) cannot be parsed as a number",
         "covered": "yes",
         "fee": "no",
         "heritage": null,
@@ -2063,7 +2075,7 @@
         "bicycle_parking": "stands",
         "building": null,
         "building:levels:underground": null,
-        "capacity": null,
+        "capacity": "null (null) cannot be parsed as a number",
         "covered": null,
         "fee": null,
         "heritage": null,
@@ -2108,7 +2120,7 @@
         "bicycle_parking": "shed",
         "building": null,
         "building:levels:underground": null,
-        "capacity": "200",
+        "capacity": 200,
         "covered": "yes",
         "fee": "no",
         "heritage": null,
@@ -2153,7 +2165,7 @@
         "bicycle_parking": null,
         "building": null,
         "building:levels:underground": null,
-        "capacity": "200",
+        "capacity": 200,
         "covered": "yes",
         "fee": "no",
         "heritage": null,
@@ -2198,7 +2210,7 @@
         "bicycle_parking": "stands",
         "building": null,
         "building:levels:underground": null,
-        "capacity": null,
+        "capacity": "null (null) cannot be parsed as a number",
         "covered": null,
         "fee": null,
         "heritage": null,
@@ -2243,7 +2255,7 @@
         "bicycle_parking": null,
         "building": null,
         "building:levels:underground": null,
-        "capacity": null,
+        "capacity": "null (null) cannot be parsed as a number",
         "covered": "no",
         "fee": "no",
         "heritage": null,
@@ -2288,7 +2300,7 @@
         "bicycle_parking": "shed",
         "building": null,
         "building:levels:underground": null,
-        "capacity": "20",
+        "capacity": 20,
         "covered": null,
         "fee": "no",
         "heritage": null,
@@ -2333,7 +2345,7 @@
         "bicycle_parking": null,
         "building": null,
         "building:levels:underground": null,
-        "capacity": "500",
+        "capacity": 500,
         "covered": "no",
         "fee": "no",
         "heritage": null,
@@ -2378,7 +2390,7 @@
         "bicycle_parking": "stands",
         "building": null,
         "building:levels:underground": null,
-        "capacity": null,
+        "capacity": "null (null) cannot be parsed as a number",
         "covered": null,
         "fee": null,
         "heritage": null,
@@ -2423,7 +2435,7 @@
         "bicycle_parking": "lockers",
         "building": null,
         "building:levels:underground": null,
-        "capacity": null,
+        "capacity": "null (null) cannot be parsed as a number",
         "covered": "yes",
         "fee": null,
         "heritage": null,
@@ -2468,7 +2480,7 @@
         "bicycle_parking": null,
         "building": null,
         "building:levels:underground": null,
-        "capacity": null,
+        "capacity": "null (null) cannot be parsed as a number",
         "covered": null,
         "fee": null,
         "heritage": null,
@@ -2513,7 +2525,7 @@
         "bicycle_parking": "wall_loops",
         "building": null,
         "building:levels:underground": null,
-        "capacity": "120",
+        "capacity": 120,
         "covered": "no",
         "fee": "no",
         "heritage": null,
@@ -2558,7 +2570,7 @@
         "bicycle_parking": "wall_loops",
         "building": "roof",
         "building:levels:underground": null,
-        "capacity": "120",
+        "capacity": 120,
         "covered": "yes",
         "fee": null,
         "heritage": "2",
@@ -2603,7 +2615,7 @@
         "bicycle_parking": null,
         "building": null,
         "building:levels:underground": null,
-        "capacity": null,
+        "capacity": "null (null) cannot be parsed as a number",
         "covered": null,
         "fee": null,
         "heritage": null,
@@ -2648,7 +2660,7 @@
         "bicycle_parking": null,
         "building": null,
         "building:levels:underground": null,
-        "capacity": null,
+        "capacity": "null (null) cannot be parsed as a number",
         "covered": null,
         "fee": null,
         "heritage": null,
@@ -2693,7 +2705,7 @@
         "bicycle_parking": "wall_loops",
         "building": null,
         "building:levels:underground": null,
-        "capacity": null,
+        "capacity": "null (null) cannot be parsed as a number",
         "covered": "no",
         "fee": null,
         "heritage": null,
@@ -2738,7 +2750,7 @@
         "bicycle_parking": null,
         "building": null,
         "building:levels:underground": null,
-        "capacity": null,
+        "capacity": "null (null) cannot be parsed as a number",
         "covered": null,
         "fee": null,
         "heritage": null,
@@ -2783,7 +2795,7 @@
         "bicycle_parking": null,
         "building": null,
         "building:levels:underground": null,
-        "capacity": null,
+        "capacity": "null (null) cannot be parsed as a number",
         "covered": "yes",
         "fee": null,
         "heritage": null,
@@ -2828,7 +2840,7 @@
         "bicycle_parking": null,
         "building": null,
         "building:levels:underground": null,
-        "capacity": null,
+        "capacity": "null (null) cannot be parsed as a number",
         "covered": "no",
         "fee": null,
         "heritage": null,
@@ -2873,7 +2885,7 @@
         "bicycle_parking": null,
         "building": null,
         "building:levels:underground": null,
-        "capacity": null,
+        "capacity": "null (null) cannot be parsed as a number",
         "covered": null,
         "fee": null,
         "heritage": null,
@@ -2918,7 +2930,7 @@
         "bicycle_parking": null,
         "building": null,
         "building:levels:underground": null,
-        "capacity": null,
+        "capacity": "null (null) cannot be parsed as a number",
         "covered": null,
         "fee": null,
         "heritage": null,
@@ -2963,7 +2975,7 @@
         "bicycle_parking": null,
         "building": null,
         "building:levels:underground": null,
-        "capacity": null,
+        "capacity": "null (null) cannot be parsed as a number",
         "covered": "yes",
         "fee": null,
         "heritage": null,
@@ -3008,7 +3020,7 @@
         "bicycle_parking": null,
         "building": null,
         "building:levels:underground": null,
-        "capacity": null,
+        "capacity": "null (null) cannot be parsed as a number",
         "covered": "no",
         "fee": null,
         "heritage": null,
@@ -3053,7 +3065,7 @@
         "bicycle_parking": "stands",
         "building": null,
         "building:levels:underground": null,
-        "capacity": "4",
+        "capacity": 4,
         "covered": "no",
         "fee": null,
         "heritage": null,
@@ -3098,7 +3110,7 @@
         "bicycle_parking": "stands",
         "building": null,
         "building:levels:underground": null,
-        "capacity": "4",
+        "capacity": 4,
         "covered": "no",
         "fee": null,
         "heritage": null,
@@ -3143,7 +3155,7 @@
         "bicycle_parking": "stands",
         "building": null,
         "building:levels:underground": null,
-        "capacity": "4",
+        "capacity": 4,
         "covered": "no",
         "fee": null,
         "heritage": null,
@@ -3188,7 +3200,7 @@
         "bicycle_parking": "stands",
         "building": null,
         "building:levels:underground": null,
-        "capacity": "12",
+        "capacity": 12,
         "covered": "no",
         "fee": null,
         "heritage": null,
@@ -3233,7 +3245,7 @@
         "bicycle_parking": "stands",
         "building": null,
         "building:levels:underground": null,
-        "capacity": "8",
+        "capacity": 8,
         "covered": "no",
         "fee": null,
         "heritage": null,
@@ -3278,7 +3290,7 @@
         "bicycle_parking": "floor",
         "building": null,
         "building:levels:underground": null,
-        "capacity": null,
+        "capacity": "null (null) cannot be parsed as a number",
         "covered": "no",
         "fee": null,
         "heritage": null,
@@ -3323,7 +3335,7 @@
         "bicycle_parking": "floor",
         "building": null,
         "building:levels:underground": null,
-        "capacity": null,
+        "capacity": "null (null) cannot be parsed as a number",
         "covered": "no",
         "fee": null,
         "heritage": null,
@@ -3368,7 +3380,7 @@
         "bicycle_parking": "stands",
         "building": null,
         "building:levels:underground": null,
-        "capacity": "66",
+        "capacity": 66,
         "covered": "no",
         "fee": null,
         "heritage": null,
@@ -3413,7 +3425,7 @@
         "bicycle_parking": "stands",
         "building": null,
         "building:levels:underground": null,
-        "capacity": "36",
+        "capacity": 36,
         "covered": "no",
         "fee": null,
         "heritage": null,
@@ -3458,7 +3470,7 @@
         "bicycle_parking": null,
         "building": null,
         "building:levels:underground": null,
-        "capacity": "16",
+        "capacity": 16,
         "covered": null,
         "fee": null,
         "heritage": null,
@@ -3503,7 +3515,7 @@
         "bicycle_parking": null,
         "building": null,
         "building:levels:underground": null,
-        "capacity": "14",
+        "capacity": 14,
         "covered": null,
         "fee": null,
         "heritage": null,
@@ -3548,7 +3560,7 @@
         "bicycle_parking": null,
         "building": null,
         "building:levels:underground": null,
-        "capacity": null,
+        "capacity": "null (null) cannot be parsed as a number",
         "covered": null,
         "fee": null,
         "heritage": null,
@@ -3593,7 +3605,7 @@
         "bicycle_parking": "stands",
         "building": null,
         "building:levels:underground": null,
-        "capacity": null,
+        "capacity": "null (null) cannot be parsed as a number",
         "covered": null,
         "fee": null,
         "heritage": null,
@@ -3638,7 +3650,7 @@
         "bicycle_parking": "rack",
         "building": null,
         "building:levels:underground": null,
-        "capacity": "12",
+        "capacity": 12,
         "covered": "no",
         "fee": "no",
         "heritage": null,
