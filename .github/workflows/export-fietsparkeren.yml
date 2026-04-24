@@ -45,13 +45,18 @@ jobs:
             -sql "SELECT ST_PointOnSurface(geometry) AS geometry, * FROM bicycle_parking_polygons" \
             data/bicycle_parking_polygon_centroids.geojson \
             data/bicycle_parking_polygons.geojson
-            
-      - name: Merge to 1 points layer
+
+      - name: Merge to 1 points layer (cast capacity to number)
         run: |
-          jq -s '{
+          jq -s '
+          {
             type: "FeatureCollection",
             features: (.[0].features + .[1].features)
-          }' \
+          }
+          | (.features[]?.properties.capacity |=
+              (try (tonumber | floor) catch .)
+            )
+          ' \
           data/bicycle_parking_points.geojson \
           data/bicycle_parking_polygon_centroids.geojson \
           > data/bicycle_parking_all_points.geojson
