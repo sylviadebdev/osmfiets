@@ -277,6 +277,7 @@
   "id": "node/12915275906",
   "properties": {
     "amenity": "bicycle_parking",
+    "capacity": "24",
     "id": "node/12915275906"
   },
   "geometry": {
@@ -845,6 +846,7 @@
     "access": "yes",
     "amenity": "bicycle_parking",
     "bicycle_parking": "stands",
+    "capacity": "48",
     "fee": "no",
     "id": "node/13570378301"
   },
