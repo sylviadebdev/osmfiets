@@ -1751,6 +1751,22 @@
       52.2511428
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/13758377589",
+  "properties": {
+    "amenity": "bicycle_parking",
+    "capacity": "19",
+    "id": "node/13758377589"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.1594029,
+      52.2512364
+    ]
+  }
 }
 ]
 }
