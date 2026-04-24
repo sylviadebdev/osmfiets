@@ -1,17 +1,14 @@
 [out:json][timeout:180];
 
-// Gemeente Deventer
+// Gemeente Deventer (administratieve grens)
 relation
   ["boundary"="administrative"]
   ["admin_level"="8"]
   ["name"="Deventer"];
 map_to_area->.searchArea;
 
-// ✅ Alleen nodes (punten)
-node
-  ["amenity"="bicycle_parking"]
-  (area.searchArea);
+(
+  node["amenity"="bicycle_parking"](area.searchArea);
+);
 
-// Output
 out body;
-``
