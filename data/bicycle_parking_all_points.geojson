@@ -1,0 +1,3678 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/1777396183",
+      "properties": {
+        "amenity": "bicycle_parking",
+        "id": "node/1777396183"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.2069028,
+          52.2643152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1837050320",
+      "properties": {
+        "access": "private",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "building",
+        "capacity": "100",
+        "covered": "no",
+        "fee": "no",
+        "id": "node/1837050320"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1621529,
+          52.256132
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3428581412",
+      "properties": {
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "capacity": "8",
+        "check_date": "2023-10-22",
+        "covered": "no",
+        "fee": "no",
+        "lit": "yes",
+        "supervised": "no",
+        "id": "node/3428581412"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.2177641,
+          52.2569537
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5702825687",
+      "properties": {
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "id": "node/5702825687"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1395402,
+          52.2491062
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9500574161",
+      "properties": {
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "capacity": "64",
+        "covered": "no",
+        "id": "node/9500574161"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1569892,
+          52.254699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9653910806",
+      "properties": {
+        "access": "customers",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "wall_loops",
+        "capacity": "25",
+        "covered": "no",
+        "id": "node/9653910806"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1548538,
+          52.2601646
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9654315726",
+      "properties": {
+        "amenity": "bicycle_parking",
+        "covered": "no",
+        "id": "node/9654315726"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1430775,
+          52.2667725
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9655941713",
+      "properties": {
+        "access": "yes",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "capacity": "20",
+        "fee": "no",
+        "id": "node/9655941713"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1637279,
+          52.2695558
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9655941714",
+      "properties": {
+        "access": "yes",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "capacity": "16",
+        "covered": "no",
+        "fee": "no",
+        "id": "node/9655941714"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1642435,
+          52.2697802
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9655997544",
+      "properties": {
+        "access": "yes",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "capacity": "12",
+        "fee": "no",
+        "id": "node/9655997544"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1644062,
+          52.2684833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9655997546",
+      "properties": {
+        "access": "yes",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "capacity": "54",
+        "covered": "no",
+        "fee": "no",
+        "id": "node/9655997546"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1641738,
+          52.2685992
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9930084915",
+      "properties": {
+        "access": "private",
+        "amenity": "bicycle_parking",
+        "id": "node/9930084915"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.203209,
+          52.241545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11156679782",
+      "properties": {
+        "access": "private",
+        "amenity": "bicycle_parking",
+        "id": "node/11156679782"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1581216,
+          52.2770861
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11465239259",
+      "properties": {
+        "amenity": "bicycle_parking",
+        "capacity": "6",
+        "covered": "yes",
+        "id": "node/11465239259"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.312163,
+          52.2437818
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12124311740",
+      "properties": {
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "capacity": "4",
+        "covered": "no",
+        "id": "node/12124311740"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1608818,
+          52.2550385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12915275906",
+      "properties": {
+        "amenity": "bicycle_parking",
+        "id": "node/12915275906"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1940032,
+          52.3077426
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13050220305",
+      "properties": {
+        "amenity": "bicycle_parking",
+        "capacity": "6",
+        "id": "node/13050220305"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1934835,
+          52.2424422
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13372404178",
+      "properties": {
+        "amenity": "bicycle_parking",
+        "id": "node/13372404178"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1994044,
+          52.2475191
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13372404179",
+      "properties": {
+        "amenity": "bicycle_parking",
+        "id": "node/13372404179"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.200083,
+          52.2479625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13372497784",
+      "properties": {
+        "amenity": "bicycle_parking",
+        "capacity": "20",
+        "id": "node/13372497784"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.195178,
+          52.2466815
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13372497785",
+      "properties": {
+        "amenity": "bicycle_parking",
+        "capacity": "20",
+        "id": "node/13372497785"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1954851,
+          52.2468856
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13372497786",
+      "properties": {
+        "amenity": "bicycle_parking",
+        "capacity": "20",
+        "id": "node/13372497786"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1959055,
+          52.2471631
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13387177138",
+      "properties": {
+        "access": "private",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "shed",
+        "covered": "yes",
+        "fee": "no",
+        "id": "node/13387177138"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.188932,
+          52.2364549
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13546496685",
+      "properties": {
+        "access": "yes",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "capacity": "6",
+        "check_date": "2026-02-12",
+        "covered": "no",
+        "fee": "no",
+        "operator": "Gemeente Deventer",
+        "id": "node/13546496685"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1557885,
+          52.2522515
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13546545033",
+      "properties": {
+        "access": "yes",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "capacity": "6",
+        "check_date": "2026-02-12",
+        "covered": "no",
+        "fee": "no",
+        "operator": "Gemeente Deventer",
+        "id": "node/13546545033"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.155885,
+          52.2522073
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13546545034",
+      "properties": {
+        "access": "yes",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "capacity": "6",
+        "check_date": "2026-02-12",
+        "covered": "no",
+        "fee": "no",
+        "operator": "Gemeente Deventer",
+        "id": "node/13546545034"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1559411,
+          52.2521425
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13546551949",
+      "properties": {
+        "access": "yes",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "capacity": "8",
+        "check_date": "2026-02-12",
+        "covered": "no",
+        "fee": "no",
+        "operator": "Gemeente Deventer",
+        "id": "node/13546551949"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1556879,
+          52.2518212
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13546628227",
+      "properties": {
+        "access": "yes",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "capacity": "4",
+        "check_date": "2026-02-12",
+        "covered": "no",
+        "fee": "no",
+        "operator": "Gemeente Deventer",
+        "id": "node/13546628227"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1547012,
+          52.2516685
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13546628228",
+      "properties": {
+        "access": "yes",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "capacity": "8",
+        "check_date": "2026-02-12",
+        "covered": "no",
+        "fee": "no",
+        "operator": "Gemeente Deventer",
+        "id": "node/13546628228"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1545788,
+          52.2517133
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13546809609",
+      "properties": {
+        "access": "yes",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "capacity": "30",
+        "covered": "no",
+        "fee": "no",
+        "id": "node/13546809609"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1649639,
+          52.2532569
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13546809610",
+      "properties": {
+        "access": "yes",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "capacity": "24",
+        "covered": "no",
+        "fee": "no",
+        "id": "node/13546809610"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1652333,
+          52.2532703
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13570293261",
+      "properties": {
+        "access": "yes",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "capacity": "30",
+        "fee": "no",
+        "id": "node/13570293261"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1660519,
+          52.2533502
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13570293262",
+      "properties": {
+        "access": "yes",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "capacity": "16",
+        "fee": "no",
+        "id": "node/13570293262"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1661127,
+          52.2534119
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13570293263",
+      "properties": {
+        "access": "yes",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "capacity": "16",
+        "fee": "no",
+        "id": "node/13570293263"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1657779,
+          52.2533904
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13570293264",
+      "properties": {
+        "access": "yes",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "capacity": "16",
+        "fee": "no",
+        "id": "node/13570293264"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1655497,
+          52.2533763
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13570293265",
+      "properties": {
+        "access": "yes",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "capacity": "32",
+        "fee": "no",
+        "id": "node/13570293265"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1651425,
+          52.2533526
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13570316000",
+      "properties": {
+        "access": "yes",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "capacity": "14",
+        "fee": "no",
+        "id": "node/13570316000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.163945,
+          52.2684598
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13570346691",
+      "properties": {
+        "access": "yes",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "capacity": "14",
+        "fee": "no",
+        "id": "node/13570346691"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1612467,
+          52.2556249
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13570346692",
+      "properties": {
+        "access": "yes",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "capacity": "4",
+        "fee": "no",
+        "id": "node/13570346692"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.16117,
+          52.2556865
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13570346693",
+      "properties": {
+        "access": "yes",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "capacity": "14",
+        "fee": "no",
+        "id": "node/13570346693"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1610868,
+          52.2553662
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13570346694",
+      "properties": {
+        "access": "yes",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "capacity": "4",
+        "fee": "no",
+        "id": "node/13570346694"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1609958,
+          52.2554057
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13570346695",
+      "properties": {
+        "access": "yes",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "capacity": "4",
+        "fee": "no",
+        "id": "node/13570346695"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1609636,
+          52.2553506
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13570346696",
+      "properties": {
+        "access": "yes",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "capacity": "12",
+        "fee": "no",
+        "id": "node/13570346696"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1608218,
+          52.2551245
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13570346697",
+      "properties": {
+        "access": "yes",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "capacity": "4",
+        "fee": "no",
+        "id": "node/13570346697"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1553828,
+          52.2533505
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13570346698",
+      "properties": {
+        "access": "yes",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "wall_loops",
+        "capacity": "40",
+        "fee": "no",
+        "id": "node/13570346698"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1557984,
+          52.2546671
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13570378301",
+      "properties": {
+        "access": "yes",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "fee": "no",
+        "id": "node/13570378301"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1635946,
+          52.2682486
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13570678248",
+      "properties": {
+        "access": "yes",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "capacity": "62",
+        "fee": "no",
+        "id": "node/13570678248"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.224535,
+          52.2606397
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13570678249",
+      "properties": {
+        "access": "yes",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "capacity": "22",
+        "fee": "no",
+        "id": "node/13570678249"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.224769,
+          52.2604965
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13570678250",
+      "properties": {
+        "access": "yes",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "capacity": "22",
+        "fee": "no",
+        "id": "node/13570678250"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.2250542,
+          52.2605247
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13570678251",
+      "properties": {
+        "access": "yes",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "capacity": "22",
+        "fee": "no",
+        "id": "node/13570678251"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.2253623,
+          52.2605573
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13570678252",
+      "properties": {
+        "access": "yes",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "capacity": "12",
+        "fee": "no",
+        "id": "node/13570678252"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.2254864,
+          52.2603183
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13570683650",
+      "properties": {
+        "access": "yes",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "handlebar_holder",
+        "capacity": "396",
+        "fee": "no",
+        "id": "node/13570683650"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1735643,
+          52.2598672
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13570683651",
+      "properties": {
+        "access": "yes",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "capacity": "46",
+        "fee": "no",
+        "id": "node/13570683651"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1507034,
+          52.2588316
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13570683652",
+      "properties": {
+        "access": "yes",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "wall_loops",
+        "fee": "no",
+        "id": "node/13570683652"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1721075,
+          52.2591571
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13570683653",
+      "properties": {
+        "access": "yes",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "wall_loops",
+        "capacity": "18",
+        "fee": "no",
+        "id": "node/13570683653"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1455612,
+          52.2886477
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13570683654",
+      "properties": {
+        "access": "yes",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "wall_loops",
+        "capacity": "14",
+        "fee": "no",
+        "id": "node/13570683654"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1461584,
+          52.2902512
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13570683655",
+      "properties": {
+        "access": "yes",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "wall_loops",
+        "capacity": "16",
+        "fee": "no",
+        "id": "node/13570683655"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1460034,
+          52.2901435
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13570683656",
+      "properties": {
+        "access": "yes",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "capacity": "12",
+        "fee": "no",
+        "id": "node/13570683656"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.145897,
+          52.2899827
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13570683657",
+      "properties": {
+        "access": "yes",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "wall_loops",
+        "capacity": "4",
+        "fee": "no",
+        "id": "node/13570683657"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1453729,
+          52.2900878
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13602876239",
+      "properties": {
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "capacity": "14",
+        "id": "node/13602876239"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1658821,
+          52.2529019
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13602876240",
+      "properties": {
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "capacity": "16",
+        "id": "node/13602876240"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1658621,
+          52.2530295
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13602981118",
+      "properties": {
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "capacity": "38",
+        "id": "node/13602981118"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1657407,
+          52.2527048
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13602981119",
+      "properties": {
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "capacity": "30",
+        "covered": "no",
+        "id": "node/13602981119"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1518594,
+          52.2494577
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13602981120",
+      "properties": {
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "capacity": "16",
+        "id": "node/13602981120"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1537335,
+          52.2521861
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13602981121",
+      "properties": {
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "capacity": "10",
+        "id": "node/13602981121"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1541124,
+          52.2523279
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13665688500",
+      "properties": {
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "wall_loops",
+        "capacity": "10",
+        "id": "node/13665688500"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1390527,
+          52.2744196
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13714763488",
+      "properties": {
+        "access": "yes",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "wall_loops",
+        "capacity": "24",
+        "covered": "no",
+        "fee": "no",
+        "id": "node/13714763488"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.2261051,
+          52.261349
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13714763489",
+      "properties": {
+        "access": "yes",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "capacity": "12",
+        "covered": "no",
+        "fee": "no",
+        "id": "node/13714763489"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.2252935,
+          52.2618946
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13717163596",
+      "properties": {
+        "access": "yes",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "wall_loops",
+        "capacity": "5",
+        "covered": "no",
+        "fee": "no",
+        "id": "node/13717163596"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1504005,
+          52.2597529
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13717163599",
+      "properties": {
+        "access": "yes",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "wall_loops",
+        "capacity": "3",
+        "covered": "no",
+        "fee": "no",
+        "id": "node/13717163599"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1509978,
+          52.2604504
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13717163600",
+      "properties": {
+        "access": "yes",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "wall_loops",
+        "capacity": "9",
+        "covered": "no",
+        "fee": "no",
+        "id": "node/13717163600"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.149855,
+          52.2587417
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13717189401",
+      "properties": {
+        "access": "yes",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "wall_loops",
+        "capacity": "3",
+        "covered": "no",
+        "fee": "no",
+        "id": "node/13717189401"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1496845,
+          52.2584495
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13717189402",
+      "properties": {
+        "access": "yes",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "wall_loops",
+        "capacity": "4",
+        "covered": "no",
+        "fee": "no",
+        "id": "node/13717189402"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1501381,
+          52.2592864
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13717189403",
+      "properties": {
+        "access": "yes",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "wall_loops",
+        "capacity": "4",
+        "covered": "no",
+        "fee": "no",
+        "id": "node/13717189403"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1502133,
+          52.2594418
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13717189404",
+      "properties": {
+        "access": "yes",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "wall_loops",
+        "capacity": "5",
+        "covered": "no",
+        "fee": "no",
+        "id": "node/13717189404"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1503233,
+          52.2595993
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13717189405",
+      "properties": {
+        "access": "yes",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "wall_loops",
+        "capacity": "5",
+        "covered": "no",
+        "fee": "no",
+        "id": "node/13717189405"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1503779,
+          52.2597023
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13717189409",
+      "properties": {
+        "access": "yes",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "wall_loops",
+        "capacity": "3",
+        "covered": "no",
+        "fee": "no",
+        "id": "node/13717189409"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.150451,
+          52.2599648
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13729586271",
+      "properties": {
+        "amenity": "bicycle_parking",
+        "capacity": "20",
+        "id": "node/13729586271"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1947761,
+          52.2465033
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13729593733",
+      "properties": {
+        "amenity": "bicycle_parking",
+        "capacity": "24",
+        "covered": "no",
+        "fee": "no",
+        "id": "node/13729593733"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.217491,
+          52.247878
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13729593734",
+      "properties": {
+        "amenity": "bicycle_parking",
+        "capacity": "30",
+        "id": "node/13729593734"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.2177288,
+          52.2478714
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13734870470",
+      "properties": {
+        "access": "yes",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "capacity": "25",
+        "covered": "no",
+        "id": "node/13734870470"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1517632,
+          52.2557437
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13744486520",
+      "properties": {
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "wall_loops",
+        "capacity": "24",
+        "covered": "no",
+        "id": "node/13744486520"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1530774,
+          52.2632082
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13744486521",
+      "properties": {
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "capacity": "16",
+        "id": "node/13744486521"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1721029,
+          52.2476663
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13744486522",
+      "properties": {
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "capacity": "102",
+        "id": "node/13744486522"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.132295,
+          52.2695311
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13744524447",
+      "properties": {
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "capacity": "18",
+        "id": "node/13744524447"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1846204,
+          52.2554242
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13744524448",
+      "properties": {
+        "amenity": "bicycle_parking",
+        "capacity": "18",
+        "id": "node/13744524448"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1844771,
+          52.2555634
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13744524449",
+      "properties": {
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "20",
+        "id": "node/13744524449"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1854133,
+          52.255001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13744524450",
+      "properties": {
+        "amenity": "bicycle_parking",
+        "capacity": "16",
+        "id": "node/13744524450"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1848641,
+          52.2551791
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13744524451",
+      "properties": {
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "capacity": "16",
+        "id": "node/13744524451"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1915464,
+          52.2535899
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13744524452",
+      "properties": {
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "capacity": "16",
+        "id": "node/13744524452"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1916728,
+          52.2533122
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13744524453",
+      "properties": {
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "capacity": "12",
+        "id": "node/13744524453"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1913088,
+          52.2531389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13744524454",
+      "properties": {
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "capacity": "8",
+        "id": "node/13744524454"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1910858,
+          52.2530452
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13745878734",
+      "properties": {
+        "access": "yes",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "wall_loops",
+        "capacity": "14",
+        "covered": "no",
+        "fee": "no",
+        "id": "node/13745878734"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1572691,
+          52.2549786
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13745878738",
+      "properties": {
+        "access": "yes",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "wall_loops",
+        "capacity": "15",
+        "covered": "no",
+        "fee": "no",
+        "id": "node/13745878738"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1560921,
+          52.2556643
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13758264765",
+      "properties": {
+        "amenity": "bicycle_parking",
+        "capacity": "16",
+        "id": "node/13758264765"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1593101,
+          52.2511428
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13758377589",
+      "properties": {
+        "amenity": "bicycle_parking",
+        "capacity": "19",
+        "id": "node/13758377589"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1594029,
+          52.2512364
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13758396674",
+      "properties": {
+        "amenity": "bicycle_parking",
+        "capacity": "12",
+        "id": "node/13758396674"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1594748,
+          52.2513138
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/239242213",
+      "properties": {
+        "amenity": "bicycle_parking",
+        "area": null,
+        "bicycle_parking": "wall_loops",
+        "building": null,
+        "building:levels:underground": null,
+        "capacity": "270",
+        "covered": "yes",
+        "fee": null,
+        "heritage": null,
+        "heritage:operator": null,
+        "historic": null,
+        "indoor": null,
+        "layer": null,
+        "level": "0",
+        "lit": null,
+        "location": null,
+        "name": null,
+        "opening_hours": null,
+        "operator": null,
+        "panoramax": null,
+        "parking": null,
+        "ref:bag": null,
+        "ref:rce": null,
+        "service:bicycle:charging": null,
+        "smoothness": null,
+        "source": null,
+        "source:date": null,
+        "start_date": null,
+        "supervised": null,
+        "surface": null,
+        "wikidata": null,
+        "access": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.160876717287262,
+          52.25774805
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/239242235",
+      "properties": {
+        "amenity": "bicycle_parking",
+        "area": null,
+        "bicycle_parking": "wall_loops",
+        "building": null,
+        "building:levels:underground": null,
+        "capacity": "350",
+        "covered": "yes",
+        "fee": null,
+        "heritage": null,
+        "heritage:operator": null,
+        "historic": null,
+        "indoor": null,
+        "layer": null,
+        "level": "0",
+        "lit": null,
+        "location": null,
+        "name": null,
+        "opening_hours": null,
+        "operator": null,
+        "panoramax": null,
+        "parking": null,
+        "ref:bag": null,
+        "ref:rce": null,
+        "service:bicycle:charging": null,
+        "smoothness": null,
+        "source": null,
+        "source:date": null,
+        "start_date": null,
+        "supervised": null,
+        "surface": null,
+        "wikidata": null,
+        "access": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.161571967469595,
+          52.25747185
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/262220544",
+      "properties": {
+        "amenity": "bicycle_parking",
+        "area": null,
+        "bicycle_parking": "building",
+        "building": "yes",
+        "building:levels:underground": "1",
+        "capacity": "3000",
+        "covered": "yes",
+        "fee": "no",
+        "heritage": null,
+        "heritage:operator": null,
+        "historic": null,
+        "indoor": "room",
+        "layer": "-1",
+        "level": "-1",
+        "lit": "yes",
+        "location": "underground",
+        "name": "Stationsplein",
+        "opening_hours": "06:00-24:00",
+        "operator": "NS",
+        "panoramax": null,
+        "parking": null,
+        "ref:bag": "0150100000059726",
+        "ref:rce": null,
+        "service:bicycle:charging": null,
+        "smoothness": null,
+        "source": "BAG",
+        "source:date": "2025-09-07",
+        "start_date": "2003",
+        "supervised": "yes",
+        "surface": "concrete",
+        "wikidata": null,
+        "access": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.161025871891626,
+          52.25671525
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/370673610",
+      "properties": {
+        "amenity": "bicycle_parking",
+        "area": null,
+        "bicycle_parking": "wall_loops",
+        "building": null,
+        "building:levels:underground": null,
+        "capacity": "64",
+        "covered": null,
+        "fee": null,
+        "heritage": null,
+        "heritage:operator": null,
+        "historic": null,
+        "indoor": null,
+        "layer": null,
+        "level": null,
+        "lit": null,
+        "location": null,
+        "name": null,
+        "opening_hours": null,
+        "operator": null,
+        "panoramax": null,
+        "parking": null,
+        "ref:bag": null,
+        "ref:rce": null,
+        "service:bicycle:charging": null,
+        "smoothness": null,
+        "source": null,
+        "source:date": null,
+        "start_date": null,
+        "supervised": null,
+        "surface": null,
+        "wikidata": null,
+        "access": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.215267070054837,
+          52.24814515
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/539203398",
+      "properties": {
+        "amenity": "bicycle_parking",
+        "area": null,
+        "bicycle_parking": "wall_loops",
+        "building": null,
+        "building:levels:underground": null,
+        "capacity": null,
+        "covered": "yes",
+        "fee": "no",
+        "heritage": null,
+        "heritage:operator": null,
+        "historic": null,
+        "indoor": null,
+        "layer": null,
+        "level": null,
+        "lit": "yes",
+        "location": null,
+        "name": null,
+        "opening_hours": "24/7",
+        "operator": "NS",
+        "panoramax": null,
+        "parking": null,
+        "ref:bag": null,
+        "ref:rce": null,
+        "service:bicycle:charging": null,
+        "smoothness": "good",
+        "source": null,
+        "source:date": null,
+        "start_date": null,
+        "supervised": "no",
+        "surface": "paving_stones",
+        "wikidata": null,
+        "access": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.214606393653517,
+          52.25001265
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/539247660",
+      "properties": {
+        "amenity": "bicycle_parking",
+        "area": null,
+        "bicycle_parking": "stands",
+        "building": null,
+        "building:levels:underground": null,
+        "capacity": null,
+        "covered": "yes",
+        "fee": "no",
+        "heritage": null,
+        "heritage:operator": null,
+        "historic": null,
+        "indoor": null,
+        "layer": null,
+        "level": null,
+        "lit": "yes",
+        "location": null,
+        "name": null,
+        "opening_hours": "24/7",
+        "operator": "NS",
+        "panoramax": null,
+        "parking": null,
+        "ref:bag": null,
+        "ref:rce": null,
+        "service:bicycle:charging": null,
+        "smoothness": "good",
+        "source": null,
+        "source:date": null,
+        "start_date": null,
+        "supervised": "no",
+        "surface": "paving_stones",
+        "wikidata": null,
+        "access": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.214855318030171,
+          52.25047
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/657916231",
+      "properties": {
+        "amenity": "bicycle_parking",
+        "area": null,
+        "bicycle_parking": "stands",
+        "building": null,
+        "building:levels:underground": null,
+        "capacity": null,
+        "covered": null,
+        "fee": null,
+        "heritage": null,
+        "heritage:operator": null,
+        "historic": null,
+        "indoor": null,
+        "layer": null,
+        "level": null,
+        "lit": "yes",
+        "location": null,
+        "name": null,
+        "opening_hours": null,
+        "operator": null,
+        "panoramax": null,
+        "parking": null,
+        "ref:bag": null,
+        "ref:rce": null,
+        "service:bicycle:charging": null,
+        "smoothness": "good",
+        "source": null,
+        "source:date": null,
+        "start_date": null,
+        "supervised": "no",
+        "surface": "paving_stones",
+        "wikidata": null,
+        "access": "customers"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.204186512909836,
+          52.24979495
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/681169965",
+      "properties": {
+        "amenity": "bicycle_parking",
+        "area": null,
+        "bicycle_parking": "shed",
+        "building": null,
+        "building:levels:underground": null,
+        "capacity": "200",
+        "covered": "yes",
+        "fee": "no",
+        "heritage": null,
+        "heritage:operator": null,
+        "historic": null,
+        "indoor": null,
+        "layer": null,
+        "level": null,
+        "lit": null,
+        "location": null,
+        "name": null,
+        "opening_hours": null,
+        "operator": null,
+        "panoramax": null,
+        "parking": null,
+        "ref:bag": null,
+        "ref:rce": null,
+        "service:bicycle:charging": "yes",
+        "smoothness": null,
+        "source": null,
+        "source:date": null,
+        "start_date": null,
+        "supervised": null,
+        "surface": null,
+        "wikidata": null,
+        "access": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.191068983219179,
+          52.26070825
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/681169966",
+      "properties": {
+        "amenity": "bicycle_parking",
+        "area": null,
+        "bicycle_parking": null,
+        "building": null,
+        "building:levels:underground": null,
+        "capacity": "200",
+        "covered": "yes",
+        "fee": "no",
+        "heritage": null,
+        "heritage:operator": null,
+        "historic": null,
+        "indoor": null,
+        "layer": null,
+        "level": null,
+        "lit": null,
+        "location": null,
+        "name": null,
+        "opening_hours": null,
+        "operator": null,
+        "panoramax": null,
+        "parking": null,
+        "ref:bag": null,
+        "ref:rce": null,
+        "service:bicycle:charging": null,
+        "smoothness": null,
+        "source": null,
+        "source:date": null,
+        "start_date": null,
+        "supervised": null,
+        "surface": null,
+        "wikidata": null,
+        "access": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.190647923715069,
+          52.26101745
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/757235570",
+      "properties": {
+        "amenity": "bicycle_parking",
+        "area": null,
+        "bicycle_parking": "stands",
+        "building": null,
+        "building:levels:underground": null,
+        "capacity": null,
+        "covered": null,
+        "fee": null,
+        "heritage": null,
+        "heritage:operator": null,
+        "historic": null,
+        "indoor": null,
+        "layer": null,
+        "level": null,
+        "lit": "yes",
+        "location": null,
+        "name": null,
+        "opening_hours": null,
+        "operator": null,
+        "panoramax": null,
+        "parking": null,
+        "ref:bag": null,
+        "ref:rce": null,
+        "service:bicycle:charging": null,
+        "smoothness": "good",
+        "source": null,
+        "source:date": null,
+        "start_date": null,
+        "supervised": "no",
+        "surface": "paving_stones",
+        "wikidata": null,
+        "access": "customers"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.193786645336393,
+          52.2519238
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/833283936",
+      "properties": {
+        "amenity": "bicycle_parking",
+        "area": null,
+        "bicycle_parking": null,
+        "building": null,
+        "building:levels:underground": null,
+        "capacity": null,
+        "covered": "no",
+        "fee": "no",
+        "heritage": null,
+        "heritage:operator": null,
+        "historic": null,
+        "indoor": null,
+        "layer": null,
+        "level": null,
+        "lit": null,
+        "location": null,
+        "name": null,
+        "opening_hours": null,
+        "operator": null,
+        "panoramax": null,
+        "parking": null,
+        "ref:bag": null,
+        "ref:rce": null,
+        "service:bicycle:charging": null,
+        "smoothness": null,
+        "source": null,
+        "source:date": null,
+        "start_date": null,
+        "supervised": null,
+        "surface": null,
+        "wikidata": null,
+        "access": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.213515036193455,
+          52.24927615
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/976942274",
+      "properties": {
+        "amenity": "bicycle_parking",
+        "area": null,
+        "bicycle_parking": "shed",
+        "building": null,
+        "building:levels:underground": null,
+        "capacity": "20",
+        "covered": null,
+        "fee": "no",
+        "heritage": null,
+        "heritage:operator": null,
+        "historic": null,
+        "indoor": null,
+        "layer": null,
+        "level": null,
+        "lit": null,
+        "location": null,
+        "name": null,
+        "opening_hours": null,
+        "operator": null,
+        "panoramax": null,
+        "parking": null,
+        "ref:bag": null,
+        "ref:rce": null,
+        "service:bicycle:charging": null,
+        "smoothness": null,
+        "source": null,
+        "source:date": null,
+        "start_date": null,
+        "supervised": null,
+        "surface": null,
+        "wikidata": null,
+        "access": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.147931202827355,
+          52.25709105
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1037518739",
+      "properties": {
+        "amenity": "bicycle_parking",
+        "area": null,
+        "bicycle_parking": null,
+        "building": null,
+        "building:levels:underground": null,
+        "capacity": "500",
+        "covered": "no",
+        "fee": "no",
+        "heritage": null,
+        "heritage:operator": null,
+        "historic": null,
+        "indoor": null,
+        "layer": null,
+        "level": null,
+        "lit": null,
+        "location": null,
+        "name": null,
+        "opening_hours": null,
+        "operator": null,
+        "panoramax": null,
+        "parking": null,
+        "ref:bag": null,
+        "ref:rce": null,
+        "service:bicycle:charging": null,
+        "smoothness": null,
+        "source": null,
+        "source:date": null,
+        "start_date": null,
+        "supervised": null,
+        "surface": null,
+        "wikidata": null,
+        "access": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.159470477483444,
+          52.2544812
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1049534020",
+      "properties": {
+        "amenity": "bicycle_parking",
+        "area": null,
+        "bicycle_parking": "stands",
+        "building": null,
+        "building:levels:underground": null,
+        "capacity": null,
+        "covered": null,
+        "fee": null,
+        "heritage": null,
+        "heritage:operator": null,
+        "historic": null,
+        "indoor": null,
+        "layer": null,
+        "level": null,
+        "lit": null,
+        "location": null,
+        "name": null,
+        "opening_hours": null,
+        "operator": null,
+        "panoramax": null,
+        "parking": null,
+        "ref:bag": null,
+        "ref:rce": null,
+        "service:bicycle:charging": null,
+        "smoothness": null,
+        "source": null,
+        "source:date": null,
+        "start_date": null,
+        "supervised": null,
+        "surface": null,
+        "wikidata": null,
+        "access": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.12799365,
+          52.26668765
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1073547133",
+      "properties": {
+        "amenity": "bicycle_parking",
+        "area": null,
+        "bicycle_parking": "lockers",
+        "building": null,
+        "building:levels:underground": null,
+        "capacity": null,
+        "covered": "yes",
+        "fee": null,
+        "heritage": null,
+        "heritage:operator": null,
+        "historic": null,
+        "indoor": null,
+        "layer": null,
+        "level": null,
+        "lit": "yes",
+        "location": null,
+        "name": null,
+        "opening_hours": null,
+        "operator": "NS",
+        "panoramax": null,
+        "parking": null,
+        "ref:bag": null,
+        "ref:rce": null,
+        "service:bicycle:charging": null,
+        "smoothness": "good",
+        "source": null,
+        "source:date": null,
+        "start_date": null,
+        "supervised": "no",
+        "surface": "paving_stones",
+        "wikidata": null,
+        "access": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.214531448585033,
+          52.2500984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1077490066",
+      "properties": {
+        "amenity": "bicycle_parking",
+        "area": null,
+        "bicycle_parking": null,
+        "building": null,
+        "building:levels:underground": null,
+        "capacity": null,
+        "covered": null,
+        "fee": null,
+        "heritage": null,
+        "heritage:operator": null,
+        "historic": null,
+        "indoor": null,
+        "layer": null,
+        "level": null,
+        "lit": null,
+        "location": null,
+        "name": null,
+        "opening_hours": null,
+        "operator": null,
+        "panoramax": null,
+        "parking": null,
+        "ref:bag": null,
+        "ref:rce": null,
+        "service:bicycle:charging": null,
+        "smoothness": null,
+        "source": null,
+        "source:date": null,
+        "start_date": null,
+        "supervised": null,
+        "surface": null,
+        "wikidata": null,
+        "access": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.158345192583317,
+          52.2767373
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1081222613",
+      "properties": {
+        "amenity": "bicycle_parking",
+        "area": null,
+        "bicycle_parking": "wall_loops",
+        "building": null,
+        "building:levels:underground": null,
+        "capacity": "120",
+        "covered": "no",
+        "fee": "no",
+        "heritage": null,
+        "heritage:operator": null,
+        "historic": null,
+        "indoor": null,
+        "layer": null,
+        "level": null,
+        "lit": null,
+        "location": null,
+        "name": null,
+        "opening_hours": null,
+        "operator": "Bewaker stad deventer",
+        "panoramax": "33fb86e8-c053-4482-a493-26e2ec3c3b99",
+        "parking": null,
+        "ref:bag": null,
+        "ref:rce": null,
+        "service:bicycle:charging": null,
+        "smoothness": null,
+        "source": null,
+        "source:date": null,
+        "start_date": null,
+        "supervised": null,
+        "surface": null,
+        "wikidata": null,
+        "access": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.15598725,
+          52.2534801
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1082999612",
+      "properties": {
+        "amenity": "bicycle_parking",
+        "area": null,
+        "bicycle_parking": "wall_loops",
+        "building": "roof",
+        "building:levels:underground": null,
+        "capacity": "120",
+        "covered": "yes",
+        "fee": null,
+        "heritage": "2",
+        "heritage:operator": "rce",
+        "historic": "building",
+        "indoor": null,
+        "layer": null,
+        "level": null,
+        "lit": null,
+        "location": null,
+        "name": "Botermarkt",
+        "opening_hours": null,
+        "operator": null,
+        "panoramax": null,
+        "parking": null,
+        "ref:bag": null,
+        "ref:rce": "12637",
+        "service:bicycle:charging": null,
+        "smoothness": null,
+        "source": null,
+        "source:date": null,
+        "start_date": null,
+        "supervised": null,
+        "surface": null,
+        "wikidata": "Q17346087",
+        "access": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.15529767429722,
+          52.2525588
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1101789743",
+      "properties": {
+        "amenity": "bicycle_parking",
+        "area": null,
+        "bicycle_parking": null,
+        "building": null,
+        "building:levels:underground": null,
+        "capacity": null,
+        "covered": null,
+        "fee": null,
+        "heritage": null,
+        "heritage:operator": null,
+        "historic": null,
+        "indoor": null,
+        "layer": null,
+        "level": null,
+        "lit": null,
+        "location": null,
+        "name": null,
+        "opening_hours": null,
+        "operator": null,
+        "panoramax": null,
+        "parking": null,
+        "ref:bag": null,
+        "ref:rce": null,
+        "service:bicycle:charging": null,
+        "smoothness": null,
+        "source": null,
+        "source:date": null,
+        "start_date": null,
+        "supervised": null,
+        "surface": null,
+        "wikidata": null,
+        "access": "private"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.156164759735862,
+          52.27192545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1101789751",
+      "properties": {
+        "amenity": "bicycle_parking",
+        "area": null,
+        "bicycle_parking": null,
+        "building": null,
+        "building:levels:underground": null,
+        "capacity": null,
+        "covered": null,
+        "fee": null,
+        "heritage": null,
+        "heritage:operator": null,
+        "historic": null,
+        "indoor": null,
+        "layer": null,
+        "level": null,
+        "lit": null,
+        "location": null,
+        "name": null,
+        "opening_hours": null,
+        "operator": null,
+        "panoramax": null,
+        "parking": null,
+        "ref:bag": null,
+        "ref:rce": null,
+        "service:bicycle:charging": null,
+        "smoothness": null,
+        "source": null,
+        "source:date": null,
+        "start_date": null,
+        "supervised": null,
+        "surface": null,
+        "wikidata": null,
+        "access": "private"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.157729970272584,
+          52.2712608
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1102172958",
+      "properties": {
+        "amenity": "bicycle_parking",
+        "area": null,
+        "bicycle_parking": "wall_loops",
+        "building": null,
+        "building:levels:underground": null,
+        "capacity": null,
+        "covered": "no",
+        "fee": null,
+        "heritage": null,
+        "heritage:operator": null,
+        "historic": null,
+        "indoor": null,
+        "layer": null,
+        "level": null,
+        "lit": null,
+        "location": null,
+        "name": null,
+        "opening_hours": null,
+        "operator": null,
+        "panoramax": null,
+        "parking": null,
+        "ref:bag": null,
+        "ref:rce": null,
+        "service:bicycle:charging": null,
+        "smoothness": null,
+        "source": null,
+        "source:date": null,
+        "start_date": null,
+        "supervised": null,
+        "surface": null,
+        "wikidata": null,
+        "access": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.144922044184721,
+          52.27435875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1111585224",
+      "properties": {
+        "amenity": "bicycle_parking",
+        "area": null,
+        "bicycle_parking": null,
+        "building": null,
+        "building:levels:underground": null,
+        "capacity": null,
+        "covered": null,
+        "fee": null,
+        "heritage": null,
+        "heritage:operator": null,
+        "historic": null,
+        "indoor": null,
+        "layer": null,
+        "level": null,
+        "lit": null,
+        "location": null,
+        "name": null,
+        "opening_hours": null,
+        "operator": null,
+        "panoramax": null,
+        "parking": null,
+        "ref:bag": null,
+        "ref:rce": null,
+        "service:bicycle:charging": null,
+        "smoothness": null,
+        "source": null,
+        "source:date": null,
+        "start_date": null,
+        "supervised": null,
+        "surface": null,
+        "wikidata": null,
+        "access": "private"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.144061451954288,
+          52.2678145
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1136521774",
+      "properties": {
+        "amenity": "bicycle_parking",
+        "area": null,
+        "bicycle_parking": null,
+        "building": null,
+        "building:levels:underground": null,
+        "capacity": null,
+        "covered": "yes",
+        "fee": null,
+        "heritage": null,
+        "heritage:operator": null,
+        "historic": null,
+        "indoor": null,
+        "layer": null,
+        "level": null,
+        "lit": null,
+        "location": null,
+        "name": null,
+        "opening_hours": null,
+        "operator": null,
+        "panoramax": null,
+        "parking": null,
+        "ref:bag": null,
+        "ref:rce": null,
+        "service:bicycle:charging": null,
+        "smoothness": null,
+        "source": null,
+        "source:date": null,
+        "start_date": null,
+        "supervised": null,
+        "surface": null,
+        "wikidata": null,
+        "access": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.21477205,
+          52.253826
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1136521775",
+      "properties": {
+        "amenity": "bicycle_parking",
+        "area": null,
+        "bicycle_parking": null,
+        "building": null,
+        "building:levels:underground": null,
+        "capacity": null,
+        "covered": "no",
+        "fee": null,
+        "heritage": null,
+        "heritage:operator": null,
+        "historic": null,
+        "indoor": null,
+        "layer": null,
+        "level": null,
+        "lit": null,
+        "location": null,
+        "name": null,
+        "opening_hours": null,
+        "operator": null,
+        "panoramax": null,
+        "parking": null,
+        "ref:bag": null,
+        "ref:rce": null,
+        "service:bicycle:charging": null,
+        "smoothness": null,
+        "source": null,
+        "source:date": null,
+        "start_date": null,
+        "supervised": null,
+        "surface": null,
+        "wikidata": null,
+        "access": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.214811334842319,
+          52.25389645
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1203625559",
+      "properties": {
+        "amenity": "bicycle_parking",
+        "area": null,
+        "bicycle_parking": null,
+        "building": null,
+        "building:levels:underground": null,
+        "capacity": null,
+        "covered": null,
+        "fee": null,
+        "heritage": null,
+        "heritage:operator": null,
+        "historic": null,
+        "indoor": null,
+        "layer": null,
+        "level": null,
+        "lit": null,
+        "location": null,
+        "name": null,
+        "opening_hours": null,
+        "operator": null,
+        "panoramax": null,
+        "parking": null,
+        "ref:bag": null,
+        "ref:rce": null,
+        "service:bicycle:charging": null,
+        "smoothness": null,
+        "source": null,
+        "source:date": null,
+        "start_date": null,
+        "supervised": null,
+        "surface": null,
+        "wikidata": null,
+        "access": "private"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.157697832558243,
+          52.2763116
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1203625560",
+      "properties": {
+        "amenity": "bicycle_parking",
+        "area": null,
+        "bicycle_parking": null,
+        "building": null,
+        "building:levels:underground": null,
+        "capacity": null,
+        "covered": null,
+        "fee": null,
+        "heritage": null,
+        "heritage:operator": null,
+        "historic": null,
+        "indoor": null,
+        "layer": null,
+        "level": null,
+        "lit": null,
+        "location": null,
+        "name": null,
+        "opening_hours": null,
+        "operator": null,
+        "panoramax": null,
+        "parking": null,
+        "ref:bag": null,
+        "ref:rce": null,
+        "service:bicycle:charging": null,
+        "smoothness": null,
+        "source": null,
+        "source:date": null,
+        "start_date": null,
+        "supervised": null,
+        "surface": null,
+        "wikidata": null,
+        "access": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.159926613477367,
+          52.276702
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1231689290",
+      "properties": {
+        "amenity": "bicycle_parking",
+        "area": null,
+        "bicycle_parking": null,
+        "building": null,
+        "building:levels:underground": null,
+        "capacity": null,
+        "covered": "yes",
+        "fee": null,
+        "heritage": null,
+        "heritage:operator": null,
+        "historic": null,
+        "indoor": null,
+        "layer": null,
+        "level": null,
+        "lit": null,
+        "location": null,
+        "name": null,
+        "opening_hours": null,
+        "operator": null,
+        "panoramax": null,
+        "parking": null,
+        "ref:bag": null,
+        "ref:rce": null,
+        "service:bicycle:charging": null,
+        "smoothness": null,
+        "source": null,
+        "source:date": null,
+        "start_date": null,
+        "supervised": null,
+        "surface": null,
+        "wikidata": null,
+        "access": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.177369987615023,
+          52.24099355
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1262491355",
+      "properties": {
+        "amenity": "bicycle_parking",
+        "area": "yes",
+        "bicycle_parking": null,
+        "building": null,
+        "building:levels:underground": null,
+        "capacity": null,
+        "covered": "no",
+        "fee": null,
+        "heritage": null,
+        "heritage:operator": null,
+        "historic": null,
+        "indoor": null,
+        "layer": null,
+        "level": null,
+        "lit": null,
+        "location": null,
+        "name": null,
+        "opening_hours": null,
+        "operator": null,
+        "panoramax": null,
+        "parking": null,
+        "ref:bag": null,
+        "ref:rce": null,
+        "service:bicycle:charging": null,
+        "smoothness": null,
+        "source": null,
+        "source:date": null,
+        "start_date": null,
+        "supervised": null,
+        "surface": null,
+        "wikidata": null,
+        "access": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.356108883622994,
+          52.25446935
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1276399351",
+      "properties": {
+        "amenity": "bicycle_parking",
+        "area": null,
+        "bicycle_parking": "stands",
+        "building": null,
+        "building:levels:underground": null,
+        "capacity": "4",
+        "covered": "no",
+        "fee": null,
+        "heritage": null,
+        "heritage:operator": null,
+        "historic": null,
+        "indoor": null,
+        "layer": null,
+        "level": null,
+        "lit": null,
+        "location": null,
+        "name": null,
+        "opening_hours": null,
+        "operator": null,
+        "panoramax": null,
+        "parking": "street_side",
+        "ref:bag": null,
+        "ref:rce": null,
+        "service:bicycle:charging": null,
+        "smoothness": null,
+        "source": null,
+        "source:date": null,
+        "start_date": null,
+        "supervised": null,
+        "surface": null,
+        "wikidata": null,
+        "access": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.160498768495298,
+          52.2546082
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1276399352",
+      "properties": {
+        "amenity": "bicycle_parking",
+        "area": null,
+        "bicycle_parking": "stands",
+        "building": null,
+        "building:levels:underground": null,
+        "capacity": "4",
+        "covered": "no",
+        "fee": null,
+        "heritage": null,
+        "heritage:operator": null,
+        "historic": null,
+        "indoor": null,
+        "layer": null,
+        "level": null,
+        "lit": null,
+        "location": null,
+        "name": null,
+        "opening_hours": null,
+        "operator": null,
+        "panoramax": null,
+        "parking": "street_side",
+        "ref:bag": null,
+        "ref:rce": null,
+        "service:bicycle:charging": null,
+        "smoothness": null,
+        "source": null,
+        "source:date": null,
+        "start_date": null,
+        "supervised": null,
+        "surface": null,
+        "wikidata": null,
+        "access": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.160536480882352,
+          52.25467035
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1276399353",
+      "properties": {
+        "amenity": "bicycle_parking",
+        "area": null,
+        "bicycle_parking": "stands",
+        "building": null,
+        "building:levels:underground": null,
+        "capacity": "4",
+        "covered": "no",
+        "fee": null,
+        "heritage": null,
+        "heritage:operator": null,
+        "historic": null,
+        "indoor": null,
+        "layer": null,
+        "level": null,
+        "lit": null,
+        "location": null,
+        "name": null,
+        "opening_hours": null,
+        "operator": null,
+        "panoramax": null,
+        "parking": "street_side",
+        "ref:bag": null,
+        "ref:rce": null,
+        "service:bicycle:charging": null,
+        "smoothness": null,
+        "source": null,
+        "source:date": null,
+        "start_date": null,
+        "supervised": null,
+        "surface": null,
+        "wikidata": null,
+        "access": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1602075,
+          52.2541348
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1276399354",
+      "properties": {
+        "amenity": "bicycle_parking",
+        "area": null,
+        "bicycle_parking": "stands",
+        "building": null,
+        "building:levels:underground": null,
+        "capacity": "12",
+        "covered": "no",
+        "fee": null,
+        "heritage": null,
+        "heritage:operator": null,
+        "historic": null,
+        "indoor": null,
+        "layer": null,
+        "level": null,
+        "lit": null,
+        "location": null,
+        "name": null,
+        "opening_hours": null,
+        "operator": null,
+        "panoramax": null,
+        "parking": "street_side",
+        "ref:bag": null,
+        "ref:rce": null,
+        "service:bicycle:charging": null,
+        "smoothness": null,
+        "source": null,
+        "source:date": null,
+        "start_date": null,
+        "supervised": null,
+        "surface": null,
+        "wikidata": null,
+        "access": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1601452,
+          52.25403375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1276399355",
+      "properties": {
+        "amenity": "bicycle_parking",
+        "area": null,
+        "bicycle_parking": "stands",
+        "building": null,
+        "building:levels:underground": null,
+        "capacity": "8",
+        "covered": "no",
+        "fee": null,
+        "heritage": null,
+        "heritage:operator": null,
+        "historic": null,
+        "indoor": null,
+        "layer": null,
+        "level": null,
+        "lit": null,
+        "location": null,
+        "name": null,
+        "opening_hours": null,
+        "operator": null,
+        "panoramax": null,
+        "parking": "street_side",
+        "ref:bag": null,
+        "ref:rce": null,
+        "service:bicycle:charging": null,
+        "smoothness": null,
+        "source": null,
+        "source:date": null,
+        "start_date": null,
+        "supervised": null,
+        "surface": null,
+        "wikidata": null,
+        "access": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.160082586859581,
+          52.25393225
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1306782481",
+      "properties": {
+        "amenity": "bicycle_parking",
+        "area": null,
+        "bicycle_parking": "floor",
+        "building": null,
+        "building:levels:underground": null,
+        "capacity": null,
+        "covered": "no",
+        "fee": null,
+        "heritage": null,
+        "heritage:operator": null,
+        "historic": null,
+        "indoor": null,
+        "layer": null,
+        "level": null,
+        "lit": null,
+        "location": null,
+        "name": null,
+        "opening_hours": null,
+        "operator": null,
+        "panoramax": null,
+        "parking": null,
+        "ref:bag": null,
+        "ref:rce": null,
+        "service:bicycle:charging": null,
+        "smoothness": null,
+        "source": null,
+        "source:date": null,
+        "start_date": null,
+        "supervised": null,
+        "surface": null,
+        "wikidata": null,
+        "access": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.164716867411959,
+          52.2567612
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1306782482",
+      "properties": {
+        "amenity": "bicycle_parking",
+        "area": null,
+        "bicycle_parking": "floor",
+        "building": null,
+        "building:levels:underground": null,
+        "capacity": null,
+        "covered": "no",
+        "fee": null,
+        "heritage": null,
+        "heritage:operator": null,
+        "historic": null,
+        "indoor": null,
+        "layer": null,
+        "level": null,
+        "lit": null,
+        "location": null,
+        "name": null,
+        "opening_hours": null,
+        "operator": null,
+        "panoramax": null,
+        "parking": null,
+        "ref:bag": null,
+        "ref:rce": null,
+        "service:bicycle:charging": null,
+        "smoothness": null,
+        "source": null,
+        "source:date": null,
+        "start_date": null,
+        "supervised": null,
+        "surface": null,
+        "wikidata": null,
+        "access": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.164413533671965,
+          52.25684815
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1306782483",
+      "properties": {
+        "amenity": "bicycle_parking",
+        "area": null,
+        "bicycle_parking": "stands",
+        "building": null,
+        "building:levels:underground": null,
+        "capacity": "66",
+        "covered": "no",
+        "fee": null,
+        "heritage": null,
+        "heritage:operator": null,
+        "historic": null,
+        "indoor": null,
+        "layer": null,
+        "level": null,
+        "lit": null,
+        "location": null,
+        "name": null,
+        "opening_hours": null,
+        "operator": null,
+        "panoramax": null,
+        "parking": null,
+        "ref:bag": null,
+        "ref:rce": null,
+        "service:bicycle:charging": null,
+        "smoothness": null,
+        "source": null,
+        "source:date": null,
+        "start_date": null,
+        "supervised": null,
+        "surface": null,
+        "wikidata": null,
+        "access": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.164224273450756,
+          52.2568978
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1306782484",
+      "properties": {
+        "amenity": "bicycle_parking",
+        "area": null,
+        "bicycle_parking": "stands",
+        "building": null,
+        "building:levels:underground": null,
+        "capacity": "36",
+        "covered": "no",
+        "fee": null,
+        "heritage": null,
+        "heritage:operator": null,
+        "historic": null,
+        "indoor": null,
+        "layer": null,
+        "level": null,
+        "lit": null,
+        "location": null,
+        "name": null,
+        "opening_hours": null,
+        "operator": null,
+        "panoramax": null,
+        "parking": null,
+        "ref:bag": null,
+        "ref:rce": null,
+        "service:bicycle:charging": null,
+        "smoothness": null,
+        "source": null,
+        "source:date": null,
+        "start_date": null,
+        "supervised": null,
+        "surface": null,
+        "wikidata": null,
+        "access": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.164519301971382,
+          52.256715
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1354057085",
+      "properties": {
+        "amenity": "bicycle_parking",
+        "area": null,
+        "bicycle_parking": null,
+        "building": null,
+        "building:levels:underground": null,
+        "capacity": "16",
+        "covered": null,
+        "fee": null,
+        "heritage": null,
+        "heritage:operator": null,
+        "historic": null,
+        "indoor": null,
+        "layer": null,
+        "level": null,
+        "lit": null,
+        "location": null,
+        "name": null,
+        "opening_hours": null,
+        "operator": null,
+        "panoramax": null,
+        "parking": null,
+        "ref:bag": null,
+        "ref:rce": null,
+        "service:bicycle:charging": null,
+        "smoothness": null,
+        "source": null,
+        "source:date": null,
+        "start_date": null,
+        "supervised": null,
+        "surface": null,
+        "wikidata": null,
+        "access": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.286415132433515,
+          52.2494898
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1354057086",
+      "properties": {
+        "amenity": "bicycle_parking",
+        "area": null,
+        "bicycle_parking": null,
+        "building": null,
+        "building:levels:underground": null,
+        "capacity": "14",
+        "covered": null,
+        "fee": null,
+        "heritage": null,
+        "heritage:operator": null,
+        "historic": null,
+        "indoor": null,
+        "layer": null,
+        "level": null,
+        "lit": null,
+        "location": null,
+        "name": null,
+        "opening_hours": null,
+        "operator": null,
+        "panoramax": null,
+        "parking": null,
+        "ref:bag": null,
+        "ref:rce": null,
+        "service:bicycle:charging": null,
+        "smoothness": null,
+        "source": null,
+        "source:date": null,
+        "start_date": null,
+        "supervised": null,
+        "surface": null,
+        "wikidata": null,
+        "access": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.2864875,
+          52.2496119
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1458121155",
+      "properties": {
+        "amenity": "bicycle_parking",
+        "area": null,
+        "bicycle_parking": null,
+        "building": null,
+        "building:levels:underground": null,
+        "capacity": null,
+        "covered": null,
+        "fee": null,
+        "heritage": null,
+        "heritage:operator": null,
+        "historic": null,
+        "indoor": null,
+        "layer": null,
+        "level": null,
+        "lit": null,
+        "location": null,
+        "name": null,
+        "opening_hours": null,
+        "operator": null,
+        "panoramax": null,
+        "parking": null,
+        "ref:bag": null,
+        "ref:rce": null,
+        "service:bicycle:charging": null,
+        "smoothness": null,
+        "source": null,
+        "source:date": null,
+        "start_date": null,
+        "supervised": null,
+        "surface": null,
+        "wikidata": null,
+        "access": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.19679744468222,
+          52.25288495
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1491057307",
+      "properties": {
+        "amenity": "bicycle_parking",
+        "area": null,
+        "bicycle_parking": "stands",
+        "building": null,
+        "building:levels:underground": null,
+        "capacity": null,
+        "covered": null,
+        "fee": null,
+        "heritage": null,
+        "heritage:operator": null,
+        "historic": null,
+        "indoor": null,
+        "layer": null,
+        "level": null,
+        "lit": null,
+        "location": null,
+        "name": null,
+        "opening_hours": null,
+        "operator": null,
+        "panoramax": null,
+        "parking": null,
+        "ref:bag": null,
+        "ref:rce": null,
+        "service:bicycle:charging": null,
+        "smoothness": null,
+        "source": null,
+        "source:date": null,
+        "start_date": null,
+        "supervised": null,
+        "surface": null,
+        "wikidata": null,
+        "access": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1290786,
+          52.26542605
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1498054035",
+      "properties": {
+        "amenity": "bicycle_parking",
+        "area": null,
+        "bicycle_parking": "rack",
+        "building": null,
+        "building:levels:underground": null,
+        "capacity": "12",
+        "covered": "no",
+        "fee": "no",
+        "heritage": null,
+        "heritage:operator": null,
+        "historic": null,
+        "indoor": null,
+        "layer": null,
+        "level": null,
+        "lit": null,
+        "location": null,
+        "name": null,
+        "opening_hours": null,
+        "operator": null,
+        "panoramax": null,
+        "parking": null,
+        "ref:bag": null,
+        "ref:rce": null,
+        "service:bicycle:charging": null,
+        "smoothness": null,
+        "source": null,
+        "source:date": null,
+        "start_date": null,
+        "supervised": null,
+        "surface": null,
+        "wikidata": null,
+        "access": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.15067668949829,
+          52.25873725
+        ]
+      }
+    }
+  ]
+}
