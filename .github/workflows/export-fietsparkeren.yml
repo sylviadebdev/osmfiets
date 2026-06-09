@@ -30,21 +30,26 @@ jobs:
           osmtogeojson data/bicycle_parking_points.osm.json \
             > data/bicycle_parking_points.geojson
 
-      - name: Overpass – polygonen
+      - name: Overpass – polygonen als punten
         run: |
-          curl -sS --fail --retry 5 --retry-delay 5 --retry-all-errors \
+          mkdir -p data
+
+          HTTP_CODE=$(curl -sS -w "%{http_code}" \
             -X POST --data-binary @querypolygons.overpassql \
             https://overpass-api.de/api/interpreter \
-            -o data/bicycle_parking_polygons.osm.json
-          osmtogeojson data/bicycle_parking_polygons.osm.json \
-            > data/bicycle_parking_polygons.geojson
+            -o data/bicycle_parking_polygon_centroids.osm.json)
 
-      - name: Polygonen → centroids
-        run: |
-          ogr2ogr -f GeoJSON -dialect sqlite \
-            -sql "SELECT ST_PointOnSurface(geometry) AS geometry, * FROM bicycle_parking_polygons" \
-            data/bicycle_parking_polygon_centroids.geojson \
-            data/bicycle_parking_polygons.geojson
+          echo "HTTP status: $HTTP_CODE"
+
+          if [ "$HTTP_CODE" -ne 200 ]; then
+            echo "Overpass request failed"
+            cat data/bicycle_parking_polygon_centroids.osm.json
+            exit 1
+          fi
+
+          osmtogeojson data/bicycle_parking_polygon_centroids.osm.json \
+            > data/bicycle_parking_polygon_centroids.geo
+
 
       - name: Merge to 1 points layer (cast capacity to number)
         run: |
