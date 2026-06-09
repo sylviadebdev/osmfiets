@@ -1,15 +1,13 @@
 
-[out:json][timeout:60];
-
-area
-  ["boundary"="administrative"]
-  ["admin_level"="8"]
-  ["name"="Deventer"]
-  ->.searchArea;
+[out:json][timeout:25];
 
 (
-  way["amenity"="bicycle_parking"](area.searchArea);
-  relation["amenity"="bicycle_parking"](area.searchArea);
+  way
+    ["amenity"="bicycle_parking"]
+    (52.24,5.95,52.30,6.03);
+  relation
+    ["amenity"="bicycle_parking"]
+    (52.24,5.95,52.30,6.03);
 );
 
 out geom;
