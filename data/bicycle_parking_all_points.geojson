@@ -695,6 +695,7 @@
         "amenity": "bicycle_parking",
         "bicycle_parking": "stands",
         "capacity": 14,
+        "covered": "no",
         "fee": "no",
         "id": "node/13570346691"
       },
@@ -733,6 +734,7 @@
         "amenity": "bicycle_parking",
         "bicycle_parking": "stands",
         "capacity": 14,
+        "covered": "no",
         "fee": "no",
         "id": "node/13570346693"
       },
@@ -1202,8 +1204,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.1541124,
-          52.2523279
+          6.1541699,
+          52.2523461
         ]
       }
     },
@@ -1550,23 +1552,6 @@
     },
     {
       "type": "Feature",
-      "id": "node/13744486522",
-      "properties": {
-        "amenity": "bicycle_parking",
-        "bicycle_parking": "stands",
-        "capacity": 102,
-        "id": "node/13744486522"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.132295,
-          52.2695311
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "node/13744524447",
       "properties": {
         "amenity": "bicycle_parking",
@@ -1788,6 +1773,25 @@
     },
     {
       "type": "Feature",
+      "id": "node/13840350849",
+      "properties": {
+        "access": "yes",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "covered": "no",
+        "fee": "no",
+        "id": "node/13840350849"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1447267,
+          52.2941427
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/239242213",
       "properties": {
         "amenity": "bicycle_parking",
@@ -1831,15 +1835,16 @@
         "building": "yes",
         "building:levels:underground": "1",
         "capacity": 3000,
+        "check_date": "2026-06-03",
+        "check_date:opening_hours": "2026-06-03",
         "covered": "yes",
         "fee": "no",
-        "indoor": "room",
         "layer": "-1",
         "level": "-1",
         "lit": "yes",
         "location": "underground",
         "name": "Stationsplein",
-        "opening_hours": "06:00-24:00",
+        "opening_hours": "Mo,We 05:15-01:15, Tu,Th 04:50-01:15, Fr 05:15-02:00; Sa 06:10-02:00; Su 04:50-00:55",
         "operator": "NS",
         "ref:bag": "0150100000059726",
         "source": "BAG",
@@ -2546,6 +2551,52 @@
         "coordinates": [
           6.128158808333334,
           52.2664866
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1518792605",
+      "properties": {
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "capacity": 102
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.132289346887293,
+          52.2695173
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1527309732",
+      "properties": {
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "wall_loops"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1420786,
+          52.26713455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1527309733",
+      "properties": {
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "wall_loops"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.141868726518913,
+          52.26711755
         ]
       }
     }
