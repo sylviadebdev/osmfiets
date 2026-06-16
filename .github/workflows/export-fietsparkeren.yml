@@ -24,7 +24,9 @@ jobs:
         run: |
           mkdir -p data
           curl -sS -w "\nHTTP status: %{http_code}\n" \
-            -X POST --data-binary @querypoints.overpassql \
+            -A "osmfiets export (github.com/${{ github.repository }})" \
+            --retry 3 --retry-delay 10 --retry-all-errors \
+            --data-urlencode "data@querypoints.overpassql" \
             https://overpass-api.de/api/interpreter \
             -o data/bicycle_parking_points.osm.json
           osmtogeojson data/bicycle_parking_points.osm.json \
@@ -35,7 +37,9 @@ jobs:
           mkdir -p data
 
           HTTP_CODE=$(curl -sS -w "%{http_code}" \
-            -X POST --data-binary @querypolygons.overpassql \
+            -A "osmfiets export (github.com/${{ github.repository }})" \
+            --retry 3 --retry-delay 10 --retry-all-errors \
+            --data-urlencode "data@querypolygons.overpassql" \
             https://overpass-api.de/api/interpreter \
             -o data/bicycle_parking_polygon_centroids.osm.json)
 
@@ -48,7 +52,7 @@ jobs:
           fi
 
           osmtogeojson data/bicycle_parking_polygon_centroids.osm.json \
-            > data/bicycle_parking_polygon_centroids.geo
+            > data/bicycle_parking_polygon_centroids.geojson
 
 
       - name: Merge to 1 points layer (cast capacity to number)
