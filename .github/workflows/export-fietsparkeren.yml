@@ -60,8 +60,12 @@ jobs:
 
       - name: GeoJSON + capacity normaliseren
         run: |
-          # OSM -> GeoJSON, daarna capacity casten naar een getal en
-          # lege properties wegwerken.
+          OLD=data/bicycle_parking_all_points.geojson
+          NEW="${OLD}.new"
+
+          # OSM -> GeoJSON, capacity casten naar een getal, lege properties
+          # wegwerken en freshness-metadata als top-level velden toevoegen
+          # (foreign members, RFC 7946 §6.1 — mapping-libs negeren ze).
           osmtogeojson data/bicycle_parking.osm.json \
           | jq '
               (.features[]?.properties.capacity |=
@@ -72,10 +76,30 @@ jobs:
                 end
               )
               | (.features[]?.properties |= with_entries(select(.value != null)))
+              | . + {
+                  generated_at: (now | todate),
+                  source: "OpenStreetMap via Overpass API (gemeente Deventer)",
+                  feature_count: (.features | length)
+                }
             ' \
-          > data/bicycle_parking_all_points.geojson
+          > "$NEW"
 
-          echo "Features: $(jq '.features | length' data/bicycle_parking_all_points.geojson)"
+          # Guard: overschrijf goede data nooit met (bijna) niets.
+          new_count=$(jq '.features | length' "$NEW")
+          old_count=0
+          [ -f "$OLD" ] && old_count=$(jq '.features | length' "$OLD")
+          echo "Features: nieuw=$new_count, huidig=$old_count"
+
+          if [ "$new_count" -eq 0 ]; then
+            echo "::error::0 features — vermoedelijk lege/foute Overpass-respons. Afgebroken."
+            exit 1
+          fi
+          if [ "$old_count" -gt 0 ] && [ "$new_count" -lt $((old_count / 2)) ]; then
+            echo "::error::nieuw ($new_count) < 50% van huidig ($old_count). Verdachte daling, afgebroken."
+            exit 1
+          fi
+
+          mv "$NEW" "$OLD"
 
       - name: Commit outputs
         run: |
