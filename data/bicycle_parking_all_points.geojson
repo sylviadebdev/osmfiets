@@ -10,7 +10,8 @@
         "capacity": 270,
         "covered": "yes",
         "level": "0",
-        "id": "way/239242213"
+        "id": "way/239242213",
+        "osm_fetched_at": "2026-06-16T13:17:29Z"
       },
       "geometry": {
         "type": "Point",
@@ -29,7 +30,8 @@
         "capacity": 350,
         "covered": "yes",
         "level": "0",
-        "id": "way/239242235"
+        "id": "way/239242235",
+        "osm_fetched_at": "2026-06-16T13:17:29Z"
       },
       "geometry": {
         "type": "Point",
@@ -66,7 +68,8 @@
         "start_date": "2003",
         "supervised": "yes",
         "surface": "concrete",
-        "id": "way/262220544"
+        "id": "way/262220544",
+        "osm_fetched_at": "2026-06-16T13:17:29Z"
       },
       "geometry": {
         "type": "Point",
@@ -83,7 +86,8 @@
         "amenity": "bicycle_parking",
         "bicycle_parking": "wall_loops",
         "capacity": 64,
-        "id": "way/370673610"
+        "id": "way/370673610",
+        "osm_fetched_at": "2026-06-16T13:17:29Z"
       },
       "geometry": {
         "type": "Point",
@@ -108,7 +112,8 @@
         "smoothness": "good",
         "supervised": "no",
         "surface": "paving_stones",
-        "id": "way/539203398"
+        "id": "way/539203398",
+        "osm_fetched_at": "2026-06-16T13:17:29Z"
       },
       "geometry": {
         "type": "Point",
@@ -133,7 +138,8 @@
         "smoothness": "good",
         "supervised": "no",
         "surface": "paving_stones",
-        "id": "way/539247660"
+        "id": "way/539247660",
+        "osm_fetched_at": "2026-06-16T13:17:29Z"
       },
       "geometry": {
         "type": "Point",
@@ -154,7 +160,8 @@
         "smoothness": "good",
         "supervised": "no",
         "surface": "paving_stones",
-        "id": "way/657916231"
+        "id": "way/657916231",
+        "osm_fetched_at": "2026-06-16T13:17:29Z"
       },
       "geometry": {
         "type": "Point",
@@ -175,7 +182,8 @@
         "covered": "yes",
         "fee": "no",
         "service:bicycle:charging": "yes",
-        "id": "way/681169965"
+        "id": "way/681169965",
+        "osm_fetched_at": "2026-06-16T13:17:29Z"
       },
       "geometry": {
         "type": "Point",
@@ -194,7 +202,8 @@
         "capacity": 200,
         "covered": "yes",
         "fee": "no",
-        "id": "way/681169966"
+        "id": "way/681169966",
+        "osm_fetched_at": "2026-06-16T13:17:29Z"
       },
       "geometry": {
         "type": "Point",
@@ -215,7 +224,8 @@
         "smoothness": "good",
         "supervised": "no",
         "surface": "paving_stones",
-        "id": "way/757235570"
+        "id": "way/757235570",
+        "osm_fetched_at": "2026-06-16T13:17:29Z"
       },
       "geometry": {
         "type": "Point",
@@ -232,7 +242,8 @@
         "amenity": "bicycle_parking",
         "covered": "no",
         "fee": "no",
-        "id": "way/833283936"
+        "id": "way/833283936",
+        "osm_fetched_at": "2026-06-16T13:17:29Z"
       },
       "geometry": {
         "type": "Point",
@@ -251,7 +262,8 @@
         "bicycle_parking": "shed",
         "capacity": 20,
         "fee": "no",
-        "id": "way/976942274"
+        "id": "way/976942274",
+        "osm_fetched_at": "2026-06-16T13:17:29Z"
       },
       "geometry": {
         "type": "Point",
@@ -270,7 +282,8 @@
         "capacity": 500,
         "covered": "no",
         "fee": "no",
-        "id": "way/1037518739"
+        "id": "way/1037518739",
+        "osm_fetched_at": "2026-06-16T13:17:29Z"
       },
       "geometry": {
         "type": "Point",
@@ -287,7 +300,8 @@
         "amenity": "bicycle_parking",
         "bicycle_parking": "stands",
         "capacity": 48,
-        "id": "way/1049534020"
+        "id": "way/1049534020",
+        "osm_fetched_at": "2026-06-16T13:17:29Z"
       },
       "geometry": {
         "type": "Point",
@@ -310,7 +324,8 @@
         "smoothness": "good",
         "supervised": "no",
         "surface": "paving_stones",
-        "id": "way/1073547133"
+        "id": "way/1073547133",
+        "osm_fetched_at": "2026-06-16T13:17:29Z"
       },
       "geometry": {
         "type": "Point",
@@ -325,7 +340,8 @@
       "id": "way/1077490066",
       "properties": {
         "amenity": "bicycle_parking",
-        "id": "way/1077490066"
+        "id": "way/1077490066",
+        "osm_fetched_at": "2026-06-16T13:17:29Z"
       },
       "geometry": {
         "type": "Point",
@@ -347,7 +363,8 @@
         "fee": "no",
         "operator": "Bewaker stad deventer",
         "panoramax": "33fb86e8-c053-4482-a493-26e2ec3c3b99",
-        "id": "way/1081222613"
+        "id": "way/1081222613",
+        "osm_fetched_at": "2026-06-16T13:17:29Z"
       },
       "geometry": {
         "type": "Point",
@@ -372,7 +389,8 @@
         "name": "Botermarkt",
         "ref:rce": "12637",
         "wikidata": "Q17346087",
-        "id": "way/1082999612"
+        "id": "way/1082999612",
+        "osm_fetched_at": "2026-06-16T13:17:29Z"
       },
       "geometry": {
         "type": "Point",
@@ -388,7 +406,8 @@
       "properties": {
         "access": "private",
         "amenity": "bicycle_parking",
-        "id": "way/1101789743"
+        "id": "way/1101789743",
+        "osm_fetched_at": "2026-06-16T13:17:29Z"
       },
       "geometry": {
         "type": "Point",
@@ -404,7 +423,8 @@
       "properties": {
         "access": "private",
         "amenity": "bicycle_parking",
-        "id": "way/1101789751"
+        "id": "way/1101789751",
+        "osm_fetched_at": "2026-06-16T13:17:29Z"
       },
       "geometry": {
         "type": "Point",
@@ -421,7 +441,8 @@
         "amenity": "bicycle_parking",
         "bicycle_parking": "wall_loops",
         "covered": "no",
-        "id": "way/1102172958"
+        "id": "way/1102172958",
+        "osm_fetched_at": "2026-06-16T13:17:29Z"
       },
       "geometry": {
         "type": "Point",
@@ -437,7 +458,8 @@
       "properties": {
         "access": "private",
         "amenity": "bicycle_parking",
-        "id": "way/1111585224"
+        "id": "way/1111585224",
+        "osm_fetched_at": "2026-06-16T13:17:29Z"
       },
       "geometry": {
         "type": "Point",
@@ -453,7 +475,8 @@
       "properties": {
         "amenity": "bicycle_parking",
         "covered": "yes",
-        "id": "way/1136521774"
+        "id": "way/1136521774",
+        "osm_fetched_at": "2026-06-16T13:17:29Z"
       },
       "geometry": {
         "type": "Point",
@@ -469,7 +492,8 @@
       "properties": {
         "amenity": "bicycle_parking",
         "covered": "no",
-        "id": "way/1136521775"
+        "id": "way/1136521775",
+        "osm_fetched_at": "2026-06-16T13:17:29Z"
       },
       "geometry": {
         "type": "Point",
@@ -484,7 +508,8 @@
       "id": "way/1203625560",
       "properties": {
         "amenity": "bicycle_parking",
-        "id": "way/1203625560"
+        "id": "way/1203625560",
+        "osm_fetched_at": "2026-06-16T13:17:29Z"
       },
       "geometry": {
         "type": "Point",
@@ -500,7 +525,8 @@
       "properties": {
         "amenity": "bicycle_parking",
         "covered": "yes",
-        "id": "way/1231689290"
+        "id": "way/1231689290",
+        "osm_fetched_at": "2026-06-16T13:17:29Z"
       },
       "geometry": {
         "type": "Point",
@@ -517,7 +543,8 @@
         "amenity": "bicycle_parking",
         "area": "yes",
         "covered": "no",
-        "id": "way/1262491355"
+        "id": "way/1262491355",
+        "osm_fetched_at": "2026-06-16T13:17:29Z"
       },
       "geometry": {
         "type": "Point",
@@ -536,7 +563,8 @@
         "capacity": 4,
         "covered": "no",
         "parking": "street_side",
-        "id": "way/1276399351"
+        "id": "way/1276399351",
+        "osm_fetched_at": "2026-06-16T13:17:29Z"
       },
       "geometry": {
         "type": "Point",
@@ -555,7 +583,8 @@
         "capacity": 4,
         "covered": "no",
         "parking": "street_side",
-        "id": "way/1276399352"
+        "id": "way/1276399352",
+        "osm_fetched_at": "2026-06-16T13:17:29Z"
       },
       "geometry": {
         "type": "Point",
@@ -574,7 +603,8 @@
         "capacity": 4,
         "covered": "no",
         "parking": "street_side",
-        "id": "way/1276399353"
+        "id": "way/1276399353",
+        "osm_fetched_at": "2026-06-16T13:17:29Z"
       },
       "geometry": {
         "type": "Point",
@@ -593,7 +623,8 @@
         "capacity": 12,
         "covered": "no",
         "parking": "street_side",
-        "id": "way/1276399354"
+        "id": "way/1276399354",
+        "osm_fetched_at": "2026-06-16T13:17:29Z"
       },
       "geometry": {
         "type": "Point",
@@ -612,7 +643,8 @@
         "capacity": 8,
         "covered": "no",
         "parking": "street_side",
-        "id": "way/1276399355"
+        "id": "way/1276399355",
+        "osm_fetched_at": "2026-06-16T13:17:29Z"
       },
       "geometry": {
         "type": "Point",
@@ -629,7 +661,8 @@
         "amenity": "bicycle_parking",
         "bicycle_parking": "floor",
         "covered": "no",
-        "id": "way/1306782481"
+        "id": "way/1306782481",
+        "osm_fetched_at": "2026-06-16T13:17:29Z"
       },
       "geometry": {
         "type": "Point",
@@ -646,7 +679,8 @@
         "amenity": "bicycle_parking",
         "bicycle_parking": "floor",
         "covered": "no",
-        "id": "way/1306782482"
+        "id": "way/1306782482",
+        "osm_fetched_at": "2026-06-16T13:17:29Z"
       },
       "geometry": {
         "type": "Point",
@@ -664,7 +698,8 @@
         "bicycle_parking": "stands",
         "capacity": 66,
         "covered": "no",
-        "id": "way/1306782483"
+        "id": "way/1306782483",
+        "osm_fetched_at": "2026-06-16T13:17:29Z"
       },
       "geometry": {
         "type": "Point",
@@ -682,7 +717,8 @@
         "bicycle_parking": "stands",
         "capacity": 36,
         "covered": "no",
-        "id": "way/1306782484"
+        "id": "way/1306782484",
+        "osm_fetched_at": "2026-06-16T13:17:29Z"
       },
       "geometry": {
         "type": "Point",
@@ -698,7 +734,8 @@
       "properties": {
         "amenity": "bicycle_parking",
         "capacity": 16,
-        "id": "way/1354057085"
+        "id": "way/1354057085",
+        "osm_fetched_at": "2026-06-16T13:17:29Z"
       },
       "geometry": {
         "type": "Point",
@@ -714,7 +751,8 @@
       "properties": {
         "amenity": "bicycle_parking",
         "capacity": 14,
-        "id": "way/1354057086"
+        "id": "way/1354057086",
+        "osm_fetched_at": "2026-06-16T13:17:29Z"
       },
       "geometry": {
         "type": "Point",
@@ -729,7 +767,8 @@
       "id": "way/1458121155",
       "properties": {
         "amenity": "bicycle_parking",
-        "id": "way/1458121155"
+        "id": "way/1458121155",
+        "osm_fetched_at": "2026-06-16T13:17:29Z"
       },
       "geometry": {
         "type": "Point",
@@ -746,7 +785,8 @@
         "amenity": "bicycle_parking",
         "bicycle_parking": "stands",
         "capacity": 44,
-        "id": "way/1491057307"
+        "id": "way/1491057307",
+        "osm_fetched_at": "2026-06-16T13:17:29Z"
       },
       "geometry": {
         "type": "Point",
@@ -766,7 +806,8 @@
         "capacity": 12,
         "covered": "no",
         "fee": "no",
-        "id": "way/1498054035"
+        "id": "way/1498054035",
+        "osm_fetched_at": "2026-06-16T13:17:29Z"
       },
       "geometry": {
         "type": "Point",
@@ -782,7 +823,8 @@
       "properties": {
         "amenity": "bicycle_parking",
         "capacity": 20,
-        "id": "way/1503372308"
+        "id": "way/1503372308",
+        "osm_fetched_at": "2026-06-16T13:17:29Z"
       },
       "geometry": {
         "type": "Point",
@@ -799,7 +841,8 @@
         "amenity": "bicycle_parking",
         "bicycle_parking": "stands",
         "capacity": 102,
-        "id": "way/1518792605"
+        "id": "way/1518792605",
+        "osm_fetched_at": "2026-06-16T13:17:29Z"
       },
       "geometry": {
         "type": "Point",
@@ -815,7 +858,8 @@
       "properties": {
         "amenity": "bicycle_parking",
         "bicycle_parking": "wall_loops",
-        "id": "way/1527309732"
+        "id": "way/1527309732",
+        "osm_fetched_at": "2026-06-16T13:17:29Z"
       },
       "geometry": {
         "type": "Point",
@@ -831,7 +875,8 @@
       "properties": {
         "amenity": "bicycle_parking",
         "bicycle_parking": "wall_loops",
-        "id": "way/1527309733"
+        "id": "way/1527309733",
+        "osm_fetched_at": "2026-06-16T13:17:29Z"
       },
       "geometry": {
         "type": "Point",
@@ -847,7 +892,8 @@
       "properties": {
         "access": "private",
         "amenity": "bicycle_parking",
-        "id": "way/1528616458"
+        "id": "way/1528616458",
+        "osm_fetched_at": "2026-06-16T13:17:29Z"
       },
       "geometry": {
         "type": "Point",
@@ -863,7 +909,8 @@
       "properties": {
         "access": "private",
         "amenity": "bicycle_parking",
-        "id": "way/1528616459"
+        "id": "way/1528616459",
+        "osm_fetched_at": "2026-06-16T13:17:29Z"
       },
       "geometry": {
         "type": "Point",
@@ -879,7 +926,8 @@
       "properties": {
         "amenity": "bicycle_parking",
         "bicycle_parking": "stands",
-        "id": "way/1529165193"
+        "id": "way/1529165193",
+        "osm_fetched_at": "2026-06-16T13:17:29Z"
       },
       "geometry": {
         "type": "Point",
@@ -894,7 +942,8 @@
       "id": "node/1777396183",
       "properties": {
         "amenity": "bicycle_parking",
-        "id": "node/1777396183"
+        "id": "node/1777396183",
+        "osm_fetched_at": "2026-06-16T13:17:29Z"
       },
       "geometry": {
         "type": "Point",
@@ -914,7 +963,8 @@
         "capacity": 100,
         "covered": "no",
         "fee": "no",
-        "id": "node/1837050320"
+        "id": "node/1837050320",
+        "osm_fetched_at": "2026-06-16T13:17:29Z"
       },
       "geometry": {
         "type": "Point",
@@ -936,7 +986,8 @@
         "fee": "no",
         "lit": "yes",
         "supervised": "no",
-        "id": "node/3428581412"
+        "id": "node/3428581412",
+        "osm_fetched_at": "2026-06-16T13:17:29Z"
       },
       "geometry": {
         "type": "Point",
@@ -952,7 +1003,8 @@
       "properties": {
         "amenity": "bicycle_parking",
         "bicycle_parking": "stands",
-        "id": "node/5702825687"
+        "id": "node/5702825687",
+        "osm_fetched_at": "2026-06-16T13:17:29Z"
       },
       "geometry": {
         "type": "Point",
@@ -970,7 +1022,8 @@
         "bicycle_parking": "stands",
         "capacity": 64,
         "covered": "no",
-        "id": "node/9500574161"
+        "id": "node/9500574161",
+        "osm_fetched_at": "2026-06-16T13:17:29Z"
       },
       "geometry": {
         "type": "Point",
@@ -989,7 +1042,8 @@
         "bicycle_parking": "wall_loops",
         "capacity": 25,
         "covered": "no",
-        "id": "node/9653910806"
+        "id": "node/9653910806",
+        "osm_fetched_at": "2026-06-16T13:17:29Z"
       },
       "geometry": {
         "type": "Point",
@@ -1005,7 +1059,8 @@
       "properties": {
         "amenity": "bicycle_parking",
         "covered": "no",
-        "id": "node/9654315726"
+        "id": "node/9654315726",
+        "osm_fetched_at": "2026-06-16T13:17:29Z"
       },
       "geometry": {
         "type": "Point",
@@ -1024,7 +1079,8 @@
         "bicycle_parking": "stands",
         "capacity": 20,
         "fee": "no",
-        "id": "node/9655941713"
+        "id": "node/9655941713",
+        "osm_fetched_at": "2026-06-16T13:17:29Z"
       },
       "geometry": {
         "type": "Point",
@@ -1044,7 +1100,8 @@
         "capacity": 16,
         "covered": "no",
         "fee": "no",
-        "id": "node/9655941714"
+        "id": "node/9655941714",
+        "osm_fetched_at": "2026-06-16T13:17:29Z"
       },
       "geometry": {
         "type": "Point",
@@ -1063,7 +1120,8 @@
         "bicycle_parking": "stands",
         "capacity": 12,
         "fee": "no",
-        "id": "node/9655997544"
+        "id": "node/9655997544",
+        "osm_fetched_at": "2026-06-16T13:17:29Z"
       },
       "geometry": {
         "type": "Point",
@@ -1083,7 +1141,8 @@
         "capacity": 54,
         "covered": "no",
         "fee": "no",
-        "id": "node/9655997546"
+        "id": "node/9655997546",
+        "osm_fetched_at": "2026-06-16T13:17:29Z"
       },
       "geometry": {
         "type": "Point",
@@ -1099,7 +1158,8 @@
       "properties": {
         "access": "private",
         "amenity": "bicycle_parking",
-        "id": "node/9930084915"
+        "id": "node/9930084915",
+        "osm_fetched_at": "2026-06-16T13:17:29Z"
       },
       "geometry": {
         "type": "Point",
@@ -1115,7 +1175,8 @@
       "properties": {
         "access": "private",
         "amenity": "bicycle_parking",
-        "id": "node/11156679782"
+        "id": "node/11156679782",
+        "osm_fetched_at": "2026-06-16T13:17:29Z"
       },
       "geometry": {
         "type": "Point",
@@ -1132,7 +1193,8 @@
         "amenity": "bicycle_parking",
         "capacity": 6,
         "covered": "yes",
-        "id": "node/11465239259"
+        "id": "node/11465239259",
+        "osm_fetched_at": "2026-06-16T13:17:29Z"
       },
       "geometry": {
         "type": "Point",
@@ -1150,7 +1212,8 @@
         "bicycle_parking": "stands",
         "capacity": 4,
         "covered": "no",
-        "id": "node/12124311740"
+        "id": "node/12124311740",
+        "osm_fetched_at": "2026-06-16T13:17:29Z"
       },
       "geometry": {
         "type": "Point",
@@ -1166,7 +1229,8 @@
       "properties": {
         "amenity": "bicycle_parking",
         "capacity": 24,
-        "id": "node/12915275906"
+        "id": "node/12915275906",
+        "osm_fetched_at": "2026-06-16T13:17:29Z"
       },
       "geometry": {
         "type": "Point",
@@ -1182,7 +1246,8 @@
       "properties": {
         "amenity": "bicycle_parking",
         "capacity": 6,
-        "id": "node/13050220305"
+        "id": "node/13050220305",
+        "osm_fetched_at": "2026-06-16T13:17:29Z"
       },
       "geometry": {
         "type": "Point",
@@ -1197,7 +1262,8 @@
       "id": "node/13372404178",
       "properties": {
         "amenity": "bicycle_parking",
-        "id": "node/13372404178"
+        "id": "node/13372404178",
+        "osm_fetched_at": "2026-06-16T13:17:29Z"
       },
       "geometry": {
         "type": "Point",
@@ -1212,7 +1278,8 @@
       "id": "node/13372404179",
       "properties": {
         "amenity": "bicycle_parking",
-        "id": "node/13372404179"
+        "id": "node/13372404179",
+        "osm_fetched_at": "2026-06-16T13:17:29Z"
       },
       "geometry": {
         "type": "Point",
@@ -1228,7 +1295,8 @@
       "properties": {
         "amenity": "bicycle_parking",
         "capacity": 20,
-        "id": "node/13372497784"
+        "id": "node/13372497784",
+        "osm_fetched_at": "2026-06-16T13:17:29Z"
       },
       "geometry": {
         "type": "Point",
@@ -1244,7 +1312,8 @@
       "properties": {
         "amenity": "bicycle_parking",
         "capacity": 20,
-        "id": "node/13372497785"
+        "id": "node/13372497785",
+        "osm_fetched_at": "2026-06-16T13:17:29Z"
       },
       "geometry": {
         "type": "Point",
@@ -1260,7 +1329,8 @@
       "properties": {
         "amenity": "bicycle_parking",
         "capacity": 20,
-        "id": "node/13372497786"
+        "id": "node/13372497786",
+        "osm_fetched_at": "2026-06-16T13:17:29Z"
       },
       "geometry": {
         "type": "Point",
@@ -1279,7 +1349,8 @@
         "bicycle_parking": "shed",
         "covered": "yes",
         "fee": "no",
-        "id": "node/13387177138"
+        "id": "node/13387177138",
+        "osm_fetched_at": "2026-06-16T13:17:29Z"
       },
       "geometry": {
         "type": "Point",
@@ -1301,7 +1372,8 @@
         "covered": "no",
         "fee": "no",
         "operator": "Gemeente Deventer",
-        "id": "node/13546496685"
+        "id": "node/13546496685",
+        "osm_fetched_at": "2026-06-16T13:17:29Z"
       },
       "geometry": {
         "type": "Point",
@@ -1323,7 +1395,8 @@
         "covered": "no",
         "fee": "no",
         "operator": "Gemeente Deventer",
-        "id": "node/13546545033"
+        "id": "node/13546545033",
+        "osm_fetched_at": "2026-06-16T13:17:29Z"
       },
       "geometry": {
         "type": "Point",
@@ -1345,7 +1418,8 @@
         "covered": "no",
         "fee": "no",
         "operator": "Gemeente Deventer",
-        "id": "node/13546545034"
+        "id": "node/13546545034",
+        "osm_fetched_at": "2026-06-16T13:17:29Z"
       },
       "geometry": {
         "type": "Point",
@@ -1367,7 +1441,8 @@
         "covered": "no",
         "fee": "no",
         "operator": "Gemeente Deventer",
-        "id": "node/13546551949"
+        "id": "node/13546551949",
+        "osm_fetched_at": "2026-06-16T13:17:29Z"
       },
       "geometry": {
         "type": "Point",
@@ -1389,7 +1464,8 @@
         "covered": "no",
         "fee": "no",
         "operator": "Gemeente Deventer",
-        "id": "node/13546628227"
+        "id": "node/13546628227",
+        "osm_fetched_at": "2026-06-16T13:17:29Z"
       },
       "geometry": {
         "type": "Point",
@@ -1411,7 +1487,8 @@
         "covered": "no",
         "fee": "no",
         "operator": "Gemeente Deventer",
-        "id": "node/13546628228"
+        "id": "node/13546628228",
+        "osm_fetched_at": "2026-06-16T13:17:29Z"
       },
       "geometry": {
         "type": "Point",
@@ -1431,7 +1508,8 @@
         "capacity": 30,
         "covered": "no",
         "fee": "no",
-        "id": "node/13546809609"
+        "id": "node/13546809609",
+        "osm_fetched_at": "2026-06-16T13:17:29Z"
       },
       "geometry": {
         "type": "Point",
@@ -1451,7 +1529,8 @@
         "capacity": 24,
         "covered": "no",
         "fee": "no",
-        "id": "node/13546809610"
+        "id": "node/13546809610",
+        "osm_fetched_at": "2026-06-16T13:17:29Z"
       },
       "geometry": {
         "type": "Point",
@@ -1470,7 +1549,8 @@
         "bicycle_parking": "stands",
         "capacity": 30,
         "fee": "no",
-        "id": "node/13570293261"
+        "id": "node/13570293261",
+        "osm_fetched_at": "2026-06-16T13:17:29Z"
       },
       "geometry": {
         "type": "Point",
@@ -1489,7 +1569,8 @@
         "bicycle_parking": "stands",
         "capacity": 16,
         "fee": "no",
-        "id": "node/13570293262"
+        "id": "node/13570293262",
+        "osm_fetched_at": "2026-06-16T13:17:29Z"
       },
       "geometry": {
         "type": "Point",
@@ -1508,7 +1589,8 @@
         "bicycle_parking": "stands",
         "capacity": 16,
         "fee": "no",
-        "id": "node/13570293263"
+        "id": "node/13570293263",
+        "osm_fetched_at": "2026-06-16T13:17:29Z"
       },
       "geometry": {
         "type": "Point",
@@ -1527,7 +1609,8 @@
         "bicycle_parking": "stands",
         "capacity": 16,
         "fee": "no",
-        "id": "node/13570293264"
+        "id": "node/13570293264",
+        "osm_fetched_at": "2026-06-16T13:17:29Z"
       },
       "geometry": {
         "type": "Point",
@@ -1546,7 +1629,8 @@
         "bicycle_parking": "stands",
         "capacity": 32,
         "fee": "no",
-        "id": "node/13570293265"
+        "id": "node/13570293265",
+        "osm_fetched_at": "2026-06-16T13:17:29Z"
       },
       "geometry": {
         "type": "Point",
@@ -1565,7 +1649,8 @@
         "bicycle_parking": "stands",
         "capacity": 14,
         "fee": "no",
-        "id": "node/13570316000"
+        "id": "node/13570316000",
+        "osm_fetched_at": "2026-06-16T13:17:29Z"
       },
       "geometry": {
         "type": "Point",
@@ -1585,7 +1670,8 @@
         "capacity": 14,
         "covered": "no",
         "fee": "no",
-        "id": "node/13570346691"
+        "id": "node/13570346691",
+        "osm_fetched_at": "2026-06-16T13:17:29Z"
       },
       "geometry": {
         "type": "Point",
@@ -1604,7 +1690,8 @@
         "bicycle_parking": "stands",
         "capacity": 4,
         "fee": "no",
-        "id": "node/13570346692"
+        "id": "node/13570346692",
+        "osm_fetched_at": "2026-06-16T13:17:29Z"
       },
       "geometry": {
         "type": "Point",
@@ -1624,7 +1711,8 @@
         "capacity": 14,
         "covered": "no",
         "fee": "no",
-        "id": "node/13570346693"
+        "id": "node/13570346693",
+        "osm_fetched_at": "2026-06-16T13:17:29Z"
       },
       "geometry": {
         "type": "Point",
@@ -1643,7 +1731,8 @@
         "bicycle_parking": "stands",
         "capacity": 4,
         "fee": "no",
-        "id": "node/13570346694"
+        "id": "node/13570346694",
+        "osm_fetched_at": "2026-06-16T13:17:29Z"
       },
       "geometry": {
         "type": "Point",
@@ -1662,7 +1751,8 @@
         "bicycle_parking": "stands",
         "capacity": 4,
         "fee": "no",
-        "id": "node/13570346695"
+        "id": "node/13570346695",
+        "osm_fetched_at": "2026-06-16T13:17:29Z"
       },
       "geometry": {
         "type": "Point",
@@ -1681,7 +1771,8 @@
         "bicycle_parking": "stands",
         "capacity": 12,
         "fee": "no",
-        "id": "node/13570346696"
+        "id": "node/13570346696",
+        "osm_fetched_at": "2026-06-16T13:17:29Z"
       },
       "geometry": {
         "type": "Point",
@@ -1700,7 +1791,8 @@
         "bicycle_parking": "stands",
         "capacity": 4,
         "fee": "no",
-        "id": "node/13570346697"
+        "id": "node/13570346697",
+        "osm_fetched_at": "2026-06-16T13:17:29Z"
       },
       "geometry": {
         "type": "Point",
@@ -1719,7 +1811,8 @@
         "bicycle_parking": "wall_loops",
         "capacity": 40,
         "fee": "no",
-        "id": "node/13570346698"
+        "id": "node/13570346698",
+        "osm_fetched_at": "2026-06-16T13:17:29Z"
       },
       "geometry": {
         "type": "Point",
@@ -1738,7 +1831,8 @@
         "bicycle_parking": "stands",
         "capacity": 48,
         "fee": "no",
-        "id": "node/13570378301"
+        "id": "node/13570378301",
+        "osm_fetched_at": "2026-06-16T13:17:29Z"
       },
       "geometry": {
         "type": "Point",
@@ -1757,7 +1851,8 @@
         "bicycle_parking": "stands",
         "capacity": 62,
         "fee": "no",
-        "id": "node/13570678248"
+        "id": "node/13570678248",
+        "osm_fetched_at": "2026-06-16T13:17:29Z"
       },
       "geometry": {
         "type": "Point",
@@ -1776,7 +1871,8 @@
         "bicycle_parking": "stands",
         "capacity": 22,
         "fee": "no",
-        "id": "node/13570678249"
+        "id": "node/13570678249",
+        "osm_fetched_at": "2026-06-16T13:17:29Z"
       },
       "geometry": {
         "type": "Point",
@@ -1795,7 +1891,8 @@
         "bicycle_parking": "stands",
         "capacity": 22,
         "fee": "no",
-        "id": "node/13570678250"
+        "id": "node/13570678250",
+        "osm_fetched_at": "2026-06-16T13:17:29Z"
       },
       "geometry": {
         "type": "Point",
@@ -1814,7 +1911,8 @@
         "bicycle_parking": "stands",
         "capacity": 22,
         "fee": "no",
-        "id": "node/13570678251"
+        "id": "node/13570678251",
+        "osm_fetched_at": "2026-06-16T13:17:29Z"
       },
       "geometry": {
         "type": "Point",
@@ -1833,7 +1931,8 @@
         "bicycle_parking": "stands",
         "capacity": 12,
         "fee": "no",
-        "id": "node/13570678252"
+        "id": "node/13570678252",
+        "osm_fetched_at": "2026-06-16T13:17:29Z"
       },
       "geometry": {
         "type": "Point",
@@ -1852,7 +1951,8 @@
         "bicycle_parking": "handlebar_holder",
         "capacity": 396,
         "fee": "no",
-        "id": "node/13570683650"
+        "id": "node/13570683650",
+        "osm_fetched_at": "2026-06-16T13:17:29Z"
       },
       "geometry": {
         "type": "Point",
@@ -1871,7 +1971,8 @@
         "bicycle_parking": "stands",
         "capacity": 46,
         "fee": "no",
-        "id": "node/13570683651"
+        "id": "node/13570683651",
+        "osm_fetched_at": "2026-06-16T13:17:29Z"
       },
       "geometry": {
         "type": "Point",
@@ -1889,7 +1990,8 @@
         "amenity": "bicycle_parking",
         "bicycle_parking": "wall_loops",
         "fee": "no",
-        "id": "node/13570683652"
+        "id": "node/13570683652",
+        "osm_fetched_at": "2026-06-16T13:17:29Z"
       },
       "geometry": {
         "type": "Point",
@@ -1908,7 +2010,8 @@
         "bicycle_parking": "wall_loops",
         "capacity": 18,
         "fee": "no",
-        "id": "node/13570683653"
+        "id": "node/13570683653",
+        "osm_fetched_at": "2026-06-16T13:17:29Z"
       },
       "geometry": {
         "type": "Point",
@@ -1927,7 +2030,8 @@
         "bicycle_parking": "wall_loops",
         "capacity": 14,
         "fee": "no",
-        "id": "node/13570683654"
+        "id": "node/13570683654",
+        "osm_fetched_at": "2026-06-16T13:17:29Z"
       },
       "geometry": {
         "type": "Point",
@@ -1946,7 +2050,8 @@
         "bicycle_parking": "wall_loops",
         "capacity": 16,
         "fee": "no",
-        "id": "node/13570683655"
+        "id": "node/13570683655",
+        "osm_fetched_at": "2026-06-16T13:17:29Z"
       },
       "geometry": {
         "type": "Point",
@@ -1965,7 +2070,8 @@
         "bicycle_parking": "stands",
         "capacity": 12,
         "fee": "no",
-        "id": "node/13570683656"
+        "id": "node/13570683656",
+        "osm_fetched_at": "2026-06-16T13:17:29Z"
       },
       "geometry": {
         "type": "Point",
@@ -1984,7 +2090,8 @@
         "bicycle_parking": "wall_loops",
         "capacity": 4,
         "fee": "no",
-        "id": "node/13570683657"
+        "id": "node/13570683657",
+        "osm_fetched_at": "2026-06-16T13:17:29Z"
       },
       "geometry": {
         "type": "Point",
@@ -2001,7 +2108,8 @@
         "amenity": "bicycle_parking",
         "bicycle_parking": "stands",
         "capacity": 14,
-        "id": "node/13602876239"
+        "id": "node/13602876239",
+        "osm_fetched_at": "2026-06-16T13:17:29Z"
       },
       "geometry": {
         "type": "Point",
@@ -2018,7 +2126,8 @@
         "amenity": "bicycle_parking",
         "bicycle_parking": "stands",
         "capacity": 16,
-        "id": "node/13602876240"
+        "id": "node/13602876240",
+        "osm_fetched_at": "2026-06-16T13:17:29Z"
       },
       "geometry": {
         "type": "Point",
@@ -2035,7 +2144,8 @@
         "amenity": "bicycle_parking",
         "bicycle_parking": "stands",
         "capacity": 38,
-        "id": "node/13602981118"
+        "id": "node/13602981118",
+        "osm_fetched_at": "2026-06-16T13:17:29Z"
       },
       "geometry": {
         "type": "Point",
@@ -2053,7 +2163,8 @@
         "bicycle_parking": "stands",
         "capacity": 30,
         "covered": "no",
-        "id": "node/13602981119"
+        "id": "node/13602981119",
+        "osm_fetched_at": "2026-06-16T13:17:29Z"
       },
       "geometry": {
         "type": "Point",
@@ -2070,7 +2181,8 @@
         "amenity": "bicycle_parking",
         "bicycle_parking": "stands",
         "capacity": 16,
-        "id": "node/13602981120"
+        "id": "node/13602981120",
+        "osm_fetched_at": "2026-06-16T13:17:29Z"
       },
       "geometry": {
         "type": "Point",
@@ -2087,7 +2199,8 @@
         "amenity": "bicycle_parking",
         "bicycle_parking": "stands",
         "capacity": 10,
-        "id": "node/13602981121"
+        "id": "node/13602981121",
+        "osm_fetched_at": "2026-06-16T13:17:29Z"
       },
       "geometry": {
         "type": "Point",
@@ -2104,7 +2217,8 @@
         "amenity": "bicycle_parking",
         "bicycle_parking": "wall_loops",
         "capacity": 10,
-        "id": "node/13665688500"
+        "id": "node/13665688500",
+        "osm_fetched_at": "2026-06-16T13:17:29Z"
       },
       "geometry": {
         "type": "Point",
@@ -2124,7 +2238,8 @@
         "capacity": 24,
         "covered": "no",
         "fee": "no",
-        "id": "node/13714763488"
+        "id": "node/13714763488",
+        "osm_fetched_at": "2026-06-16T13:17:29Z"
       },
       "geometry": {
         "type": "Point",
@@ -2144,7 +2259,8 @@
         "capacity": 12,
         "covered": "no",
         "fee": "no",
-        "id": "node/13714763489"
+        "id": "node/13714763489",
+        "osm_fetched_at": "2026-06-16T13:17:29Z"
       },
       "geometry": {
         "type": "Point",
@@ -2164,7 +2280,8 @@
         "capacity": 5,
         "covered": "no",
         "fee": "no",
-        "id": "node/13717163596"
+        "id": "node/13717163596",
+        "osm_fetched_at": "2026-06-16T13:17:29Z"
       },
       "geometry": {
         "type": "Point",
@@ -2184,7 +2301,8 @@
         "capacity": 3,
         "covered": "no",
         "fee": "no",
-        "id": "node/13717163599"
+        "id": "node/13717163599",
+        "osm_fetched_at": "2026-06-16T13:17:29Z"
       },
       "geometry": {
         "type": "Point",
@@ -2204,7 +2322,8 @@
         "capacity": 9,
         "covered": "no",
         "fee": "no",
-        "id": "node/13717163600"
+        "id": "node/13717163600",
+        "osm_fetched_at": "2026-06-16T13:17:29Z"
       },
       "geometry": {
         "type": "Point",
@@ -2224,7 +2343,8 @@
         "capacity": 3,
         "covered": "no",
         "fee": "no",
-        "id": "node/13717189401"
+        "id": "node/13717189401",
+        "osm_fetched_at": "2026-06-16T13:17:29Z"
       },
       "geometry": {
         "type": "Point",
@@ -2244,7 +2364,8 @@
         "capacity": 4,
         "covered": "no",
         "fee": "no",
-        "id": "node/13717189402"
+        "id": "node/13717189402",
+        "osm_fetched_at": "2026-06-16T13:17:29Z"
       },
       "geometry": {
         "type": "Point",
@@ -2264,7 +2385,8 @@
         "capacity": 4,
         "covered": "no",
         "fee": "no",
-        "id": "node/13717189403"
+        "id": "node/13717189403",
+        "osm_fetched_at": "2026-06-16T13:17:29Z"
       },
       "geometry": {
         "type": "Point",
@@ -2284,7 +2406,8 @@
         "capacity": 5,
         "covered": "no",
         "fee": "no",
-        "id": "node/13717189404"
+        "id": "node/13717189404",
+        "osm_fetched_at": "2026-06-16T13:17:29Z"
       },
       "geometry": {
         "type": "Point",
@@ -2304,7 +2427,8 @@
         "capacity": 5,
         "covered": "no",
         "fee": "no",
-        "id": "node/13717189405"
+        "id": "node/13717189405",
+        "osm_fetched_at": "2026-06-16T13:17:29Z"
       },
       "geometry": {
         "type": "Point",
@@ -2324,7 +2448,8 @@
         "capacity": 3,
         "covered": "no",
         "fee": "no",
-        "id": "node/13717189409"
+        "id": "node/13717189409",
+        "osm_fetched_at": "2026-06-16T13:17:29Z"
       },
       "geometry": {
         "type": "Point",
@@ -2340,7 +2465,8 @@
       "properties": {
         "amenity": "bicycle_parking",
         "capacity": 20,
-        "id": "node/13729586271"
+        "id": "node/13729586271",
+        "osm_fetched_at": "2026-06-16T13:17:29Z"
       },
       "geometry": {
         "type": "Point",
@@ -2358,7 +2484,8 @@
         "capacity": 24,
         "covered": "no",
         "fee": "no",
-        "id": "node/13729593733"
+        "id": "node/13729593733",
+        "osm_fetched_at": "2026-06-16T13:17:29Z"
       },
       "geometry": {
         "type": "Point",
@@ -2374,7 +2501,8 @@
       "properties": {
         "amenity": "bicycle_parking",
         "capacity": 30,
-        "id": "node/13729593734"
+        "id": "node/13729593734",
+        "osm_fetched_at": "2026-06-16T13:17:29Z"
       },
       "geometry": {
         "type": "Point",
@@ -2393,7 +2521,8 @@
         "bicycle_parking": "stands",
         "capacity": 25,
         "covered": "no",
-        "id": "node/13734870470"
+        "id": "node/13734870470",
+        "osm_fetched_at": "2026-06-16T13:17:29Z"
       },
       "geometry": {
         "type": "Point",
@@ -2411,7 +2540,8 @@
         "bicycle_parking": "wall_loops",
         "capacity": 24,
         "covered": "no",
-        "id": "node/13744486520"
+        "id": "node/13744486520",
+        "osm_fetched_at": "2026-06-16T13:17:29Z"
       },
       "geometry": {
         "type": "Point",
@@ -2428,7 +2558,8 @@
         "amenity": "bicycle_parking",
         "bicycle_parking": "stands",
         "capacity": 16,
-        "id": "node/13744486521"
+        "id": "node/13744486521",
+        "osm_fetched_at": "2026-06-16T13:17:29Z"
       },
       "geometry": {
         "type": "Point",
@@ -2445,7 +2576,8 @@
         "amenity": "bicycle_parking",
         "bicycle_parking": "stands",
         "capacity": 18,
-        "id": "node/13744524447"
+        "id": "node/13744524447",
+        "osm_fetched_at": "2026-06-16T13:17:29Z"
       },
       "geometry": {
         "type": "Point",
@@ -2461,7 +2593,8 @@
       "properties": {
         "amenity": "bicycle_parking",
         "capacity": 18,
-        "id": "node/13744524448"
+        "id": "node/13744524448",
+        "osm_fetched_at": "2026-06-16T13:17:29Z"
       },
       "geometry": {
         "type": "Point",
@@ -2477,7 +2610,8 @@
       "properties": {
         "amenity": "bicycle_parking",
         "bicycle_parking": "20",
-        "id": "node/13744524449"
+        "id": "node/13744524449",
+        "osm_fetched_at": "2026-06-16T13:17:29Z"
       },
       "geometry": {
         "type": "Point",
@@ -2493,7 +2627,8 @@
       "properties": {
         "amenity": "bicycle_parking",
         "capacity": 16,
-        "id": "node/13744524450"
+        "id": "node/13744524450",
+        "osm_fetched_at": "2026-06-16T13:17:29Z"
       },
       "geometry": {
         "type": "Point",
@@ -2510,7 +2645,8 @@
         "amenity": "bicycle_parking",
         "bicycle_parking": "stands",
         "capacity": 16,
-        "id": "node/13744524451"
+        "id": "node/13744524451",
+        "osm_fetched_at": "2026-06-16T13:17:29Z"
       },
       "geometry": {
         "type": "Point",
@@ -2527,7 +2663,8 @@
         "amenity": "bicycle_parking",
         "bicycle_parking": "stands",
         "capacity": 16,
-        "id": "node/13744524452"
+        "id": "node/13744524452",
+        "osm_fetched_at": "2026-06-16T13:17:29Z"
       },
       "geometry": {
         "type": "Point",
@@ -2544,7 +2681,8 @@
         "amenity": "bicycle_parking",
         "bicycle_parking": "stands",
         "capacity": 12,
-        "id": "node/13744524453"
+        "id": "node/13744524453",
+        "osm_fetched_at": "2026-06-16T13:17:29Z"
       },
       "geometry": {
         "type": "Point",
@@ -2561,7 +2699,8 @@
         "amenity": "bicycle_parking",
         "bicycle_parking": "stands",
         "capacity": 8,
-        "id": "node/13744524454"
+        "id": "node/13744524454",
+        "osm_fetched_at": "2026-06-16T13:17:29Z"
       },
       "geometry": {
         "type": "Point",
@@ -2581,7 +2720,8 @@
         "capacity": 14,
         "covered": "no",
         "fee": "no",
-        "id": "node/13745878734"
+        "id": "node/13745878734",
+        "osm_fetched_at": "2026-06-16T13:17:29Z"
       },
       "geometry": {
         "type": "Point",
@@ -2601,7 +2741,8 @@
         "capacity": 15,
         "covered": "no",
         "fee": "no",
-        "id": "node/13745878738"
+        "id": "node/13745878738",
+        "osm_fetched_at": "2026-06-16T13:17:29Z"
       },
       "geometry": {
         "type": "Point",
@@ -2617,7 +2758,8 @@
       "properties": {
         "amenity": "bicycle_parking",
         "capacity": 16,
-        "id": "node/13758264765"
+        "id": "node/13758264765",
+        "osm_fetched_at": "2026-06-16T13:17:29Z"
       },
       "geometry": {
         "type": "Point",
@@ -2633,7 +2775,8 @@
       "properties": {
         "amenity": "bicycle_parking",
         "capacity": 19,
-        "id": "node/13758377589"
+        "id": "node/13758377589",
+        "osm_fetched_at": "2026-06-16T13:17:29Z"
       },
       "geometry": {
         "type": "Point",
@@ -2649,7 +2792,8 @@
       "properties": {
         "amenity": "bicycle_parking",
         "capacity": 12,
-        "id": "node/13758396674"
+        "id": "node/13758396674",
+        "osm_fetched_at": "2026-06-16T13:17:29Z"
       },
       "geometry": {
         "type": "Point",
@@ -2668,7 +2812,8 @@
         "bicycle_parking": "stands",
         "covered": "no",
         "fee": "no",
-        "id": "node/13840350849"
+        "id": "node/13840350849",
+        "osm_fetched_at": "2026-06-16T13:17:29Z"
       },
       "geometry": {
         "type": "Point",
@@ -2687,7 +2832,8 @@
         "capacity": 15,
         "covered": "no",
         "fee": "no",
-        "id": "node/13922888785"
+        "id": "node/13922888785",
+        "osm_fetched_at": "2026-06-16T13:17:29Z"
       },
       "geometry": {
         "type": "Point",
@@ -2704,7 +2850,8 @@
         "amenity": "bicycle_parking",
         "bicycle_parking": "stands",
         "capacity": 6,
-        "id": "node/13944717489"
+        "id": "node/13944717489",
+        "osm_fetched_at": "2026-06-16T13:17:29Z"
       },
       "geometry": {
         "type": "Point",
@@ -2721,7 +2868,8 @@
         "amenity": "bicycle_parking",
         "bicycle_parking": "stands",
         "capacity": 4,
-        "id": "node/13944717490"
+        "id": "node/13944717490",
+        "osm_fetched_at": "2026-06-16T13:17:29Z"
       },
       "geometry": {
         "type": "Point",
@@ -2738,7 +2886,8 @@
         "amenity": "bicycle_parking",
         "bicycle_parking": "stands",
         "capacity": 6,
-        "id": "node/13944717491"
+        "id": "node/13944717491",
+        "osm_fetched_at": "2026-06-16T13:17:29Z"
       },
       "geometry": {
         "type": "Point",
@@ -2755,7 +2904,8 @@
         "amenity": "bicycle_parking",
         "bicycle_parking": "stands",
         "capacity": 6,
-        "id": "node/13944717492"
+        "id": "node/13944717492",
+        "osm_fetched_at": "2026-06-16T13:17:29Z"
       },
       "geometry": {
         "type": "Point",
@@ -2772,7 +2922,8 @@
         "amenity": "bicycle_parking",
         "bicycle_parking": "stands",
         "capacity": 8,
-        "id": "node/13944717493"
+        "id": "node/13944717493",
+        "osm_fetched_at": "2026-06-16T13:17:29Z"
       },
       "geometry": {
         "type": "Point",
@@ -2789,7 +2940,8 @@
         "amenity": "bicycle_parking",
         "bicycle_parking": "stands",
         "capacity": 6,
-        "id": "node/13944717494"
+        "id": "node/13944717494",
+        "osm_fetched_at": "2026-06-16T13:17:29Z"
       },
       "geometry": {
         "type": "Point",
@@ -2806,7 +2958,8 @@
         "amenity": "bicycle_parking",
         "bicycle_parking": "stands",
         "capacity": 8,
-        "id": "node/13944717495"
+        "id": "node/13944717495",
+        "osm_fetched_at": "2026-06-16T13:17:29Z"
       },
       "geometry": {
         "type": "Point",
@@ -2817,7 +2970,7 @@
       }
     }
   ],
-  "generated_at": "2026-06-16T13:11:09Z",
+  "generated_at": "2026-06-16T13:17:29Z",
   "source": "OpenStreetMap via Overpass API (gemeente Deventer)",
   "feature_count": 153
 }
