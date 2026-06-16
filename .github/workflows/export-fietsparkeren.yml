@@ -68,7 +68,8 @@ jobs:
           # (foreign members, RFC 7946 §6.1 — mapping-libs negeren ze).
           osmtogeojson data/bicycle_parking.osm.json \
           | jq '
-              (.features[]?.properties.capacity |=
+              (now | todate) as $ts
+              | (.features[]?.properties.capacity |=
                 if . == null or . == "" then null
                 elif (type == "number") then .
                 elif (type == "string") then (try (tonumber | floor) catch null)
@@ -76,8 +77,9 @@ jobs:
                 end
               )
               | (.features[]?.properties |= with_entries(select(.value != null)))
+              | (.features[]?.properties.osm_fetched_at = $ts)
               | . + {
-                  generated_at: (now | todate),
+                  generated_at: $ts,
                   source: "OpenStreetMap via Overpass API (gemeente Deventer)",
                   feature_count: (.features | length)
                 }
