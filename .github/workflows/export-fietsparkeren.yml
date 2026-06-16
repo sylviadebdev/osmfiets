@@ -1,4 +1,4 @@
-name: Export OSM fietsparkeren Deventer (punten + polygon-centroids)
+name: Export OSM fietsparkeren gemeente Deventer
 
 on:
   schedule:
@@ -20,65 +20,67 @@ jobs:
           sudo apt-get install -y gdal-bin npm jq
           npm install -g osmtogeojson
 
-      - name: Overpass – punten
-        run: |
-          mkdir -p data
-          curl -sS -w "\nHTTP status: %{http_code}\n" \
-            -A "osmfiets export (github.com/${{ github.repository }})" \
-            --retry 3 --retry-delay 10 --retry-all-errors \
-            --data-urlencode "data@querypoints.overpassql" \
-            https://overpass-api.de/api/interpreter \
-            -o data/bicycle_parking_points.osm.json
-          osmtogeojson data/bicycle_parking_points.osm.json \
-            > data/bicycle_parking_points.geojson
-
-      - name: Overpass – polygonen als punten
+      - name: Overpass – ophalen (gemeente Deventer)
+        env:
+          UA: "osmfiets export (github.com/${{ github.repository }})"
+          MIRRORS: >-
+            https://overpass-api.de/api/interpreter
+            https://overpass.kumi.systems/api/interpreter
         run: |
           mkdir -p data
 
-          HTTP_CODE=$(curl -sS -w "%{http_code}" \
-            -A "osmfiets export (github.com/${{ github.repository }})" \
-            --retry 3 --retry-delay 10 --retry-all-errors \
-            --data-urlencode "data@querypolygons.overpassql" \
-            https://overpass-api.de/api/interpreter \
-            -o data/bicycle_parking_polygon_centroids.osm.json)
-
-          echo "HTTP status: $HTTP_CODE"
-
-          if [ "$HTTP_CODE" -ne 200 ]; then
-            echo "Overpass request failed"
-            cat data/bicycle_parking_polygon_centroids.osm.json
-            exit 1
-          fi
-
-          osmtogeojson data/bicycle_parking_polygon_centroids.osm.json \
-            > data/bicycle_parking_polygon_centroids.geojson
-
-
-      - name: Merge to 1 points layer (cast capacity to number)
-        run: |
-          jq -s '
-          {
-            type: "FeatureCollection",
-            features: (.[0].features + .[1].features)
+          # Haal de Overpass-query op; probeer meerdere mirrors en
+          # accepteer alleen een geldige JSON-respons. De publieke
+          # instances geven bij drukte regelmatig 504/HTML terug.
+          fetch_overpass () {
+            query_file="$1"
+            out_file="$2"
+            for url in $MIRRORS; do
+              echo "→ $query_file via $url"
+              http=$(curl -sS -w "%{http_code}" \
+                -A "$UA" \
+                --retry 3 --retry-delay 10 --retry-all-errors \
+                --max-time 180 \
+                --data-urlencode "data@${query_file}" \
+                "$url" \
+                -o "$out_file" || true)
+              echo "  HTTP $http"
+              if [ "$http" = "200" ] && jq -e . "$out_file" >/dev/null 2>&1; then
+                echo "  OK"
+                return 0
+              fi
+              echo "  mislukt, volgende mirror…"
+            done
+            echo "Alle Overpass-mirrors faalden voor $query_file"
+            head -c 500 "$out_file"
+            return 1
           }
-          | (.features[]?.properties.capacity |=
-              if . == null or . == "" then null
-              elif (type == "number") then .
-              elif (type == "string") then (try (tonumber | floor) catch null)
-              else null
-              end
-            )
-          | (.features[]?.properties |= with_entries(select(.value != null)))
-          ' \
-          data/bicycle_parking_points.geojson \
-          data/bicycle_parking_polygon_centroids.geojson \
+
+          fetch_overpass query.overpassql data/bicycle_parking.osm.json
+
+      - name: GeoJSON + capacity normaliseren
+        run: |
+          # OSM -> GeoJSON, daarna capacity casten naar een getal en
+          # lege properties wegwerken.
+          osmtogeojson data/bicycle_parking.osm.json \
+          | jq '
+              (.features[]?.properties.capacity |=
+                if . == null or . == "" then null
+                elif (type == "number") then .
+                elif (type == "string") then (try (tonumber | floor) catch null)
+                else null
+                end
+              )
+              | (.features[]?.properties |= with_entries(select(.value != null)))
+            ' \
           > data/bicycle_parking_all_points.geojson
+
+          echo "Features: $(jq '.features | length' data/bicycle_parking_all_points.geojson)"
 
       - name: Commit outputs
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add data/bicycle_parking_points.geojson data/bicycle_parking_polygon_centroids.geojson data/bicycle_parking_all_points.geojson
+          git add data/bicycle_parking_all_points.geojson
           git commit -m "Update OSM fietsparkeren exports" || echo "No changes"
           git push
